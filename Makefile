@@ -1,5 +1,5 @@
 CMD_HEAD = docker run --rm -v $(shell pwd):/documents/ --user "$(shell id -u):$(shell id -g)" asciidoctor/docker-asciidoctor
-TGT_DIR = /documents/tgt
+TGT_DIR = /documents/build
 CMD_TAIL = /documents/index.adoc -o $(TGT_DIR)
 
 .PHONY: html pdf clean
