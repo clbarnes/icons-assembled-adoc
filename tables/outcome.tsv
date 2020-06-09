@@ -1,0 +1,5 @@
+Effect	Outcome
+Less than 0	Failure. The effort fails to achieve the desired effect.
+0-2	Moderate success. The effort succeeds by a small margin.
+3-4	Major success. The effort succeeds enough to be noticeably well done.
+5 or more	Massive success. Not only is the effort noticeably successful, it has additional secondary benefits. 
