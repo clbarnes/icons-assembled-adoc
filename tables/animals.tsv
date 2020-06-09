@@ -1,0 +1,25 @@
+	PRO 	CRD 	STR 	INT 	AWE 	WIL 	STA 	Notes
+Bear 	4 	3 	6 	1 	3 	3 	9 	Claws & bite (slashing damage 3)
+Cat 	2 	4 	* 	1 	3 	2 	2 	Claws (slashing damage 1)
+Cheetah 	4 	4 	3 	1 	4 	3 	6 	Claws & bite (slashing damage 3), Running Expert, also other mediumsized great cats (without Running).
+Crocodile 	3 	2 	5 	1 	3 	2 	7 	Bite (slashing damage 4)
+Dog 	2 	3 	2 	1 	3 	2 	4 	Bite (slashing damage 2), Medium-sized, +1 Str for larger, +1 PRO for fight-trained, use cat abilities for small dogs.
+Dolphin 	3 	4 	3 	2 	4 	3 	6 	Aquatic 3, Supersense (Sonar)
+Eagle 	3 	4 	1 	1 	5 	3 	4 	Claws (slashing damage 2), Flight 3, also falcons, hawks, and other birds of prey
+Electric eel 	2 	3 	1 	* 	3 	2 	3 	Aura (Electricity) 3
+Elephant 	3 	2 	7 	1 	3 	3 	10 	Tusks (slashing damage 4)
+Gorilla 	3 	4 	6 	1 	3 	3 	9	n/a
+Hippopotamus 	3 	2 	6 	1 	3 	2 	8 	Bite (slashing damage 3)
+Horse 	2 	3 	6 	1 	3 	2 	8 	Running Expert
+Lion 	5 	4 	5 	1 	4 	3 	8 	Claws & bite(slashing damage 4)
+Monkey 	3 	6 	* 	1 	4 	3 	3 	Prehensile tail
+Orca 	4 	3 	7 	1 	3 	3 	10 	Bite (slashing damage 5), Aquatic 3, Supersense (Sonar)
+Python 	4 	4 	4 	1 	4 	2 	6 	Bite (slashing damage 3), Wrestling Expert
+Rhinoceros 	3 	2 	7 	1 	3 	3 	10 	Gore (slashing damage 4)
+Shark, great white 	5 	3 	5 	1 	4 	4 	9 	Aquatic 2, Bite (slashing damage 5)
+Squid, giant 	4 	4 	8 	1 	3 	3 	11 	Aquatic 2
+Swarm 	3 	4 	* 	* 	3 	* 	4 	Insects and other tiny creatures. Collective stings (bashing damage 1), “Gaseous” Form 3
+Viper 	4 	5 	* 	1 	3 	2 	2 	Bite (0 Stamina damage but injects Affliction 2 poison)
+Whale 	3 	2 	8 	2 	3 	3 	11 	Aquatic 2, Supersense (Sonar)
+Wolf 	4 	4 	3 	1 	4 	3 	7 	Claws & bite (slashing damage 3)
+Wolverine 	5 	3 	3 	1 	4 	4 	7 	Claws & bite (slashing damage 3)

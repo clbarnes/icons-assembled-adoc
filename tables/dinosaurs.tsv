@@ -1,0 +1,6 @@
+ 	PRO 	CRD 	STR 	INT 	AWE 	WIL 	STA 	Notes
+Apatosaurus 	1 	1 	9 	* 	3 	1 	10 	Brontosaurus, brachiosaurus, and similar herbivores.
+Deinonychus 	4 	4 	5 	* 	4 	2 	7 	Bite & claws (slashing damage 4), Running
+Pterodactyl 	3 	3 	5 	* 	4 	2 	7 	Beak & claws (slashing damage 4), Flight 2
+Triceratops 	4 	2 	7 	* 	4 	2 	9 	Horns (slashing damage 5)
+Tyrannosaurus 	5 	3 	8 	* 	4 	3 	11 	Bite (slashing damage 6), Running, also smaller carnosaurs (Str 7)
