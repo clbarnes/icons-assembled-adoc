@@ -1,0 +1,16 @@
+= Creatures
+
+The following are some examples of common creatures -- primarily mundane animals -- you can use in your Icons game.
+They may be minions, pets, summoned by Animal Control powers, or potential models for characters with animal-like abilities.
+Abilities listed with an asterisk (\*) are "off the scale" -- too low to be considered -- and can effectively be treated as level 0.
+"Running" under Notes acts like the Athletics specialty for ground movement, adding to the creature's effective Coordination.
+
+[%header,format=tsv]
+|===
+include::../tables/animals.tsv[]
+|===
+
+[%header,format=tsv]
+|===
+include::../tables/dinosaurs.tsv[]
+|===
