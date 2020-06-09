@@ -1,0 +1,40 @@
+= ICONS: Superpowered Roleplaying
+:!player-only:
+
+:leveloffset: +1
+
+include::chapters/credits.adoc[]
+
+include::chapters/introduction.adoc[]
+
+include::chapters/the_basics.adoc[]
+
+include::chapters/hero_creation.adoc[]
+
+include::chapters/team_creation.adoc[]
+
+include::chapters/abilities.adoc[]
+
+include::chapters/specialties.adoc[]
+
+include::chapters/powers.adoc[]
+
+include::chapters/taking_action.adoc[]
+
+include::chapters/determination.adoc[]
+
+ifndef::player-only[]
+
+include::chapters/game_mastering.adoc[]
+
+include::chapters/villains.adoc[]
+
+include::chapters/stock_characters.adoc[]
+
+include::chapters/creatures.adoc[]
+
+endif::player-only[]
+
+include::LICENSE.adoc[]
+
+:leveloffset: -1
