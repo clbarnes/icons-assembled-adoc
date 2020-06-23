@@ -1,7 +1,8 @@
 = The basics
 Icons uses some systems for describing things in game-terms and
 determining the outcome of actions the heroes take in the course of the
-adventure. This section describes the basic concepts of the game and is
+adventure.
+This section describes the basic concepts of the game and is
 essential in understanding the rest of the game rules.
 
 [[levels_and_scale]]
@@ -14,11 +15,14 @@ best.
 
 On the Icons scale, 3 is considered average, with the lower levels as
 below average and weak and the higher levels as better than average, all
-the way up to positively godlike. Because the scale is calibrated for
+the way up to positively godlike.
+Because the scale is calibrated for
 superheroes, level 6 is about the limit for anything realistically
-human-like, as opposed to superhuman. This divides the scale into
+human-like, as opposed to superhuman.
+This divides the scale into
 roughly three tiers: low (1-2), normal human (3-6) and superhuman
-(7-10). Here is a comparison of the different levels in terms of
+(7-10).
+Here is a comparison of the different levels in terms of
 ability:
 
 [cols=",,",options="header",]
@@ -42,7 +46,8 @@ ability:
 The scale is intended to cover a broad, but limited, range of levels.
 There are many cases when things are simply "off the scale." The 1 to 10
 scale doesn't accurately measure the strength of an ant, for example, or
-the mass of the entire Earth; those things are off the scale. The Game
+the mass of the entire Earth; those things are off the scale.
+The Game
 Mastering section talks more about dealing with things off the scale but
 the short answer is; if they are, don't worry about them, just use
 common sense.
@@ -52,13 +57,15 @@ common sense.
 
 Although not mechanically necessary, Game Masters may wish to assign
 descriptive names to the various levels on the scale as a means of
-adding additional flavor to the game. It can be more fun to describe a
+adding additional flavor to the game.
+It can be more fun to describe a
 hero's Strength level as "Astounding" for example, rather than "8".
 
 On the other hand, the game rules use numbers because they are shorter
 (it's easier to notate "6" rather than "Extraordinary" in text,
 formulas, and character sheets) and clearer, especially where math is
-involved. Numerical notation also allows you to "skin" whatever set of
+involved.
+Numerical notation also allows you to "skin" whatever set of
 adjectives you prefer over the numbers for your own game.
 
 == Dice
@@ -67,7 +74,8 @@ Icons uses two differently colored six-sided dice, abbreviated "d6" and
 referred to simply as "the dice".
 
 When making tests (see Tests, following), roll the dice, designating one
-die "positive" and one "negative" before you roll. Subtract the result
+die "positive" and one "negative" before you roll.
+Subtract the result
 of the negative die from the positive die to get a result from +5 to –5,
 with odds weighted towards a middle or 0 result, as follows:
 
@@ -94,7 +102,8 @@ result, with the same probabilities.)
 
 So only about one roll in fifty will be a +5 or a –5 and the majority
 (nearly sixty percent) of the time, results will be 0 or greater, with a
-+1 or better over one-third of the time. This gives you a pretty good
++1 or better over one-third of the time.
+This gives you a pretty good
 idea of a character's chances of success at any given test of an
 ability.
 
@@ -102,16 +111,19 @@ ability.
 
 All Icons characters have certain abilities, rated on the scale,
 providing a measurement of the characters' capabilities, or what that
-character can reasonably be expected to accomplish. So, for example, a
+character can reasonably be expected to accomplish.
+So, for example, a
 character with Awareness 2 (below average) isn't especially quick on the
-uptake, and isn't going to regularly notice much. On the other hand, a
+uptake, and isn't going to regularly notice much.
+On the other hand, a
 character with Strength 6 is among the strongest human beings ever, and
 finds average tests of strength ridiculously easy.
 
 There are six abilities, three physical and three mental: Prowess,
 Coordination, and Strength, plus Intellect, Awareness, and Willpower.
 
-Abilities are described in detail in their own section on p. XXX.
+Abilities are described in detail in their own section on p.
+XXX.
 
 == Tests
 
@@ -122,8 +134,10 @@ test of the character's ability.
 === Effort
 
 To make a test, roll the dice and add the result (positive, negative, or
-zero) to the ability level. This determines the effort that goes into
-the test. For example, a roll of +1 and an ability of 3 gives an effort
+zero) to the ability level.
+This determines the effort that goes into
+the test.
+For example, a roll of +1 and an ability of 3 gives an effort
 of 4, or above-average effort.
 
 === Difficulty
@@ -131,19 +145,23 @@ of 4, or above-average effort.
 Some tests require a minimum amount of effort, called the test's
 difficulty, which is rated on the scale like other things, from the
 absolute minimum to cosmic levels of difficulty for nigh-impossible
-tests. The difficulty is subtracted from the effort of the test to get
+tests.
+The difficulty is subtracted from the effort of the test to get
 the effect.
 
 So, in the previous example, a roll of +1 and ability 3 have an effort
 of 4, but with a difficulty 2 test, the effect is only 2, or 4 (the
-effort) minus 2 (the difficulty). If the effort isn't at least equal to
+effort) minus 2 (the difficulty).
+If the effort isn't at least equal to
 the difficulty, it results in a negative effect.
 
 === Modifiers
 
-Some circumstances impose modifiers on a test. A modifier takes the form
+Some circumstances impose modifiers on a test.
+A modifier takes the form
 of an additional value added the effort (a bonus, expressed as a plus)
-or the difficulty (a penalty, expressed as a minus). For example, moving
+or the difficulty (a penalty, expressed as a minus).
+For example, moving
 and attacking on the same page results in a –1 penalty on your attack
 test, increasing the test's difficulty by 1.
 
@@ -185,64 +203,77 @@ and your own ability to make the whole thing sound like a lot of fun.
 === Reactions
 
 With its focus on the heroes, only the players make tests in Icons, the
-Game Master does not. Whenever a GM-controlled character takes an action
+Game Master does not.
+Whenever a GM-controlled character takes an action
 against a player-controlled hero, it is a test of the hero's ability to
-avoid or resist it. The hero's player makes a test to oppose or resist
+avoid or resist it.
+The hero's player makes a test to oppose or resist
 that action as a reaction (so called because it happens in response to
 another character's action).
 
 So, for example, when a villain attacks, the hero's player tests a
 defensive ability (Prowess or Coordination most often) as a reaction
 against a difficulty of the villain's attacking ability, determining the
-outcome of the attack. Similarly, the heroes' attacks are made against
+outcome of the attack.
+Similarly, the heroes' attacks are made against
 the difficulty based on the target's defensive ability, but the target
 doesn't make a test, the hero's player does.
 
 When GM characters take actions that don't involve the heroes, the GM
 determines the outcome based on their capabilities; generally assume the
 character functions at their normal capability unless the story dictates
-a stroke of good or bad luck. In other words, any reasonable result the
+a stroke of good or bad luck.
+In other words, any reasonable result the
 GM wants can happen.
 
 == Specialties
 
 Each ability in Icons covers a lot of ground, so characters may have
 specialties reflecting aspects of their abilities where they are
-particularly proficient. For example, a character with the Physics
+particularly proficient.
+For example, a character with the Physics
 specialty of Intellect knows more about physics, essentially having a
-higher level of ability in that area. Likewise, a character with a
+higher level of ability in that area.
+Likewise, a character with a
 Martial Arts specialty in Prowess is a better unarmed fighter.
 
-Specialties and their uses are described in detail on p. XXX.
+Specialties and their uses are described in detail on p.
+XXX.
 
 == Powers
 
 Powers are special abilities, what puts the "super" into "superhero".
 Like normal abilities, powers have levels measuring their effectiveness
-on the scale. Unlike normal abilities, not all characters have powers.
+on the scale.
+Unlike normal abilities, not all characters have powers.
 While everybody has some level in the normal abilities (even if it's
 just a 1 or 2), powers are rare and vary from character to character.
 The heroes and villains in Icons typically have powers, but normal
 people, by definition, do not.
 
-Powers and their effects are described in detail on p. XXX.
+Powers and their effects are described in detail on p.
+XXX.
 
 == Determination
 
 The difference between a hero and someone who just gets lucky sometimes
-is Determination. It's what lets heroes pull off some amazing feats when
+is Determination.
+It's what lets heroes pull off some amazing feats when
 the chips are down, and what lets players decide which tests are the
 most important for their heroes to accomplish.
 
 Characters in Icons have a pool of Determination points players use to
-accomplish these things. You may want to use tokens like poker chips or
+accomplish these things.
+You may want to use tokens like poker chips or
 glass beads to help track how much Determination characters have, as the
 total fluctuates often during play.
 
 Using Determination is based around a hero's Qualities, descriptive
-terms or phrases about the heroes. Gaining more Determination involves
+terms or phrases about the heroes.
+Gaining more Determination involves
 the hero's Qualities and Challenges.
 
 Qualities and Challenges together describe the different Aspects of a
-character. Determination and how it works is described in detail on p.
+character.
+Determination and how it works is described in detail on p.
 XXX.

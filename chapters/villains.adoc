@@ -1,24 +1,32 @@
 = Villains
-Villains are crucial to superheroes. They don't just provide antagonism
--- they demonstrate exactly what it is that makes the hero a hero. They
+Villains are crucial to superheroes.
+They don't just provide antagonism
+-- they demonstrate exactly what it is that makes the hero a hero.
+They
 highlight the strengths of the character and stand in direct contrast to
-everything the character represents. In a very real sense, villains are
+everything the character represents.
+In a very real sense, villains are
 a part of a hero's identity.
 
 For this reason, the first place to go when you're considering villains
-for your game is to your players. Ask them who their personal
-arch-villain should be. They might be full of ideas, or they might be
-keen to let you come up with the bad guy. Either way, invite them to
+for your game is to your players.
+Ask them who their personal
+arch-villain should be.
+They might be full of ideas, or they might be
+keen to let you come up with the bad guy.
+Either way, invite them to
 participate in the creation of your core villainous concepts.
 
 [[archenemies_master_villains]]
 == Archenemies & Master Villains
 
-For each character in your game, you should devise an archenemy. This is
+For each character in your game, you should devise an archenemy.
+This is
 the character who is the eternal thorn in the character's side, the one
 who will keep coming back to make the character's life difficult.
 
-For the group as a whole, you should devise a master villain. This is
+For the group as a whole, you should devise a master villain.
+This is
 the character who is the fearsome recurring threat for the entire
 super-team, the one they fear most and desperately want to bring to
 justice.
@@ -27,21 +35,25 @@ justice.
 === Archenemy Powers
 
 An archenemy's powers should in some way reflect the powers of the hero
-they partner. There are two main ways to achieve this:
+they partner.
+There are two main ways to achieve this:
 
 Firstly, the villain could have powers that are a natural opposite of
-the hero's. For example, a fire-based hero could be matched with an
+the hero's.
+For example, a fire-based hero could be matched with an
 ice-based villain; a super-technician could be matched against a
 magician.
 
 Alternatively, the villain could have powers that are a natural match
-for the hero's. For example, a winged melee combatant could be matched
+for the hero's.
+For example, a winged melee combatant could be matched
 with another flying close-fighter; a superstrong brawler could match
 another superstrong brawler; a genius tactician could face off against
 the only mind cleverer than his.
 
 A less common approach is to make an archenemy's powers be a different
-variation on the same theme as the hero's. For example, a character who
+variation on the same theme as the hero's.
+For example, a character who
 derives their power from the sacred spirit of the lion might have as an
 arch-villain a character who derives their power from the sacred spirit
 of the hyena -- their power suites might look entirely different and not
@@ -52,17 +64,21 @@ theme.
 === Archenemy Role
 
 The role of an archenemy in story terms is to highlight the most
-important aspects of the hero. Every time the arch-villain comes on the
+important aspects of the hero.
+Every time the arch-villain comes on the
 scene, it should make it more clear for everyone around the table just
 what it is that makes this hero special and heroic.
 
-Consider the personal theme of the hero. This could take any number of
+Consider the personal theme of the hero.
+This could take any number of
 forms -- a driving motivation, a code of honor, a continuing moral
-dilemma, and so on. The archenemy should push the core of this theme
+dilemma, and so on.
+The archenemy should push the core of this theme
 right to center stage, and shine light on it from a new direction.
 
 Consider a character whose overwhelming motivation is patriotism -- a
-heroic love of country and its people. The character's archenemy could
+heroic love of country and its people.
+The character's archenemy could
 be a character who is also a patriot, but one who exemplifies a dark
 side of patriotism, such as blind love of authority and racism.
 Alternatively, the archenemy could represent anarchy, hatred of
@@ -70,7 +86,8 @@ government and authority, the chaotic answer to the hero's order.
 
 A character who is trying constantly to live up to the memory of his
 heroic father might have an archenemy who is a neglectful son, trying to
-destroy the legacy of his own father. The archenemy might be a bad
+destroy the legacy of his own father.
+The archenemy might be a bad
 father, one who is the opposite of the character's father in every way.
 A different approach might have the archenemy be from the past, seeking
 answers in the present in a parallel of how the hero seeks guidance from
@@ -80,16 +97,19 @@ A character who is cynical and morally ambiguous, sometimes using
 violence to get things done, and happy to breach the code against
 killing that binds most superheroes, might face an archenemy who
 represents hypocrisy in a very moral stance -- a corrupt moralizing
-politician, for example. This would justify the cynicism of the
+politician, for example.
+This would justify the cynicism of the
 character, provide proof of that cynical world view and shed light on
-the character's ultimate goals. Another archenemy might be a glimpse of
+the character's ultimate goals.
+Another archenemy might be a glimpse of
 what the character might become -- a remorseless killer who lost all
 sense of his own moral compass a long time ago, but whose general aim
 and methods are eerily similar to the character's own.
 
 You know you have a good idea for an archenemy when you can imagine the
 two characters sitting down for a meal together under terms of truce and
-having a high-tension conversation that is great to listen to. Ideally
+having a high-tension conversation that is great to listen to.
+Ideally
 the two characters will have plenty to learn from each other and plenty
 to say to each other, but the gulf between them -- whatever form it
 takes -- will put every scene between them on edge.
@@ -98,45 +118,57 @@ takes -- will put every scene between them on edge.
 === Master Villain
 
 Now, you need to perform exactly the same process for the group as a
-whole. Consider the super group as a single combined entity. The heroes
+whole.
+Consider the super group as a single combined entity.
+The heroes
 are the group's "powers", so the villain should reflect them in some
 way, as well as being able to stand against them without being instantly
-defeated. The role and function of the group should also be reflected in
+defeated.
+The role and function of the group should also be reflected in
 the villain's nature and goals.
 
 Your master villain will cast light on the overall purpose of the group.
 We've already discussed several different types of teams, and there are
-plenty of other kinds that are possible. During early discussion, the
+plenty of other kinds that are possible.
+During early discussion, the
 kind of group you have should have been established -- whether it's a
 government agency, an alien task force, or a billionaire detective and
-his amazing friends. The master villain should operate to contrast with
+his amazing friends.
+The master villain should operate to contrast with
 or highlight the kind of group being played.
 
 For example, a government-sponsored group intended to stop invasion from
 the stars will have a natural master villain in the alien commander in
-charge of infiltrating the earth. An alternative master villain could be
+charge of infiltrating the earth.
+An alternative master villain could be
 someone who wishes to encourage or even assist an invasion (for whatever
 personal reason).
 
 An outsider team, on the run, has a natural master villain, namely
-whoever is hunting them. An alternative master villain could be someone
+whoever is hunting them.
+An alternative master villain could be someone
 who keeps trying to recruit them to his villainous cause.
 
 The most important thing to remember when designing the powers of master
-villains is their defensive range. If it comes to a fight, the master
+villains is their defensive range.
+If it comes to a fight, the master
 villain will be facing a whole team of heroes who will each get an
 action every round and who all want desperately to take the bad guy
-down. Give your master villain a good set of defensive powers and a high
-Strength and Willpower (resulting in a high Stamina). Otherwise, you
+down.
+Give your master villain a good set of defensive powers and a high
+Strength and Willpower (resulting in a high Stamina).
+Otherwise, you
 might be forced to create a new master villain sooner than you'd like.
 
 [[pulling_it_together]]
 === Pulling It Together
 
-It's important to remember that none of this is set in stone. You should
+It's important to remember that none of this is set in stone.
+You should
 consider the first few sessions of play as a trial time for all of this
 -- if your keystone villains don’t work quite how you'd like, it's not
 too late to try an alternative master villain or to create a new
-archenemy more suited to a character. Often it will take a few sessions
+archenemy more suited to a character.
+Often it will take a few sessions
 of play before the hero characters really settle in, and the appropriate
 villainous match for a character may not be apparent until then.

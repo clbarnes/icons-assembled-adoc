@@ -1,16 +1,21 @@
 = Introduction
 What kid raised in recent generations hasn't pretended to be a superhero
 at some point: worn a cape, "flown" around, bounced imaginary bullets or
-shot "blasts of power" from hands or eyes? Why not? After all, the
+shot "blasts of power" from hands or eyes?
+Why not?
+After all, the
 superhero is pretty much the perfect modern fantasy: powerful,
 respected, and loved by the public, but with a message of
 responsibility, duty, truth, and justice that appeals to parents as well
-as kids. In countless comic books (and now "graphic novels"), cartoons,
+as kids.
+In countless comic books (and now "graphic novels"), cartoons,
 and liveaction television shows and films, superheroes continue to
 thrill and capture our imagination while also celebrating some of our
-better qualities. Who wouldn't want to be a hero?
+better qualities.
+Who wouldn't want to be a hero?
 
-With Icons, you can be. Icons is a roleplaying game wherein you and
+With Icons, you can be.
+Icons is a roleplaying game wherein you and
 other players take on the roles of superheroes you create and embark on
 imaginary adventures, guided by one player who takes on the
 responsibility of Game Master ("GM" for short).
@@ -18,30 +23,38 @@ responsibility of Game Master ("GM" for short).
 [[roleplaying_games]]
 == Roleplaying Games
 
-A roleplaying game ("RPG" for short) is a game of the imagination. Like
+A roleplaying game ("RPG" for short) is a game of the imagination.
+Like
 the name implies, it is about playing a role, essentially a version of
 the childhood game of "let's pretend" with rules and dice used to
-determine the outcome of actions. Although roleplaying games have been
+determine the outcome of actions.
+Although roleplaying games have been
 around in various forms for decades, they haven't changed all that much
 from the childhood essentials -- up to and including sometimes
 protracted "Did so!" "Did not!" arguments, thus the need for a Game
 Master.
 
-Essentially, the Game Master is both narrator and referee. The GM comes
+Essentially, the Game Master is both narrator and referee.
+The GM comes
 up with a situation, the start or "hook" of a story, and presents it to
-the players. They, in turn, decide what their characters will do. The GM
+the players.
+They, in turn, decide what their characters will do.
+The GM
 responds with what happens next, and from their interaction a complete
-story unfolds. Along the way, the heroes encounter challenges, including
+story unfolds.
+Along the way, the heroes encounter challenges, including
 fights with villains, and the game rules help the players and Game
 Master to resolve the outcome of those challenges, changing the
-direction of the story. A part of the thrill of a roleplaying game is
+direction of the story.
+A part of the thrill of a roleplaying game is
 that it is fiction you and your friends create together!
 
 [[why_icons]]
 == Why Icons?
 
 Icons is hardly the first superhero roleplaying game -- it's not even
-the tenth! In fact, it is not even the first superhero game I have
+the tenth!
+In fact, it is not even the first superhero game I have
 designed.
 
 Superhero RPGs have been around nearly as long as the game style.
@@ -57,53 +70,74 @@ There are several reasons:
 First and perhaps foremost, I do not believe in the concept of "one true
 game." Saying there is only room for one superhero RPG is like
 suggesting there should only be one board game where you move pieces
-around squares. Why have checkers when you've already got chess? But
+around squares.
+Why have checkers when you've already got chess?
+But
 neither game is "better" than the other, they both deliver fun and some
-interesting challenges, but in their own ways. The same is true of Icons
+interesting challenges, but in their own ways.
+The same is true of Icons
 and other superhero games.
 
 Second, I'm a game designer, and we designers like to play around with
 ideas for games: different mechanics, different approaches, seeing how
-things work in various ways. Again, some designs are not necessarily
-"better," just different. A lot of roleplaying game design and play is a
-matter of taste, rather than objective value. Just like an artist
+things work in various ways.
+Again, some designs are not necessarily
+"better," just different.
+A lot of roleplaying game design and play is a
+matter of taste, rather than objective value.
+Just like an artist
 benefits from having a broad palette, so does a game designer benefit
 from having a breadth of experience creating different kinds of games.
 
-Lastly, just as a writer writes, a designer designs. Some concepts just
+Lastly, just as a writer writes, a designer designs.
+Some concepts just
 lodge themselves into the folds of your brain and stick there until you
-do something with them to get them out and onto the page. Icons is one
-of those. I wanted to play around with the basic systems of Fudge (and
+do something with them to get them out and onto the page.
+Icons is one
+of those.
+I wanted to play around with the basic systems of Fudge (and
 its later expression, FATE) for some time, and even started on an
 earlier version of Icons some years ago that I nicknamed "the
 Superlative System." However cliché it may sound to say that I "had" to
-design this game, that's how it was. So I did.
+design this game, that's how it was.
+So I did.
 
 The creation of this game does not mean I think Icons is better than
 everything that came before it, or that it is the "right" way to do a
 superhero RPG (as if there were only one way!) just that I think it's a
 good one and that it's fun, which, after all, is the point of playing a
-game in the first place. I hope you think so, too.
+game in the first place.
+I hope you think so, too.
 
 [[whats_in_the_game]]
 == What's In the Game?
 
-So, what will you find in these pages? Hopefully the tools you need for
+So, what will you find in these pages?
+Hopefully the tools you need for
 you and your friends to create your own colorful world of heroes and
-villains and to play out fun and exciting adventures with them. In
+villains and to play out fun and exciting adventures with them.
+In
 practical terms, what you'll find here is a system, a set of rules,
 starting with creating your own heroes, and progressing through how to
 do things with them in terms of the game.
 
 Compared to a lot of roleplaying games on the market today, Icons is
-fairly short and simple. You won't find exhaustive details or
+fairly short and simple.
+You won't find exhaustive details or
 situational rules, and there's no setting beyond "the world of comic
 book superheroes," which pretty much anyone reading this game is going
-to know. (If you don't, go pick up and read some superhero comics. Trust
+to know.
+(If you don't, go pick up and read some superhero comics.
+Trust
 me, they can be a lot of fun.)
 
-Icons places the power in your hands, where it belongs. Take the basic
-rules of the game, get together with your friends, and create! Make your
-own heroes, villains, adventures, stories... whole worlds! Have fun.
+Icons places the power in your hands, where it belongs.
+Take the basic
+rules of the game, get together with your friends, and create!
+Make your
+own heroes, villains, adventures, stories...
+whole worlds!
+Have fun.
 
-What are you waiting for? The world needs saving!
+What are you waiting for?
+The world needs saving!

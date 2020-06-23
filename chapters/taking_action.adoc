@@ -1,38 +1,51 @@
 = Taking action
-Now that you've created a hero, it's time to take action! This section
+Now that you've created a hero, it's time to take action!
+This section
 covers how to do things in Icons, from meeting different challenges to
 fighting foes in titanic clashes, all based on the hero's various
 capabilities.
 
 == Time
 
-Icons measures time in a series of abstract segments. The two basic
+Icons measures time in a series of abstract segments.
+The two basic
 types of time keeping in the game are action time and narrative time.
 
 Action time is when things in the game really start happening quickly:
-fights, chase scenes, and so forth. The basic segment of action time is
+fights, chase scenes, and so forth.
+The basic segment of action time is
 a panel, which covers an abstract amount of time equal to the action
-depicted in a single comic book panel. A character can perform any
+depicted in a single comic book panel.
+A character can perform any
 action in a panel that would fit into a standard panel, including
 attack, dodge, or move.
 
 All of the characters' panels add up to a page, which is enough time for
-every character involved in the action to do at least one thing. As a
+every character involved in the action to do at least one thing.
+As a
 default, ten pages of action time are assumed to equal about a minute,
-in cases where that matters. The GM may use an abstract number of pages
+in cases where that matters.
+The GM may use an abstract number of pages
 as a measure of things.
 
 Narrative time is based more on the progress of the story than a series
-of actions. It is also more abstract. The basic unit of narrative time
-is a chapter. It is essentially like the chapter of a longer story like
-a comic book or novel, focused on a particular locale or event. For
+of actions.
+It is also more abstract.
+The basic unit of narrative time
+is a chapter.
+It is essentially like the chapter of a longer story like
+a comic book or novel, focused on a particular locale or event.
+For
 example, if the heroes foil a bank robbery, everything that happens at
-the bank -- including pages of action time -- is one chapter. When the
+the bank -- including pages of action time -- is one chapter.
+When the
 scene switches back to the heroes' headquarters, another chapter begins,
-and so forth. The Game Master ultimately places breaks between chapters.
+and so forth.
+The Game Master ultimately places breaks between chapters.
 
 All the chapters of a single game session make up an issue, like a
-single comic book. A particularly long session with many chapters can be
+single comic book.
+A particularly long session with many chapters can be
 a "giant-size issue" while a self-contained story completed in a single
 issue may be a "one-shot issue."
 
@@ -42,7 +55,8 @@ book series.
 === Reactions ®
 
 You may be called upon to make various tests during or outside of your
-panel in reaction to something someone else does. These tests require no
+panel in reaction to something someone else does.
+These tests require no
 effort on your character's part and generally impose no penalties (apart
 from the effects of failing them); you can perform as many reactions in
 a page as the Game Master requires.
@@ -54,7 +68,8 @@ Reactions are noted with the icon in the header.
 
 You may only perform one active test in your panel (the exception is the
 Fast Attack power which grants characters the ability to make multiple
-attack tests in one panel) and as many reactions as the GM requires. It
+attack tests in one panel) and as many reactions as the GM requires.
+It
 is possible to perform supplemental actions during a page, doing
 additional things that do not require a test, such as movement, but you
 suffer a -1 penalty to your active test for each supplemental action in
@@ -66,16 +81,20 @@ Supplemental actions are noted with the icon in the header.
 
 During a conflict in action time, you go back and forth between the
 heroes' panels and their opponents' panels for each page of the
-conflict. Typically, the conflict starts off with the panels of
+conflict.
+Typically, the conflict starts off with the panels of
 whichever side initiates: if a villain launches an attack, start with
-the villain's panel. If the heroes spring into action, begin with their
-panels. Once one side's actions are resolved, go to the other side, then
+the villain's panel.
+If the heroes spring into action, begin with their
+panels.
+Once one side's actions are resolved, go to the other side, then
 back and forth until the conflict ends.
 
 If there's a specific need to know who is able to act first (two
 characters grabbing for the same object, for example), test the
 appropriate ability (usually Coordination) with a difficulty equal to
-the opposing character's ability. Otherwise, actions on a page are
+the opposing character's ability.
+Otherwise, actions on a page are
 largely simultaneous.
 
 If the initiation of a conflict is unexpected, it may count as a
@@ -84,21 +103,27 @@ Surprise Attack (see *Maneuvers* later in this chapter).
 == Distance
 
 Distance in Icons is measured abstractly in ranges, roughly describing a
-level of distance, how far apart two things are. The ranges are:
+level of distance, how far apart two things are.
+The ranges are:
 
 *Personal* Close enough to touch someone, or to have someone standing
-right behind you. You can communicate by whispering.
+right behind you.
+You can communicate by whispering.
 
 *Close* Close enough to hit someone with a melee weapon or shoot them at
-point-blank range, or move up to them and do so in a single panel. You
+point-blank range, or move up to them and do so in a single panel.
+You
 can communicate by speaking normally.
 
 *Extended* Out of range for close attacks, but still within range for
-firearms and similar ranged attacks. You can only communicate by
+firearms and similar ranged attacks.
+You can only communicate by
 shouting.
 
-*Visual* Out as far as the eye can see. You can make out outlines and
-shapes, but not individuals. You can't communicate except by visual or
+*Visual* Out as far as the eye can see.
+You can make out outlines and
+shapes, but not individuals.
+You can't communicate except by visual or
 long-distance means (such as radio).
 
 *Beyond* As in "beyond visual range." This is a catchall for greater
@@ -109,7 +134,8 @@ distances, which are usually expressed in general or real-world terms
 == Doing Things
 
 Your Icons hero can attempt pretty much anything you wish in the context
-of the game that is within the character's capabilities. This section
+of the game that is within the character's capabilities.
+This section
 looks at some common things characters do and how to determine if a
 particular attempt is successful and, if so, by how much.
 
@@ -120,10 +146,12 @@ the results.
 [[combining_abilities]]
 === Combining Abilities
 
-Characters may combine their abilities for some tests. In this case, the
+Characters may combine their abilities for some tests.
+In this case, the
 lowest ability level is used for the test, but it gets a +1 bonus from
 the higher ability, if the two are equal, use that level with a +1
-bonus. Obviously, this makes equals combining their abilities the most
+bonus.
+Obviously, this makes equals combining their abilities the most
 useful when it comes to improving the outcome, other combinations are
 too uneven.
 
@@ -131,8 +159,10 @@ too uneven.
 === Limiting Abilities
 
 In some situations, one ability may limit another, applying the lower of
-the two abilities to the test. For example, juggling is a Coordination
-test. However, a juggling contest involving who can go the longest
+the two abilities to the test.
+For example, juggling is a Coordination
+test.
+However, a juggling contest involving who can go the longest
 without getting tired brings Strength into the equation, so it can be
 said that Strength limits the test and the characters involved use the
 lower of their Coordination or Strength levels (how good they are at
@@ -147,30 +177,48 @@ tagged in a fight.
 === Bashing
 
 Any unarmed attack or attack with a blunt weapon or object is a bashing
-attack. Test Prowess against a difficulty of the target's Prowess. On a
-failure, your attack misses. With a moderate success, you deal the
-attack's damage in Stamina. With a major success, you may slam the
-target. With a massive success, you may stun the target. See *Damage*
-(p. XXX) for details.
+attack.
+Test Prowess against a difficulty of the target's Prowess.
+On a
+failure, your attack misses.
+With a moderate success, you deal the
+attack's damage in Stamina.
+With a major success, you may slam the
+target.
+With a massive success, you may stun the target.
+See *Damage*
+(p.
+XXX) for details.
 
 === Evading ®
 
 You use your Prowess to evade attacks through a series of feints and
-maneuvers. Evading only works against Prowess and Strength attacks, not
-Coordination (ranged) attacks. Test Prowess against a difficulty of the
-attacker's ability level. With a success, the attack misses. On a
+maneuvers.
+Evading only works against Prowess and Strength attacks, not
+Coordination (ranged) attacks.
+Test Prowess against a difficulty of the
+attacker's ability level.
+With a success, the attack misses.
+On a
 failure, the attack hits; determine the effect and outcome from the
-margin of failure. For example, if you fail to evade an attack by 3
+margin of failure.
+For example, if you fail to evade an attack by 3
 levels, the attacker achieves a major success against you.
 
 === Slashing
 
 Any attack with a knife, sword, or other sharp or pointed object is a
-slashing attack. Test Prowess against a difficulty of the target's
-Prowess. On a failure, your attack misses. With a moderate success, you
-deal the attack's damage in Stamina. With a major success, you may also
-stun the target. With a massive success, you may also kill the target!
-See *Damage* (p. XXX) for details.
+slashing attack.
+Test Prowess against a difficulty of the target's
+Prowess.
+On a failure, your attack misses.
+With a moderate success, you
+deal the attack's damage in Stamina.
+With a major success, you may also
+stun the target.
+With a massive success, you may also kill the target!
+See *Damage* (p.
+XXX) for details.
 
 == Coordination
 
@@ -180,29 +228,43 @@ aim, precision, mobility, and similar things.
 === Blasting
 
 A blasting attack uses blunt force: either actual force beams or "mercy
-ammo" like rubber bullets or a simple blunt object. Test Coordination
-against a difficulty of the target's Coordination. On a failure, your
-attack misses. With a moderate success, you deal the attack's damage in
-Stamina. With a major success, you can hit a precise target (see *Called
-Shots* under *Maneuvers*, p. XXX) or may slam the target. With a massive
-success, you may stun the target. See *Damage* (p. XXX) for details.
+ammo" like rubber bullets or a simple blunt object.
+Test Coordination
+against a difficulty of the target's Coordination.
+On a failure, your
+attack misses.
+With a moderate success, you deal the attack's damage in
+Stamina.
+With a major success, you can hit a precise target (see *Called
+Shots* under *Maneuvers*, p.
+XXX) or may slam the target.
+With a massive
+success, you may stun the target.
+See *Damage* (p.
+XXX) for details.
 
 === Catching ⊕
 
 On occasions when characters need to catch a falling or thrown object,
-roll a Coordination test. The usual Difficulty is 3, modified by the
+roll a Coordination test.
+The usual Difficulty is 3, modified by the
 object's size; see *Growth* and *Shrinking* under powers for guidelines.
 So, for example, catching something insect-sized is difficulty 6 (the
-usual 3 with a +3 modifier for size). You also have to be able to lift
+usual 3 with a +3 modifier for size).
+You also have to be able to lift
 an object's weight in order to catch it: trying to catch a 10-ton bolder
 hurled at you when you're unable to lift 10 tons is a bad idea!
 
-A failure on the catching test means you miss. If the object was being
-thrown at you, you're automatically hit by it. A moderate success means
+A failure on the catching test means you miss.
+If the object was being
+thrown at you, you're automatically hit by it.
+A moderate success means
 you catch the object, but inflict your Strength in damage on it in doing
-so. Alternately, you can choose to suffer damage equal to the object's
+so.
+Alternately, you can choose to suffer damage equal to the object's
 Strength to prevent harming the object, a useful option if you're
-Invulnerable and able to easily absorb the damage. A major or better
+Invulnerable and able to easily absorb the damage.
+A major or better
 success means you catch the object easily and without harm.
 
 === Climbing
@@ -214,17 +276,24 @@ but a flight or two of stairs too difficult).
 
 If you're climbing a difficult or treacherous surface (a wall, for
 example), you have to make a Coordination test with the difficultly
-based on the surface you're climbing. Failure means you fall and may
-suffer damage. Success means you climb the surface. The GM may increase
+based on the surface you're climbing.
+Failure means you fall and may
+suffer damage.
+Success means you climb the surface.
+The GM may increase
 the difficulty for especially long climbs (up the side of a skyscraper,
 for example) but only one test is required.
 
 === Dodging ®
 
-Dodging is the art of not being there when an attack arrives. Roll a
-Coordination test against the attacker's ability. With a success, the
-attack misses. On a failure, the attack hits; determine the effect and
-outcome from the margin of failure. For example, if you fail to dodge an
+Dodging is the art of not being there when an attack arrives.
+Roll a
+Coordination test against the attacker's ability.
+With a success, the
+attack misses.
+On a failure, the attack hits; determine the effect and
+outcome from the margin of failure.
+For example, if you fail to dodge an
 attack by 3 levels, the attacker achieves a major success against you.
 
 === Moving ⊕
@@ -232,7 +301,8 @@ attack by 3 levels, the attacker achieves a major success against you.
 Your Coordination determines the distance you can cover in one page:
 personal for Coordination 1 (just shuffling along), close for
 Coordination 2-5, and extended for Coordination 6 or more (Olympic
-sprinting speed). No test is required unless you're moving over
+sprinting speed).
+No test is required unless you're moving over
 difficult or dangerous terrain, in which case you either have to slow
 down by one step or make a Coordination test (difficulty based on the
 terrain) to avoid slipping and falling.
@@ -240,41 +310,61 @@ terrain) to avoid slipping and falling.
 === Shooting
 
 Shooting attacks use potentially lethal ammunition, from bullets to
-deadly energy beams. Test Coordination against a difficulty of the
-target's Coordination. On a failure, your attack misses. With a moderate
-success, you deal the attack's damage in Stamina. With a major success,
-you can hit a specific part of the target (see *Called Shots*, p. XXX).
+deadly energy beams.
+Test Coordination against a difficulty of the
+target's Coordination.
+On a failure, your attack misses.
+With a moderate
+success, you deal the attack's damage in Stamina.
+With a major success,
+you can hit a specific part of the target (see *Called Shots*, p.
+XXX).
 You can potentially use this to stun the target (see *Shooting to Stun*,
-p. XXX). With a massive success, you may kill the target! See *Damage*
-(p. XXX) for details.
+p.
+XXX).
+With a massive success, you may kill the target!
+See *Damage*
+(p.
+XXX) for details.
 
 === Swimming ⊕
 
 Without a special power, a character covers only close distance each
-page while swimming. Characters underwater must make a Strength test
+page while swimming.
+Characters underwater must make a Strength test
 each page: failure means you're unconscious and begin losing Strength
-levels (see *Killing*, p. XXX). Moderate success means you're winded and
-lose 2 points of Stamina. A major or better success means there's no
-effect that page. Continue rolling once each page, with a cumulative +1
+levels (see *Killing*, p.
+XXX).
+Moderate success means you're winded and
+lose 2 points of Stamina.
+A major or better success means there's no
+effect that page.
+Continue rolling once each page, with a cumulative +1
 difficulty per page, until the character reaches breathable air.
 
 === Throwing
 
 If you have two levels of Strength above the level required to lift an
-object, you can throw it out to close distance. Every two additional
-Strength levels let you throw it one more step distance. So a Strength 8
-character can throw a 50 lb. object (Strength 2) out to Visual distance,
+object, you can throw it out to close distance.
+Every two additional
+Strength levels let you throw it one more step distance.
+So a Strength 8
+character can throw a 50 lb.
+object (Strength 2) out to Visual distance,
 and can even pick up a bus (Strength 6) and fling it out to close
 distance!
 
 Hitting someone with a thrown object is a test of Coordination against
 the target's Coordination: on a failure, the object misses the target.
-On a success, it hits and deals its damage in Stamina. With a massive
-success, the object might also stun the target (see *Stunning*, p. XXX).
+On a success, it hits and deals its damage in Stamina.
+With a massive
+success, the object might also stun the target (see *Stunning*, p.
+XXX).
 
 If the thrown object is sharp or pointed, then a major success results
 in a possible stun, but a massive success can potentially kill the
-target (see *Killing*, p. XXX).
+target (see *Killing*, p.
+XXX).
 
 == Strength
 
@@ -286,11 +376,13 @@ from exerting muscle power to resisting fatigue or poison.
 
 To break through or damage an inanimate object, make a Strength test
 against the object's Strength: success bends, breaks, or puts a hole
-through the object. Sample object Strengths are listed on the table on
+through the object.
+Sample object Strengths are listed on the table on
 the following page.
 
 If the material is less than two inches think, reduce its effective
-Strength by 1. If it is more than a foot thick, increase Strength by 1;
+Strength by 1.
+If it is more than a foot thick, increase Strength by 1;
 if more than two feet thick, increase Strength by 2.
 
 [cols=",",options="header",]
@@ -310,20 +402,25 @@ if more than two feet thick, increase Strength by 2.
 
 === Blocking
 
-Sometimes it's necessary to pit Strength against Strength. Blocking
+Sometimes it's necessary to pit Strength against Strength.
+Blocking
 involves bracing for an attack, resisting damage with sheer Strength.
 Blocking is only effective against Bashing, Blasting, and Rushing
-attacks. When blocking, roll a Strength test against the attack's damage
+attacks.
+When blocking, roll a Strength test against the attack's damage
 level: reduce damage inflicted on you by the amount equal to the effect
-(the effort minus the difficulty). So if you exceed the attack's damage
+(the effort minus the difficulty).
+So if you exceed the attack's damage
 by 3, for example, you reduce the damage inflicted by 3.
 
-If you have the Invulnerability power (p. XXX), you can also block
+If you have the Invulnerability power (p.
+XXX), you can also block
 Slashing and Shooting attacks, putting up your arms and pushing on
 through or even punching through Blasting or Shooting attacks!
 
 Use the lesser of your Invulnerability power level or your Strength for
-the blocking test in these cases. Your normal level of Invulnerability
+the blocking test in these cases.
+Your normal level of Invulnerability
 applies to any unblocked damage.
 
 === Exhaustion ®
@@ -331,9 +428,12 @@ applies to any unblocked damage.
 Characters can move continuously for a number of pages equal to
 (Strength x 10) before running the risk of suffering from exhaustion.
 Make a Strength test: on a failure, the character collapses and must
-rest for at least ten minutes. On a moderate success, the character
-collapses and must rest for one minute. A major or better success means
-there's no effect that page. The player continues rolling once each
+rest for at least ten minutes.
+On a moderate success, the character
+collapses and must rest for one minute.
+A major or better success means
+there's no effect that page.
+The player continues rolling once each
 page, with a cumulative +1 difficulty level per page, until the
 character rests for at least one minute.
 
@@ -341,8 +441,10 @@ character rests for at least one minute.
 
 When you're being held by an opponent (see *Wrestling*, following), you
 can attempt to escape the hold with a Prowess or Strength test against
-the attacker's Strength. With a moderate success, you escape a partial
-hold. With a major success, you escape a complete hold, and with a
+the attacker's Strength.
+With a moderate success, you escape a partial
+hold.
+With a major success, you escape a complete hold, and with a
 massive success you not only escape, but also place your opponent in a
 partial hold!
 
@@ -350,18 +452,22 @@ partial hold!
 
 When you want to grab or wrest something out of an opponent's grasp,
 make a Strength test, limited by your Prowess, against the opponent's
-Strength level. With a major success, you grab the object away from the
-target. With a massive success, you grab the object, but damage it; it
+Strength level.
+With a major success, you grab the object away from the
+target.
+With a massive success, you grab the object, but damage it; it
 suffers damage equal to the combined Strength of you and your opponent!
 
 === Jumping ⊕
 
 The distance you can jump is based on your Strength: personal for levels
 1-3, close for levels 4-6, extended for levels 7-8, and out to visual
-distance for levels 9-10. With a Strength test against your own Strength
+distance for levels 9-10.
+With a Strength test against your own Strength
 level and a major success you can jump one extra step.
 
-If you have the Leaping power (p. XXX), you can jump much greater
+If you have the Leaping power (p.
+XXX), you can jump much greater
 distances than your Strength allows.
 
 === Lifting ⊕
@@ -390,22 +496,33 @@ something one category higher for one page.
 === Rushing
 
 You can rush or charge at an opponent, using sheer Strength to bear down
-on them. To rush an opponent you must be at close or greater distance.
+on them.
+To rush an opponent you must be at close or greater distance.
 Roll a Strength test limited by Prowess against the target's defensive
-ability. On a failure, you miss and rush right past the target. With a
+ability.
+On a failure, you miss and rush right past the target.
+With a
 moderate success, you hit, inflicting damage equal to your Strength.
-With a major success, you may slam the target. With a massive success,
-you may stun the target. See *Damage* (p. XXX) for details.
+With a major success, you may slam the target.
+With a massive success,
+you may stun the target.
+See *Damage* (p.
+XXX) for details.
 
 === Wrestling
 
 When you want to grab and restrain an opponent, roll a Strength test
 limited by Prowess against the greater of the target's Prowess,
-Coordination, or Strength. With a moderate success, you achieve a
-partial hold. The target can perform actions, but at a –2 penalty, and
-can't move away from you. On a major or better success, you put the
-target into a complete hold. The target is fully restrained and can take
-no physical action except to escape from the hold. In your panel, you
+Coordination, or Strength.
+With a moderate success, you achieve a
+partial hold.
+The target can perform actions, but at a –2 penalty, and
+can't move away from you.
+On a major or better success, you put the
+target into a complete hold.
+The target is fully restrained and can take
+no physical action except to escape from the hold.
+In your panel, you
 can automatically inflict Strength damage on a character in a complete
 hold, if you wish.
 
@@ -419,18 +536,23 @@ or raw brainpower.
 You make Intellect tests to invent and modify equipment.
 
 The GM sets the difficulty for making any necessary repairs or
-modifications to existing technology. So tuning up a car might be based
+modifications to existing technology.
+So tuning up a car might be based
 entirely on the effort of your Intellect test, while fixing a time
 machine could be difficulty 6 or even higher.
 
 If you have a level 6 or higher Intellect, or specialties giving you an
 effective level that high, the GM may allow you to perform stunts (see
-*Stunts*, p. XXX) to whip-up temporary inventions to overcome problems
-in an adventure. So, for example, you might be able to modify a device
+*Stunts*, p.
+XXX) to whip-up temporary inventions to overcome problems
+in an adventure.
+So, for example, you might be able to modify a device
 to do something different, or make a temporary device, like short-term
 psionic shields that provide the Mind Shield power against a villain's
-Mind Control, for example. In general, the level of the stunt is the
-difficulty of your Intellect test. The GM sets the requirements in terms
+Mind Control, for example.
+In general, the level of the stunt is the
+difficulty of your Intellect test.
+The GM sets the requirements in terms
 of time and resources for the invention.
 
 === Knowing ®
@@ -442,7 +564,8 @@ greater levels of success providing more detail.
 
 The Game Master may choose to simply base common knowledge on your
 Intellect level without a test, using it as a benchmark of how much your
-character can be expected to know. Various specialties are useful in
+character can be expected to know.
+Various specialties are useful in
 this regard, since they increase your effective Intellect level; a
 Physics Expert can be expected to know more about physics than most
 people, and more about physics than other topics.
@@ -456,22 +579,27 @@ assume everybody speaks the same language, unless there's a dramatic
 need for the language barrier to arise.
 
 If you do want to take languages into account, then an Intellect 4
-character is fluent in one additional language. Each additional level of
+character is fluent in one additional language.
+Each additional level of
 Intellect doubles the number of additional languages, and each level of
-the Languages specialty (p. XXX) counts as a level of Intellect in terms
+the Languages specialty (p.
+XXX) counts as a level of Intellect in terms
 of known languages.
 
 By Intellect 9, a character speaks over thirty languages, over sixty at
-Intellect 10. For simplicity, you may prefer at this point to simply
+Intellect 10.
+For simplicity, you may prefer at this point to simply
 assume the character speaks and understands every commonly spoken
 language.
 
 === Learning
 
 You also make Intellect tests to figure out puzzles and riddles and to
-learn about new things your character encounters. So, for example, if
+learn about new things your character encounters.
+So, for example, if
 you have to find your way to the heart of a maze in time to rescue a
-villain's hostage, that's an Intellect test. So is figuring out the
+villain's hostage, that's an Intellect test.
+So is figuring out the
 various riddles and traps in the maze along the way, unless you use some
 other ability to overcome them, such as avoiding a trap through superior
 Awareness or Coordination.
@@ -490,23 +618,27 @@ place!
 === Noticing ®
 
 Make an Awareness test to notice things, from subtle clues to the
-villain trying to sneak up on you from behind. Noticing tests involving
+villain trying to sneak up on you from behind.
+Noticing tests involving
 static things use a difficulty set by the GM while noticing what someone
 else is doing usually involves a difficulty based on the effort of their
 test, such as a Coordination test in the case of someone sneaking
-around. Success means you notice something, with higher levels providing
+around.
+Success means you notice something, with higher levels providing
 more detail and accuracy.
 
 Tests to notice things are often rolled in secret, so the GM may
 prohibit players from using determined effort (since no real effort is
-involved). The GM may also wish to occasionally roll a random noticing
+involved).
+The GM may also wish to occasionally roll a random noticing
 test for nothing, ignoring the results, just to keep players from
 knowing something is up whenever a real noticing test occurs.
 
 === Searching
 
 This is the active counterpart of noticing (previously): you are
-searching, looking for particular things. Searching involves the same
+searching, looking for particular things.
+Searching involves the same
 kind of test as noticing, except you can declare it a determined effort
 and it takes a bit more time to search than just to notice something;
 searching consumes an action, while noticing happens automatically.
@@ -514,9 +646,11 @@ searching consumes an action, while noticing happens automatically.
 === Tracking
 
 You can use Awareness to pick up on subtle signs people and vehicles
-leave behind in order to follow their trail and track them. This is
+leave behind in order to follow their trail and track them.
+This is
 considerably easier (or at least possible) if you have one or more
-Supersenses (p. XXX) to pick up on signs other people can't, such as
+Supersenses (p.
+XXX) to pick up on signs other people can't, such as
 tracking people by scent or microscopic traces they leave behind.
 
 == Willpower
@@ -527,13 +661,18 @@ personality, or charisma.
 === Intimidating
 
 You can use your Willpower to overawe people and intimidate them into
-doing what you want. Make a Willpower test against the target's
-Willpower. Success makes them willing to do things that aren't likely to
-get them in trouble. A major success gets the target to do more
+doing what you want.
+Make a Willpower test against the target's
+Willpower.
+Success makes them willing to do things that aren't likely to
+get them in trouble.
+A major success gets the target to do more
 difficult things and shakes their confidence, applying a –2 to actions
-to oppose you that page. A massive success means the target will do
+to oppose you that page.
+A massive success means the target will do
 almost anything you want, and flees or surrenders rather than opposing
-you. A failure to intimidate a target means you cannot try intimidating
+you.
+A failure to intimidate a target means you cannot try intimidating
 that character again until circumstances change without using Determined
 Effort.
 
@@ -541,7 +680,8 @@ Effort.
 
 If you give a performance with the intent of impressing an audience,
 make a Willpower test, with the effort determining how impressive your
-performance is. The GM may apply a difficulty depending on the
+performance is.
+The GM may apply a difficulty depending on the
 circumstances of your performance and the overall attitude of your
 audience.
 
@@ -549,10 +689,14 @@ audience.
 
 Make a Willpower test to persuade someone of your side of an argument.
 The difficulty is based on whether or not the subject is set against
-you. If they are, then the difficulty is their Willpower. If not, then
+you.
+If they are, then the difficulty is their Willpower.
+If not, then
 the GM sets the difficulty based on how persuasive an argument you need
-to give. If you're arguing against someone else, you need to exceed
-their persuasive effort as well as achieving the difficulty. The outcome
+to give.
+If you're arguing against someone else, you need to exceed
+their persuasive effort as well as achieving the difficulty.
+The outcome
 determines whether the subject disagrees, grudgingly agrees, or
 wholeheartedly sides with your case.
 
@@ -577,8 +721,10 @@ actions, gets a +1 bonus on the attack test on the following page.
 === Called Shots
 
 On some occasions, a character may want to hit a precise target with a
-ranged attack, like a button, lever, or the bull's-eye of a target. This
-requires a major success or better. A called shot does not stun or slam
+ranged attack, like a button, lever, or the bull's-eye of a target.
+This
+requires a major success or better.
+A called shot does not stun or slam
 targets, as those effects have specific success requirements already,
 but see *Shoot to Stun*, following.
 
@@ -586,7 +732,8 @@ but see *Shoot to Stun*, following.
 === Combined Attacks
 
 Characters may attempt to combine attacks to overcome the armor of a
-target they can't otherwise damage. So long as the attacks' damage
+target they can't otherwise damage.
+So long as the attacks' damage
 levels are within 1 point of each other, the highest damaging attack
 gets a +1 bonus.
 
@@ -599,7 +746,8 @@ the target with a good enough attack test.
 === Immobile Targets
 
 The difficulty level to attack an immobile target is generally 0,
-meaning the effort of the attack is also its effect. This includes
+meaning the effort of the attack is also its effect.
+This includes
 opponents in a complete hold, or ensnared in a Binding power (see p.
 XXX).
 
@@ -607,9 +755,12 @@ XXX).
 
 You can choose to give up your next action in order to jump in front of
 another character within close range targeted by an attack, even when
-it's not your turn to act. Make a Coordination (3) test. If you succeed,
+it's not your turn to act.
+Make a Coordination (3) test.
+If you succeed,
 you become the target of the attack intended for the other character and
-defend against it normally. If the attack misses you, it misses both of
+defend against it normally.
+If the attack misses you, it misses both of
 you (you're assumed to get the other character out of the way).
 
 [[limited_visibility]]
@@ -621,11 +772,13 @@ beyond close range suffer a –2 penalty.
 === Luring
 
 In some situations, you may want to try and get an opponent to attack
-you. If you take an action to lure, your foe gets a +2 bonus to attack
+you.
+If you take an action to lure, your foe gets a +2 bonus to attack
 you, but you get a defensive test, as usual.
 
 If your defensive test is successful, you avoid the attack and the
-attacker hits something behind you, your choice as to what. It could be
+attacker hits something behind you, your choice as to what.
+It could be
 another foe, an electrical junction box, a support beam, or what have
 you, depending on the circumstances.
 
@@ -633,29 +786,36 @@ you, depending on the circumstances.
 === Multiple Targets
 
 When surrounded by multiple opponents at close range, a character may
-elect to attack everyone at once. Roll the attack test with a –4
+elect to attack everyone at once.
+Roll the attack test with a –4
 modifier and apply the effort to all the targets.
 
 [[pulling_punches]]
 === Pulling Punches
 
-You can choose to mitigate the damage done by your attacks. Prior to
-attacking you state the maximum outcome of your attack. If your attack
+You can choose to mitigate the damage done by your attacks.
+Prior to
+attacking you state the maximum outcome of your attack.
+If your attack
 hits, any outcome over your limit is reduced to the outcome you set when
 you made the attack.
 
 When using an attack capable of a killing outcome, such as slashing or
 shooting, you can't pull your punches, although you can attempt to shoot
-to stun with a shooting attack (see the following). This is one reason
+to stun with a shooting attack (see the following).
+This is one reason
 why few heroes use such potentially deadly attacks.
 
 [[shooting_to_stun]]
 === Shooting to Stun
 
 A character may attempt to use a shooting attack to simply stun a target
-(creasing the skull or some other non-lethal hit). This requires a major
-success, treated like a stun result for a blasting attack. A massive
-success may still kill the target, however. Note that when using
+(creasing the skull or some other non-lethal hit).
+This requires a major
+success, treated like a stun result for a blasting attack.
+A massive
+success may still kill the target, however.
+Note that when using
 Determined Effort, you declare your desired success, and do not achieve
 more than it.
 
@@ -670,10 +830,15 @@ your attack test.
 === Underwater Combat
 
 Characters fighting underwater need to hold their breath, if they're
-unable to breathe water (see *Swimming*, p XXX). Additionally, they
-suffer a –1 penalty to actions due to the resistance of the water. The
-Underwater Combat specialty (p. XXX) negates this penalty, allowing the
-character to act normally. The Aquatic power (p. XXX) may increase the
+unable to breathe water (see *Swimming*, p XXX).
+Additionally, they
+suffer a –1 penalty to actions due to the resistance of the water.
+The
+Underwater Combat specialty (p.
+XXX) negates this penalty, allowing the
+character to act normally.
+The Aquatic power (p.
+XXX) may increase the
 character's Coordination and Awareness for actions under water,
 offsetting the penalty as well.
 
@@ -683,13 +848,15 @@ Strength level.
 == Damage
 
 Any successful hit inflicts damage that is subtracted from your Stamina.
-When your Stamina is reduced to 0, you are unconscious. The amount of
+When your Stamina is reduced to 0, you are unconscious.
+The amount of
 damage an attack inflicts varies according to its type:
 
 * Close Attack: Inflicts damage equal to the attacker's Strength if
 weaponless or according to the weapon's damage, if wielding a close
 attack weapon.
-* Ranged Attack: Inflicts damage based on the weapon or power used. For
+* Ranged Attack: Inflicts damage based on the weapon or power used.
+For
 thrown objects, use the lesser of the attacker's or the object's
 Strength.
 
@@ -697,7 +864,8 @@ Strength.
 
 Armor reduces the amount of damage suffered in an attack by subtracting
 the armor's level from the amount of damage inflicted; any remaining
-points are then subtracted from Stamina. If the target has no armor, the
+points are then subtracted from Stamina.
+If the target has no armor, the
 attack does full damage.
 
 *Example:* _A character wearing armor 1 hit by a punch dealing 2 points
@@ -707,17 +875,22 @@ of damage suffers only 1 point of damage to Stamina._
 
 If an attack achieves a potential slam outcome and inflicts 0 or more
 Stamina damage to the target, test the target's Strength against the
-damage level. Attacks inflicting less than 0 damage cannot slam a
+damage level.
+Attacks inflicting less than 0 damage cannot slam a
 target.
 
 Failure sends the target flying out to the next range, typically from
-close to ranged. The target must spend next panel getting up and can
-perform no other action. If there's an obstacle along the way, and the
+close to ranged.
+The target must spend next panel getting up and can
+perform no other action.
+If there's an obstacle along the way, and the
 attacker's damage is greater than the obstacle's material Strength (see
-*Bending & Breaking*, p. XXX), the target is knocked through it.
+*Bending & Breaking*, p.
+XXX), the target is knocked through it.
 Otherwise the target hits the obstacle and stops.
 
-Moderate success knocks the target down. Getting back up is a
+Moderate success knocks the target down.
+Getting back up is a
 supplemental action (for a –1 test penalty that page).
 
 Major or massive success means no effect from the slam.
@@ -726,7 +899,8 @@ Major or massive success means no effect from the slam.
 
 If an attack achieves a potential stun outcome and inflicts 0 or more
 Stamina damage to the target, test the target's Strength against the
-damage level. Attacks inflicting less than 0 damage cannot stun a
+damage level.
+Attacks inflicting less than 0 damage cannot stun a
 target.
 
 Failure reduces the target's Stamina to 0 and renders the character
@@ -741,16 +915,20 @@ Major or massive success means no effect from the stun.
 
 If an attack achieves a potential killing outcome and inflicts 0 or more
 Stamina damage to the target, test the target's Strength against the
-damage level. Attacks inflicting less than 0 Stamina damage cannot kill
+damage level.
+Attacks inflicting less than 0 Stamina damage cannot kill
 a target.
 
 Failure reduces the target's Stamina to 0 and renders the character
-unconscious. On the following page, and each page thereafter, the
-character loses a level of Strength. When Strength falls below 0, the
+unconscious.
+On the following page, and each page thereafter, the
+character loses a level of Strength.
+When Strength falls below 0, the
 character dies.
 
 You can prevent your Strength level from dropping for one page by
-spending a point of Determination. Assistance from another character for
+spending a point of Determination.
+Assistance from another character for
 one page stops loss of Strength and stabilizes your condition, leaving
 you unconscious.
 
@@ -763,26 +941,32 @@ Major or massive success test means no effect.
 === Option: Minions
 
 Villains often have gangs of minions, henchmen intended primarily to
-keep heroes busy with superior numbers. Most minions are relatively weak
+keep heroes busy with superior numbers.
+Most minions are relatively weak
 compared to heroes, with abilities rarely more than 3 (and maybe even
-less in the mental department). Still, tracking the Stamina of a large
+less in the mental department).
+Still, tracking the Stamina of a large
 number of minions, along with rolling slamming, stunning, and even
 killing tests for them can become tedious, so Game Masters may wish to
 use the following optional rule:
 
 If a hero makes a successful attack against a minion, the minion is
 reduced to 0 Stamina and unconscious, just like a failure against a
-stunning outcome. If you want a slightly less harsh version, require the
+stunning outcome.
+If you want a slightly less harsh version, require the
 hero's attack be a major or better success; moderate successes against
-minions still have their normal effect. This speeds up dealing with
+minions still have their normal effect.
+This speeds up dealing with
 large numbers of minion opponents so the heroes can get on to the main
 event!
 
 == Recovery
 
-Unconscious characters regain consciousness in 2d6 (2–12) pages. They
+Unconscious characters regain consciousness in 2d6 (2–12) pages.
+They
 have Stamina equal to their current Strength level (minimum of 1) when
-they awaken. Thereafter they recover their Strength level in Stamina per
+they awaken.
+Thereafter they recover their Strength level in Stamina per
 hour.
 
 During most adventures, the Game Master may wish to assume characters
@@ -793,7 +977,8 @@ since it involves less book-keeping.
 === Getting Your Strength Back
 
 Characters recover one lost level of Strength per week, or one per day
-of hospitalization and medical treatment. Certain powers like Healing
+of hospitalization and medical treatment.
+Certain powers like Healing
 and Regeneration can speed the recovery of lost Strength.
 
 Characters who have lost Strength levels suffer a –2 penalty to all
@@ -807,7 +992,8 @@ than not a temporary condition.
 
 If an Icons character dies (from a killing outcome in combat or other
 deadly circumstance), the character remains out of play for at least one
-issue, but thereafter may return. The GM and player come up with a
+issue, but thereafter may return.
+The GM and player come up with a
 suitable explanation for the hero's miraculous survival or resurrection.
 
 The GM may also want to insist on one or more of the following
@@ -825,7 +1011,8 @@ trained hero with no powers coming back as an incorporeal ghost!
 * The character's traits are exactly the same, but the "returned" hero
 is actually a new person, like a long-lost twin, parallel Earth
 duplicate, time-traveler, or the like who is not the original hero, who
-is still dead... for now.
+is still dead...
+for now.
 
 [[option_lasting_injuries]]
 === Option: Lasting Injuries
@@ -842,5 +1029,6 @@ concussion, or swing from the rooftops with a dislocated shoulder.
 
 As in the comics, these injuries should be treated more as story
 devices, rather than marks on a characters sheet, and they only come
-into play when the GM wishes. Otherwise, stick to the simpler damage
+into play when the GM wishes.
+Otherwise, stick to the simpler damage
 system given previously.

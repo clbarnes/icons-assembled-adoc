@@ -6,7 +6,8 @@ action or operating in a predetermined field of expertise.
 == Levels of Specialty
 
 Having a specialty grants a +1 bonus when making ability tests related
-to that specialty. So, for example, a character with the Pilot specialty
+to that specialty.
+So, for example, a character with the Pilot specialty
 has a +1 bonus to Coordination tests while piloting, Intellect tests
 dealing with aircraft, and so forth.
 
@@ -14,10 +15,12 @@ You can devote additional specialty choices to the same specialty and
 gain an increasing level of aptitude beyond specialist, as follows:
 
 * Expert: Expert level in a specialty grants a +2 bonus when making
-tests related to that specialty. Being an expert costs an additional
+tests related to that specialty.
+Being an expert costs an additional
 specialty choice (for a total of two).
 * Mastery: Mastery level in a specialty grants a +3 bonus when making
-tests related to that specialty. Mastery costs two additional specialty
+tests related to that specialty.
+Mastery costs two additional specialty
 choices (for a total of three).
 
 So a character might, for example have specialties of Blades, Bows
@@ -49,10 +52,12 @@ indicating different levels of specialty.
 
 The following are descriptions of specialties and their game benefits.
 The GM is free to modify this specialty list, adding to or subtracting
-from it, as suits the game. If you want a specific specialty for your
+from it, as suits the game.
+If you want a specific specialty for your
 character that you don't see on this list, talk to your GM about it,
 using the guidelines for the benefits provided by the different levels
-of specialty to determine the effects of having that specialty. Make
+of specialty to determine the effects of having that specialty.
+Make
 sure the new specialty is not overly broad compared to existing ones;
 remember that a specialty reflects only one element of an ability.
 
@@ -61,11 +66,14 @@ remember that a specialty reflects only one element of an ability.
 
 Some specialties in this listing -- such as Art, Performance, Science,
 and Weapons -- are actually groups of similar specialties, indicated by
-the group symbol (above). Characters actually choose specific
-specialties from within these groups, which are listed separately. So,
+the group symbol (above).
+Characters actually choose specific
+specialties from within these groups, which are listed separately.
+So,
 for example, you don't take the "Science" specialty, you choose a
 Science specialty, such as Archeology or Physics, and list it for your
-character. The same is true for Weapons and other specialty groups.
+character.
+The same is true for Weapons and other specialty groups.
 
 Generally if a character is good at an entire specialty group, it makes
 more sense to improve the related ability; for example, a hero good at
@@ -75,7 +83,8 @@ Intellect.
 === Acrobatics
 
 Add your specialty bonus to Coordination for acrobatic maneuvers,
-including dodging tests in combat (see *Dodging*, p. XXX).
+including dodging tests in combat (see *Dodging*, p.
+XXX).
 
 [[aerial_combat]]
 === Aerial Combat
@@ -87,13 +96,15 @@ defensive combat tests while you are gliding or flying.
 
 This is a specialty group for various artistic specialties; add your
 specialty bonus to the appropriate ability (usually Awareness) when
-creating a work of art. Art specialties include: Drawing, Painting,
+creating a work of art.
+Art specialties include: Drawing, Painting,
 Sculpture, and other types of visual art.
 
 === Athletics
 
 Add your specialty bonus to tests for climbing, jumping, running
-swimming, or similar activities. This generally includes riding mounts,
+swimming, or similar activities.
+This generally includes riding mounts,
 unless the GM wants a separate Ride specialty in the game.
 
 === Business
@@ -109,13 +120,15 @@ involving computers.
 === Criminology
 
 You're skilled in gathering and analyzing evidence from crime scenes and
-using it to solve crimes. Add your specialty bonus to tests for these
+using it to solve crimes.
+Add your specialty bonus to tests for these
 things.
 
 === Drive
 
 Add your specialty bonus to tests involving operating surface vehicles
-of all sorts. This includes water vehicles, unless the GM wants a
+of all sorts.
+This includes water vehicles, unless the GM wants a
 separate Sail specialty in the game.
 
 === Electronics
@@ -126,27 +139,35 @@ electronic devices.
 === Investigation
 
 You're skilled at digging up information, tailing people, and finding
-lost people and items. Add your specialty bonus to these and similar
+lost people and items.
+Add your specialty bonus to these and similar
 tests.
 
 === Languages
 
-You're especially adept at learning and speaking other languages. Your
+You're especially adept at learning and speaking other languages.
+Your
 specialty bonus improves your Intellect level when it comes to dealing
-with languages. See *Languages*, p. XXX, for details.
+with languages.
+See *Languages*, p.
+XXX, for details.
 
 === Law
 
 You have an extensive background in the law of the United States or some
-other jurisdiction. Add your specialty bonus to tests involving knowing
+other jurisdiction.
+Add your specialty bonus to tests involving knowing
 or practicing law.
 
 === Leadership
 
 You are a skilled and recognized leader, able to inspire confidence and
-determination in those under your guidance. When you are the leader of a
-team, their Team Determination (see *Team Determination*, p. XXX) is
-increased by your specialty bonus. A team can only have one recognized
+determination in those under your guidance.
+When you are the leader of a
+team, their Team Determination (see *Team Determination*, p.
+XXX) is
+increased by your specialty bonus.
+A team can only have one recognized
 leader at a time.
 
 [[martial_arts]]
@@ -154,10 +175,12 @@ leader at a time.
 
 This is specialty in various forms of unarmed combat; add your specialty
 bonus to your Prowess in unarmed combat other than wrestling (covered by
-the Wrestling specialty). If you are skilled in Martial Arts, use the
+the Wrestling specialty).
+If you are skilled in Martial Arts, use the
 better of your Strength or Prowess (including your specialty bonus for
 the latter) as the difficulty for an opponent to resist being slammed or
-stunned by your unarmed attacks (see *Stun* and *Slam*, p. XXX).
+stunned by your unarmed attacks (see *Stun* and *Slam*, p.
+XXX).
 
 So, for example, a character with Martial Arts Mastery and Prowess 4 has
 a comparative level of 7 for purposes of slamming or stunning opponents
@@ -178,7 +201,8 @@ mechanical devices.
 === Mental Resistance
 
 You're skilled in resisting outside influences, including certain mental
-powers. Add your specialty bonus to Willpower for resisting such things.
+powers.
+Add your specialty bonus to Willpower for resisting such things.
 This is similar to, but not the same as, the Mind Shield power (see its
 description under *Powers* for details).
 
@@ -196,7 +220,8 @@ bonus to Intellect tests involving them.
 === Performance ★
 
 This specialty group involves the performing arts: Acting, Comedy,
-Dancing, Music, Singing, and such. Choose an art form and apply your
+Dancing, Music, Singing, and such.
+Choose an art form and apply your
 specialty bonus to tests involving it.
 
 === Pilot
@@ -208,21 +233,26 @@ all sorts.
 
 This specialty group covers various powers (see the *Powers* section)
 requiring ability tests of different sorts, particularly offensive
-powers using Prowess and Coordination for attacks. Each power is a
-separate specialty. Add your specialty bonus to ability tests for the
-power. This specialty does not increase power level or other effects of
+powers using Prowess and Coordination for attacks.
+Each power is a
+separate specialty.
+Add your specialty bonus to ability tests for the
+power.
+This specialty does not increase power level or other effects of
 a power.
 
 === Psychiatry
 
-You're trained in mental health-care. Your specialty bonus applies to
+You're trained in mental health-care.
+Your specialty bonus applies to
 tests to evaluate someone else's mood or personality, notice outside
 mental influence, diagnose and treat mental illness, and so forth.
 
 === Science ★
 
 This specialty group covers the various sciences; add your specialty
-bonus to tests involving your scientific discipline. Potential science
+bonus to tests involving your scientific discipline.
+Potential science
 specialties include (but are not limited to): Anthropology, Archeology,
 Astronomy, Biology, Chemistry, Ecology, Genetics, Geology, Metallurgy,
 Meteorology, Oceanography, Physics, Radiology, and Sociology.
@@ -244,14 +274,16 @@ move and act covertly.
 
 You're skilled at fighting under water; having this specialty negates
 the –1 penalty for actions taken underwater, while expert and mastery
-levels add to your defensive combat tests, much like aerial combat. This
+levels add to your defensive combat tests, much like aerial combat.
+This
 specialty is primarily useful to Aquatic characters (see *Powers*, p.
 XXX).
 
 === Weapons ★
 
 This specialty group involves the use of various kinds of weapons, both
-melee weapons and ranged weapons. Add your specialty bonus to Prowess or
+melee weapons and ranged weapons.
+Add your specialty bonus to Prowess or
 Coordination tests to attack with weapons of the appropriate type.
 Weapons specialties include: Blades (all sharp and pointed melee
 weapons), Bludgeons (all blunt melee weapons), Bows (including
@@ -264,5 +296,6 @@ higher level of Prowess, rather than a specialty.
 
 === Wrestling
 
-This is specialty in wrestling combat (see *Wrestling*, p. XXX); add
+This is specialty in wrestling combat (see *Wrestling*, p.
+XXX); add
 your specialty bonus to all wrestling and escaping tests.

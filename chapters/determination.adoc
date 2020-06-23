@@ -4,13 +4,15 @@ Players can influence the outcome of tests and conflicts using their
 heroes' Determination.
 
 You can spend Determination during the game for several different
-things, described here. Heroes gain and lose Determination as the game
+things, described here.
+Heroes gain and lose Determination as the game
 progresses and the characters face different challenges.
 
 == Aspects
 
 A hero's use (and acquisition of) Determination is influenced by various
-aspects of the character. Players define these aspects when creating and
+aspects of the character.
+Players define these aspects when creating and
 playing their heroes and the GM does the same when creating the villains
 and other characters of the game.
 
@@ -22,14 +24,17 @@ Aspects come in two types: qualities define the character's generally
 positive descriptive traits, whereas challenges generally describe
 difficulties the hero faces.
 
-By their very nature, aspects are broad and somewhat vague. Some aspects
-tend to come up in play more often than others. However, since all
+By their very nature, aspects are broad and somewhat vague.
+Some aspects
+tend to come up in play more often than others.
+However, since all
 aspects are governed by the use and acquisition of Determination, their
 "value" is essentially all the same.
 
 === Qualities
 
-The following are types of qualities to consider for your hero. You can
+The following are types of qualities to consider for your hero.
+You can
 have up to five to start off and you can have multiple instances of one
 type and none of another: the categories are not restrictive, just for
 reference.
@@ -39,7 +44,8 @@ reference.
 Your hero has a particular catchphrase, battle-cry, or pithy saying,
 such as "It's Clobberin' Time!" or "I Say Thee Nay, Villain!" or even
 "Sweet Christmas!" You can tag your catchphrase quality by saying it at
-the appropriate time for a suitable action. However, you (the player)
+the appropriate time for a suitable action.
+However, you (the player)
 must say the catchphrase in a suitably dramatic fashion!
 
 You can have multiple catchphrases, but it is fairly rare for a hero to
@@ -52,7 +58,8 @@ belted out at dramatically appropriate moments.
 ==== Connections
 
 Many, if not most, heroes have the Connections quality, which represents
-the various important people in the character's life. While heroes are
+the various important people in the character's life.
+While heroes are
 sworn to protect people in general, they typically have families, loved
 ones, friends, romantic interests, and so forth, people special to them
 in some way.
@@ -60,21 +67,25 @@ in some way.
 If you have the Connections quality, you can declare any number of
 people important to your character, but this can be a double-edged
 sword, since the GM can also compel your aspect by placing a person you
-have declared a connection in danger! (See *Tagging and Compelling
+have declared a connection in danger!
+(See *Tagging and Compelling
 Aspects* in the following section for more information.) So the more
 people you are connected to, the more easily both you and others may tag
 your aspect!
 
 As a quality, Connections are assumed to provide your hero with some
-help, if only in the form of motivation. If a hero's connection is
+help, if only in the form of motivation.
+If a hero's connection is
 solely a challenge, see the Challenges section.
 
 ==== Epithet
 
 An epithet is a title or descriptive phrase applied to your character,
-often used in dramatic dialog. Examples include: Man of Tomorrow, Maiden
+often used in dramatic dialog.
+Examples include: Man of Tomorrow, Maiden
 of Might, Master of the Mystic Arts, and World's Greatest [fill-in the
-blank]. It typically describes something about the hero's style, powers,
+blank].
+It typically describes something about the hero's style, powers,
 or qualities beyond just abilities.
 
 You can tag an epithet in a situation where the GM agrees that it
@@ -82,19 +93,24 @@ applies.
 
 *Singular Epithets:* Some epithets are unique, such as "World's
 Greatest" anything, since only one character by definition can have that
-epithet. The GM should ensure that the character with the epithet really
-does qualify for it! The only case where more than one character can
-have a singular epithet is when two or more are competing for it. In
+epithet.
+The GM should ensure that the character with the epithet really
+does qualify for it!
+The only case where more than one character can
+have a singular epithet is when two or more are competing for it.
+In
 this case, the aspect can be compelled to put those characters into
 competition whenever they encounter each other: two heroes who both have
 "World's Fastest Hero," for example, can be compelled into a race or
-some other test of who's faster whenever they get together. Plus there
+some other test of who's faster whenever they get together.
+Plus there
 could still be the "World's Fastest Villain"...
 
 ==== Identity
 
 Heroes are more than just a colorful costume and a collection of powers
-(or, at least, we hope that they are). The identity quality deals with a
+(or, at least, we hope that they are).
+The identity quality deals with a
 description of who the hero is outside of the costume and mask, touching
 upon other aspects of the character's background, personality, and life.
 Examples include Billionaire Playboy, Mild-Mannered Reporter, Freelance
@@ -103,29 +119,37 @@ few.
 
 You can tag your hero's identity quality in situations where it might
 come to bear: an Intrepid Reporter might be able to acquire information
-a colorfully clad and world-famous hero might not. A Wealthy
-Industrialist has access to certain resources, and so forth. The GM
+a colorfully clad and world-famous hero might not.
+A Wealthy
+Industrialist has access to certain resources, and so forth.
+The GM
 might compel your aspect to introduce challenges dealing with your
 identity: a meddlesome boss, a threatened corporate takeover, an oath or
 obligation to your homeland (or homeworld), and so forth.
 
 ==== Motivation
 
-It takes more than the acquisition of powers to make a hero. After all,
-villains often go through the same origins. What makes some choose
-heroism over villainy? In short, what motivates someone to become a
+It takes more than the acquisition of powers to make a hero.
+After all,
+villains often go through the same origins.
+What makes some choose
+heroism over villainy?
+In short, what motivates someone to become a
 hero?
 
 A motivation quality describes what made your character take the hero's
-path, and what keeps him or her on it, even when things get tough. It
+path, and what keeps him or her on it, even when things get tough.
+It
 might be vengeance for some wrong the character suffered or an
 unflagging belief in truth and justice, god and country, or that with
-great power also comes great responsibility. It could be the thrills and
+great power also comes great responsibility.
+It could be the thrills and
 excitement of the hero game or the need to be rid of some unwanted power
 or ability.
 
 You can tag your hero's motivation when dealing with situations where it
-makes the difference between giving up and pushing ahead. The GM might
+makes the difference between giving up and pushing ahead.
+The GM might
 compel your motivation to encourage headstrong actions in accordance
 with it.
 
@@ -135,26 +159,33 @@ with it.
 Although the five types of qualities listed here cover the major ones
 associated with superheroes, you are not necessarily limited to them;
 they are intended as a framework to help guide you in choosing, rather
-than a set of restrictions. If you have an idea for a particularly good
+than a set of restrictions.
+If you have an idea for a particularly good
 quality for your character that does not fit into one of the previously
-described categories, discuss it with your Game Master. So long as it
+described categories, discuss it with your Game Master.
+So long as it
 describes your hero well and provides interesting story and roleplaying
 hooks, why not use it?
 
 === Challenges
 
 Challenges are aspects similar to qualities in that they serve to
-describe things about your character. Unlike qualities, which tend to
+describe things about your character.
+Unlike qualities, which tend to
 have both positive and negative sides, challenges are all about the
-things your hero works to overcome. While the GM can compel challenges,
+things your hero works to overcome.
+While the GM can compel challenges,
 earning you Determination, you cannot tag them to gain bonuses or use
 Determination yourself; you need to use your qualities for that.
 
 Also like qualities, challenges come in particular categories or types
-and you may choose up to five to start with. Unlike qualities, your hero
-does not have to have any challenges. The fewer the challenges, the less
+and you may choose up to five to start with.
+Unlike qualities, your hero
+does not have to have any challenges.
+The fewer the challenges, the less
 hassle your hero faces, but the fewer opportunities you have to earn
-Determination. Plus challenges put the spotlight on your hero, if only
+Determination.
+Plus challenges put the spotlight on your hero, if only
 briefly, so they ensure you more action, more challenge, during the
 game.
 
@@ -162,19 +193,25 @@ game.
 ==== Bad Luck
 
 Sometimes it just seems like the universe hates your hero: when this
-challenge is compelled, bad things happen. Your hero's car might be
+challenge is compelled, bad things happen.
+Your hero's car might be
 booted or repossessed, the rent might come due when there's no money to
-pay it, a critical device might stop working... pretty much any cruel
+pay it, a critical device might stop working...
+pretty much any cruel
 thing the GM can think of that does not outright remove your character
-from the game. Like other challenges, you can stave off Bad Luck with
+from the game.
+Like other challenges, you can stave off Bad Luck with
 Determination temporarily, but sooner or later it will get you.
 
 ==== Enemy
 
-Heroes make enemies, often lifelong archenemies. This challenge involves
-an enemy with a specific vendetta against your hero. The GM can compel
+Heroes make enemies, often lifelong archenemies.
+This challenge involves
+an enemy with a specific vendetta against your hero.
+The GM can compel
 it to have your enemy show up or gain an advantage over you, such as
-springing a trap or ambush. Note that just having your enemy show up in
+springing a trap or ambush.
+Note that just having your enemy show up in
 an adventure does not necessarily constitute a compel, unless the enemy
 gains some advantage in the process.
 
@@ -183,18 +220,22 @@ gains some advantage in the process.
 Let's face it, superheroes often have issues, sometimes a lot of issues.
 Personal challenges are just that: They may be psychological, ranging
 from claustrophobia to a berserker temper, or physical, from being
-confined to a wheelchair to blindness. Whatever the case, the GM can
+confined to a wheelchair to blindness.
+Whatever the case, the GM can
 compel your hero's personal challenge in any situation where it might be
-a hindrance. In the case of psychological challenges, it may temporarily
+a hindrance.
+In the case of psychological challenges, it may temporarily
 dominate the character's behavior (panicking when confronted with a
 phobia, losing control when angered, etc.).
 
 ==== Social
 
-Superheroes are not usually the most normal folks. Even if you ignore
+Superheroes are not usually the most normal folks.
+Even if you ignore
 the form-fitting colorful costumes, some heroes look downright weird.
 This leads people to make assumptions and react negatively to the hero
-who looks like, say, a classical demon or a rocky monster. It can make
+who looks like, say, a classical demon or a rocky monster.
+It can make
 it difficult for a hero to get a point across, deal with the public, or
 otherwise make a good impression when one is needed.
 
@@ -207,13 +248,15 @@ unfairly.
 
 The Achilles' heel is a major element of many superheroes, a specific
 weakness or vulnerability, be it to a metal, color, time of the day or
-night, or strange radioactive mineral. This challenge is basically
+night, or strange radioactive mineral.
+This challenge is basically
 something the GM can compel to give your hero a handicap, from a loss of
 powers to a life-threatening situation, such as a hero who needs water
 to survive or dies if exposed to a particular substance for too long.
 Weaknesses are ready-made for villainous death traps and ambushes, and
 provide a way to make otherwise "invincible" heroes vulnerable enough to
-defeat. Compelling your weakness lets the GM inflict pretty much any
+defeat.
+Compelling your weakness lets the GM inflict pretty much any
 effect short of killing the hero outright.
 
 [[tagging_and_compelling]]
@@ -229,8 +272,11 @@ attention, such as, “I think my ‘Dark Detective’ quality might be
 relevant here” or “Sounds like it’s ‘Hammer Time!’ as my hero might
 say.” You can also tag other characters’ aspects: this involves
 declaring the aspect you are tagging and how your hero is interacting
-with it. If you don’t know other characters’ aspects, guess! Sometimes
-they’ll be fairly obvious. When they’re not, you can make an appropriate
+with it.
+If you don’t know other characters’ aspects, guess!
+Sometimes
+they’ll be fairly obvious.
+When they’re not, you can make an appropriate
 test (usually Awareness) to figure them out.
 
 Tagging lets you spend Determination in certain ways related to the
@@ -241,10 +287,12 @@ Using Determination).
 
 The GM can also compel your qualities and challenges, essentially
 choosing a particular quality or challenge and offering you a point of
-Determination for accepting the consequences of it. For example, the GM
+Determination for accepting the consequences of it.
+For example, the GM
 might say: "Your Bad Luck chooses this moment to rear its head and the
 fire escape gives away beneath you" or "Looks like the crowd isn't
-reacting too well to your strange appearance" or the like. If you
+reacting too well to your strange appearance" or the like.
+If you
 accept, you get the point of Determination and play continues with the
 effects of the compel.
 
@@ -257,14 +305,17 @@ consequence of the compel, essentially losing out on two points!
 
 While the standard in Icons is to fill out a hero's qualities and
 challenges during character creation, it may be that you do not have
-ideas for five of each right away. Good ideas for aspects often suggest
+ideas for five of each right away.
+Good ideas for aspects often suggest
 themselves while you are playing the character and have a better feel
 for what works in the context of the adventure and the series.
 Therefore, the GM may wish to implement the following optional rule.
 
 Players must define at least two qualities for their heroes upon
-creation. They do not have to define any challenges (as heroes aren't
-required to have any). At any time during play, a player can choose a
+creation.
+They do not have to define any challenges (as heroes aren't
+required to have any).
+At any time during play, a player can choose a
 quality or challenge to fill-in one of the character's blank "slots" in
 the aspects list, until reaching five qualities and five challenges.
 
@@ -294,24 +345,31 @@ your hero to perform an unusual trick or power effect (Stunts).
 === Determined Effort
 
 During the game, a test may be important enough for your character to
-make a determined effort. When making a determined effort, state the
-desired outcome of the test (moderate, major, or massive success). If
+make a determined effort.
+When making a determined effort, state the
+desired outcome of the test (moderate, major, or massive success).
+If
 the rolled effect isn't enough to achieve the desired success, spend 1
 point of Determination per two levels required to make up the difference
 and you achieve it.
 
 So, for example, you declare your hero is going to swing down and catch
 his falling girlfriend before she can hit the pavement, saying you want
-at least a major success. You roll the dice and get an effect of 0, a
-moderate success. So you subtract 0 from 3 (the minimum for a major
-success), getting 3 levels. Spending 2 points of Determination, you push
+at least a major success.
+You roll the dice and get an effect of 0, a
+moderate success.
+So you subtract 0 from 3 (the minimum for a major
+success), getting 3 levels.
+Spending 2 points of Determination, you push
 the result up to 3 and get a major success!
 
 Determined effort has a cost: once you declare it on an action, you must
 spend at least 1 point of Determination, even if the effect of the roll
-is what you wanted. So, in the previous example, if the effect had been
+is what you wanted.
+So, in the previous example, if the effect had been
 4 (enough for a major success), you'd still have to spend 1 point of
-Determination for the determined effort. Moreover, if you achieve the
+Determination for the determined effort.
+Moreover, if you achieve the
 desired result on the test, this point of Determination does not improve
 it; determined effort never gives you more than what you asked for.
 
@@ -323,13 +381,15 @@ many you get; the extra level doesn't count.
 If you don't have enough Determination to make up the difference between
 the rolled and desired effect, you still have to spend 1 point of
 Determination on the effort, even though it won't achieve the result you
-want. You still get the +2 levels from that point of Determination and
+want.
+You still get the +2 levels from that point of Determination and
 may get a lesser result than the one you intended, but still better than
 you rolled.
 
 To use determined effort, you must first tag one of your hero's
 qualities (see *Tagging and Compelling*, previously), indicating how the
-effort is relevant to your hero. For example, an epithet can show how
+effort is relevant to your hero.
+For example, an epithet can show how
 the effort relates to your hero's reputation or abilities, a connection
 quality might tie the effort into helping someone important to your
 hero, while a motivation quality brings your hero's driving purpose into
@@ -337,13 +397,16 @@ things.
 
 Finally, you can only declare a determined effort for a test where you
 only get one chance to succeed or where you've already tried and failed
-to achieve the desired success. So, for example, you can declare a
+to achieve the desired success.
+So, for example, you can declare a
 determined effort on your Coordination test to catch your falling
-girlfriend, because you'll only get one chance. You can't declare
+girlfriend, because you'll only get one chance.
+You can't declare
 determined effort trying to pick a lock, disarm a bomb, or hit a foe
 unless you've already tried and failed or you're only going to get one
 last chance before you're crushed by the closing walls, the bomb goes
-off, the foe activates his doomsday device, or the like. When in doubt,
+off, the foe activates his doomsday device, or the like.
+When in doubt,
 the GM is the final arbiter of when determined effort is allowed.
 
 [[focused_effort]]
@@ -351,7 +414,8 @@ the GM is the final arbiter of when determined effort is allowed.
 
 You can spend Determination as a "game changer" to shift the trait used
 for a test, presumably from one where your hero is weak to one where he
-or she is more effective, a focused effort. You use the new trait for
+or she is more effective, a focused effort.
+You use the new trait for
 the test, handling everything else in the same way.
 
 To use focused effort, you must first tag one of your hero's qualities.
@@ -366,9 +430,11 @@ fails, hit things." You tag it and tell the GM you want to make a
 focused effort to fix the device -- by giving it a good whack.
 
 The GM agrees and you make a Strength test rather than the usual
-Intellect test. A focused effort can also be declared a determined
+Intellect test.
+A focused effort can also be declared a determined
 effort, if you meet the requirements for both and spend the
-Determination separately. You can tag the same quality for both efforts.
+Determination separately.
+You can tag the same quality for both efforts.
 
 === Recover
 
@@ -376,67 +442,86 @@ You can spend Determination to recover lost Stamina: you immediately
 regain Stamina equal to the greater of your Strength or Willpower level.
 
 You do not need to tag an aspect to recover, but you can only spend
-Determination to recover once during any given conflict. After that, you
+Determination to recover once during any given conflict.
+After that, you
 must recover lost Stamina normally (see *Recovery* under *Damage*).
 
 === Retcon
 
 You can use Determination to retcon certain details about the setting
-and story during the game. "Retcon" is a comic book term for
+and story during the game.
+"Retcon" is a comic book term for
 "retroactive continuity," essentially filling in previously unknown past
 events.
 
 When you retcon in the game, you pay a point of Determination and define
-or detail something previously unknown. If the GM agrees, then it
-becomes true. For example, you can retcon the contents of a storeroom to
+or detail something previously unknown.
+If the GM agrees, then it
+becomes true.
+For example, you can retcon the contents of a storeroom to
 contain just the right chemicals you need to build a makeshift
 explosive, or you can retcon what's hidden in your pockets or the fact
 that you know someone in a foreign city.
 
 In order to retcon, you must tag one of your hero's qualities relevant
-to the retcon (see *Tagging and Compelling*, previously). Examples
+to the retcon (see *Tagging and Compelling*, previously).
+Examples
 include an epithet or identity related to an area of expertise, or a
 connection that explains how the hero might know or acquire something.
 The GM decides if the explanation is sufficient to allow spending
-Determination on a retcon. The GM may also allow you to retcon with a
+Determination on a retcon.
+The GM may also allow you to retcon with a
 major or better success with one of your specialties, reflecting an area
 of expertise where you hero could be expected to know or have something.
 In this case, the success is treated as a one-time quality for you to
 tag.
 
 The key limit to retconning is you cannot contradict previously
-established information... unless you come up with some plausible reason
-why that information was never true to begin with! The GM has final say
+established information...
+unless you come up with some plausible reason
+why that information was never true to begin with!
+The GM has final say
 on retcons, but generally, if what you propose makes the game more
-interesting, odds are in your favor. If a proposed retcon isn't
+interesting, odds are in your favor.
+If a proposed retcon isn't
 approved, you retain the Determination point; it essentially never
 happens.
 
 === Stunts
 
-Lastly, you can use Determination to perform stunts. These are new
+Lastly, you can use Determination to perform stunts.
+These are new
 applications of your hero's traits, using them to do something different
 or unusual, like using your Super-Speed power to whip up a whirlwind,
 your projected Force Field to suffocate someone by surrounding their
 head with a small bubble of airtight energy, or your tremendous Strength
-to create a powerful shockwave. They're somewhat like retcons, where
+to create a powerful shockwave.
+They're somewhat like retcons, where
 someone might say "I didn't know you could do that!"
 
 To perform a stunt, you must tag one of your qualities related to what
-you want to accomplish. This is usually something like a catchphrase or
+you want to accomplish.
+This is usually something like a catchphrase or
 epithet, although other qualities (particularly motivation) can serve in
-some instances. Then you describe what you want to the stunt to
+some instances.
+Then you describe what you want to the stunt to
 accomplish and the GM decides whether or not it suits your hero's
-quality and traits. The GM always has the option of disallowing
+quality and traits.
+The GM always has the option of disallowing
 inappropriate stunts.
 
 If the GM gives you the go ahead, spend a point of Determination to
 attempt the stunt and make a test of your trait using its own level as
-the difficulty. If the test fails, so does the stunt, and nothing
-happens. With an effect of 0, the stunt works, but there are side
-effects, determined by the GM. You might whip up a whirlwind, but also
+the difficulty.
+If the test fails, so does the stunt, and nothing
+happens.
+With an effect of 0, the stunt works, but there are side
+effects, determined by the GM.
+You might whip up a whirlwind, but also
 do some collateral damage or unintentionally affect your teammates, for
-example. With an effect of 1 or more, the stunt works as planned. Note
+example.
+With an effect of 1 or more, the stunt works as planned.
+Note
 the GM might require an additional test to actually apply the stunt,
 such as an attack test to hit an opponent with a stunt attack.
 
@@ -448,26 +533,34 @@ Determination required just to attempt the stunt in the first place.
 == Gaining Determination
 
 During play, your character gains Determination from compels applied to
-the hero's aspects by the Game Master. You have the opportunity to
+the hero's aspects by the Game Master.
+You have the opportunity to
 refuse these compels, but it costs you Determination to do so.
 
 You do not have to passively wait around for the GM to decide to compel
-your hero's aspects. In fact, you can offer up opportunities as part of
-playing your character's role, and earn Determination for doing it! Game
+your hero's aspects.
+In fact, you can offer up opportunities as part of
+playing your character's role, and earn Determination for doing it!
+Game
 Masters have a lot of information to juggle, and might miss a chance to
 push one of your character's buttons, in which case you should feel free
-to offer a suggestion or reminder. For example, if you spot a perfect
+to offer a suggestion or reminder.
+For example, if you spot a perfect
 chance to endanger one of your hero's connections during a massive
-battle, just say so. The GM may take your suggestion and award you a
-point of Determination. Good thing, as you're going to need it to take
+battle, just say so.
+The GM may take your suggestion and award you a
+point of Determination.
+Good thing, as you're going to need it to take
 down the bad guys and save your loved ones!
 
 If the chips are down and you really need some extra Determination to
 carry your hero through, you can even suggest new temporary challenges
-for the GM to compel. For example, to push your armored hero's
+for the GM to compel.
+For example, to push your armored hero's
 power-suit to its limits, you suggest the GM apply a temporary
 "overload" challenge: you get Determination, but after your Determined
-effort, your hero's power-suit is going to shut down! Better make it
+effort, your hero's power-suit is going to shut down!
+Better make it
 count...
 
 You may also earn Determination simply by doing cool things like playing
@@ -486,5 +579,6 @@ Determination.
 
 If your character's Determination at the start of the issue is below
 your starting amount (6 minus the number of powers the character has,
-with a minimum of 1), it increases up to that amount. However, if it's
+with a minimum of 1), it increases up to that amount.
+However, if it's
 already above the starting amount, then it doesn't increase.
