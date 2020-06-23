@@ -632,7 +632,7 @@ villain.
 [cols="",options="header",]
 |===
 |Plot Element 1
-||d6
+|d6
 |1-2
 |
 |
@@ -656,7 +656,7 @@ villain.
 [cols="",options="header",]
 |===
 |Plot Element 2
-||d6
+|d6
 |1-2
 |
 |
@@ -843,9 +843,8 @@ how many points you give out to the flow of your game, supplementing it
 when you feel things are getting slow or unfairly difficult for the
 players.
 
-[[option_hero_improvement]]
-=== Option: Hero Improvement
-
+.Option: Hero Improvement
+****
 In the comic books, characters don't generally go through gradual change
 and improvement: they change radically, gaining or losing powers,
 changing names and costumes, dying and returning to life (often with new
@@ -892,3 +891,4 @@ of time or effort may be required.
 Heroes might even need to seek out
 particular teachers or assistants and gain their aid in making the
 desired improvements.
+****

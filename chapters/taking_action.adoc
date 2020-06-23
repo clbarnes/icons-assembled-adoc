@@ -373,7 +373,7 @@ if more than two feet thick, increase Strength by 2.
 
 [cols=",",options="header",]
 |===
-||Strength Level ||Material
+|Strength Level |Material
 |1 |Paper
 |2 |Plastic
 |3 |Aluminum
@@ -460,7 +460,7 @@ Your Strength level determines the amount you can lift, as follows:
 
 [cols=",",options="header",]
 |===
-||Strength Level ||Strong enough to lift...
+|Strength Level |Strong enough to lift...
 |1 |a heavy sack
 |2 |a child
 |3 |a couple heavy sacks
@@ -911,9 +911,8 @@ character unconscious.
 
 Major or massive success test means no effect.
 
-[[option_minions]]
-=== Option: Minions
-
+.Option: Minions
+****
 Villains often have gangs of minions, henchmen intended primarily to
 keep heroes busy with superior numbers.
 Most minions are relatively weak
@@ -933,6 +932,7 @@ minions still have their normal effect.
 This speeds up dealing with
 large numbers of minion opponents so the heroes can get on to the main
 event!
+****
 
 == Recovery
 
@@ -988,9 +988,8 @@ duplicate, time-traveler, or the like who is not the original hero, who
 is still dead...
 for now.
 
-[[option_lasting_injuries]]
-=== Option: Lasting Injuries
-
+.Option: Lasting Injuries
+****
 At the Game Master's option, characters who have taken a significant
 beating (particularly if they have suffered a significant slam, stun, or
 have lost Strength levels) may have lingering injuries, ranging from a
@@ -1006,3 +1005,4 @@ devices, rather than marks on a characters sheet, and they only come
 into play when the GM wishes.
 Otherwise, stick to the simpler damage
 system given previously.
+****

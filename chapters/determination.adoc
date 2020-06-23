@@ -300,9 +300,8 @@ You can refuse a compel, but it costs you a point of Determination to do
 so, and you don't get the point you normally would for accepting the
 consequence of the compel, essentially losing out on two points!
 
-[[option_choosing_aspects_during_play]]
-=== Option: Choosing Aspects During Play
-
+.Option: Choosing aspects during play
+****
 While the standard in Icons is to fill out a hero's qualities and
 challenges during character creation, it may be that you do not have
 ideas for five of each right away.
@@ -331,6 +330,7 @@ come into play (in which case it is essentially a retcon and "never
 existed") or is no longer relevant: the hero does not have that
 connection any more, his appearance or motivation have changed, and so
 forth.
+****
 
 [[using_determination]]
 == Using Determination

@@ -26,7 +26,7 @@ them renders them unconscious.
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Specialties*
@@ -54,7 +54,7 @@ with Mind Control or similar powers and turned against the heroes!
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Specialties*
@@ -81,7 +81,7 @@ weapons (see the Henchman and Soldier for examples).
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Specialties*
@@ -108,7 +108,7 @@ like handguns (shooting damage 3–4).
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Specialties*
@@ -137,7 +137,7 @@ throwing stars (shooting damage 2).
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Specialties*
@@ -164,7 +164,7 @@ damage 4), a radio, and handcuffs (material strength 6).
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Notes*
@@ -193,7 +193,7 @@ armored.
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Specialties*
@@ -221,7 +221,7 @@ rifles (shooting damage 5).
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Specialties*
@@ -248,7 +248,7 @@ They may have guns (shooting damage 3–4) or other makeshift weapons
 |Awareness
 |Willpower
 |
-||Stamina
+|Stamina
 |===
 
 *Notes*

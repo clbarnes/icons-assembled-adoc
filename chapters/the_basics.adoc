@@ -27,7 +27,7 @@ ability:
 
 [cols=",,",options="header",]
 |===
-||Level ||Description ||Optional Name
+|Level |Description |Optional Name
 |1 |Weak, minimum human |Doddering, Feeble, Weak
 |2 |Below-average human |Inadequate, Inferior, Poor
 |3 |Average human |Average, Mediocre, Typical
@@ -52,9 +52,8 @@ Mastering section talks more about dealing with things off the scale but
 the short answer is; if they are, don't worry about them, just use
 common sense.
 
-[[option_named_levels]]
-=== Option: Named Levels
-
+.Option: Named Levels
+****
 Although not mechanically necessary, Game Masters may wish to assign
 descriptive names to the various levels on the scale as a means of
 adding additional flavor to the game.
@@ -67,6 +66,7 @@ formulas, and character sheets) and clearer, especially where math is
 involved.
 Numerical notation also allows you to "skin" whatever set of
 adjectives you prefer over the numbers for your own game.
+****
 
 == Dice
 
@@ -81,8 +81,8 @@ with odds weighted towards a middle or 0 result, as follows:
 
 [cols=",,",options="header",]
 |===
-||Result ||Chance of +
-Exact Result ||Chance of +
+|Result |Chance of +
+Exact Result |Chance of +
 Result or Higher
 |+5 |2.77% |2.77%
 |+4 |5.55% |8.33%
@@ -172,7 +172,7 @@ the test:
 
 [cols=",",options="header",]
 |===
-||Effect ||Outcome
+|Effect |Outcome
 |Less than 0 |*Failure.* The effort fails to achieve the desired effect.
 
 |0-2 |*Moderate success.* The effort succeeds by a small margin.
