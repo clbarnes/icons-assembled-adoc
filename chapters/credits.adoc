@@ -1,1 +1,22 @@
 = Credits
+
+.Design
+Steve Kenson
+
+.Writing
+Steve Kenson, Walt Ciechanowski, Morgan Davie, Gareth-Michael Skarka
+
+.Editing
+Gareth-Michael Skarka
+
+.Art
+Dan "Alien Mastermind" Houser
+
+.Graphic design and layout
+Gareth-Michael Skarka
+
+.Playtesters
+Colin "The Hawk" Diem, Morgan "The Raptor" Ellis, Andy "Whisper" Frades, Walt "Detecto" Fulgate, Lyle "Defender" Hinckley, Andrew Johnson, Sean "Volcano" Johnson, Julian "Angel Detective" Kuleck, Ben Matchstick, Alex Munkelwitz, Matthew "Gypsy" Muth, Meghan "Grey" Rice-Frades, Jason "The Bald Eagle" Seabaugh, Mike "Jumpin' Bean" Spagmola, John Spaulding, Kevin "White Tiger" Stoner, Joe "The Swallow" Thompson, John Trombley, Branden "The Mighty Saguaro" Webb, Michael "Mr. Zero" Wheeler, Greg Wilcox
+
+.Asciidoctor formatting
+Chris Barnes
