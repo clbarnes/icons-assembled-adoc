@@ -1,1 +1,35 @@
 = Abilities
+
+Abilities in Icons are rated on the 1 to 10 scale.
+The six abilities are divided into physical and mental categories (three each).
+The abilities are: Prowess, Coordination, and Strength (physical), Intellect, Awareness, and Willpower (mental).
+
+== Physical
+
+.Prowess
+Prowess is the measure of a character's expertise in close combat.
+When kicking, punching, stabbing, or otherwise fighting in close quarters, this ability determines the outcome of the attack.
+
+.Coordination
+Coordination is the measure of a character's agility and dexterity.
+When shooting, throwing, dodging, balancing, or otherwise employing agility, dexterity, or coordination, this ability determines the outcome of the action.
+
+.Strength
+Strength is the measure of a character's physical strength and endurance.
+When lifting heavy objects, determining damage with melee or thrown attacks, or otherwise engaged in activities relying on physical power, this ability determines the outcome of the action.
+Your Strength level also affects your Stamina, or ability to withstand damage.
+
+== Mental
+
+.Intellect
+Intellect is a measure of the character's intelligence.
+When attempting to invent, solve a problem, learn, or otherwise use smarts, this ability determines the outcome of the action.
+
+.Awareness
+Awareness is a measure of the character's intuition and perceptiveness.
+When attempting to sense danger, spot something, recognize a hunch, or otherwise work on instinct rather than analyzing a situation, this ability determines the outcome of the action.
+
+.Willpower
+Willpower is a measure of the character's mental strength and force of personality.
+When dealing with issues of will or using powers of the mind, this ability determines the outcome of the action. It influences social interaction and making an impression on people.
+Your Willpower level also affects your Stamina, or ability to withstand damage.
