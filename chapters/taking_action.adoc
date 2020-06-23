@@ -705,7 +705,6 @@ wholeheartedly sides with your case.
 The following are some maneuvers and modifiers that may apply to
 conflicts.
 
-[[aerial_combat]]
 === Aerial Combat
 
 Airborne targets can be slammed regardless of comparative Strength
@@ -826,7 +825,6 @@ If you manage to surprise an opponent unaware of your presence (sneaking
 up using Stealth or Invisibility, for example), you get a +2 bonus on
 your attack test.
 
-[[underwater_combat]]
 === Underwater Combat
 
 Characters fighting underwater need to hold their breath, if they're

@@ -830,8 +830,7 @@ rest you can acquire as bonus powers:
 Control level.
 * Slow down time for those within close range, giving you Fast Attack at
 your Time Control level.
-* "Freeze" time around a subject, like the Paralysis power (p.
-XXX) at
+* "Freeze" time around a subject, like the Paralysis power at
 your Time Control level.
 * Place someone (including yourself) in a state of suspended animation,
 with time slowed to suspend the effects of a condition like poison or
@@ -839,8 +838,7 @@ the loss of Strength levels while dying.
 One minute passes for the
 subject for every (power level x 10) minutes in the outside world.
 * Summon duplicates of yourself from alternate timelines, like the
-Duplication power (p.
-XXX) at your Time Control level.
+Duplication power at your Time Control level.
 * Travel in time, going into the past or future or alternate timelines.
 It's up to the GM whether or not you can actually change history by
 traveling into the past; by default, assume you create a divergent or
