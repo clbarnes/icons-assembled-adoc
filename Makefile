@@ -9,6 +9,6 @@ pdf:
 	$(CMD_HEAD) asciidoctor-pdf $(CMD_TAIL)/index.pdf
 
 clean:
-	cd tgt && GLOBIGNORE=.gitignore rm -v *
+	GLOBIGNORE=.gitignore rm -v build/*
 
 default: html
