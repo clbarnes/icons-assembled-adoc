@@ -46,8 +46,7 @@ Determination pool and choose team aspects once the group is
 Likewise, you can allow players to
 choose team qualities and challenges during play, just as they can for
 individual heroes (see *Choosing Aspects During Play* under
-*Determination* on p.
-XXX for details).
+*Determination*).
 
 [[team_determination]]
 == Team Determination
@@ -98,9 +97,7 @@ A team might choose a catchphrase like a rallying cry, an epithet, or a
 team motivation, such as furthering the cause of justice in the world,
 exploring the unknown, or proving to everyone that superhuman mutants
 are not a threat to humanity.
-See *Qualities* on p.
-XXX for more
-suggestions.
+See *Qualities* for more suggestions.
 
 Thereafter, members of the team can tag team qualities to spend
 Determination from the team pool, just like personal Determination.
@@ -123,9 +120,7 @@ challenges must also be unanimous.
 Possible challenges include things like a team enemy, personal issues
 (like team in-fighting or bickering), or even something like general
 team social issues, like being part of a mistrusted minority.
-See
-*Challenges* on p.
-XXX for more possibilities.
+See *Challenges* for more possibilities.
 
 The GM can compel team challenges to add Determination to the team pool.
 A team challenge affects all members of the team present, but only adds

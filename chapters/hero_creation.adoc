@@ -353,8 +353,7 @@ how you use Determination in the game and, since overcoming challenges
 is the mark of a true hero, they are the way you earn more Determination
 in the game.
 Aspects are described in more detail in the Determination
-section (p.
-XXX).
+section.
 
 Choose at least one and up to five qualities and up to five challenges
 for your hero.

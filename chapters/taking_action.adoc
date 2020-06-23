@@ -186,9 +186,7 @@ attack's damage in Stamina.
 With a major success, you may slam the
 target.
 With a massive success, you may stun the target.
-See *Damage*
-(p.
-XXX) for details.
+See *Damage* for details.
 
 === Evading ®
 
@@ -217,8 +215,7 @@ deal the attack's damage in Stamina.
 With a major success, you may also
 stun the target.
 With a massive success, you may also kill the target!
-See *Damage* (p.
-XXX) for details.
+See *Damage* for details.
 
 == Coordination
 
@@ -235,13 +232,10 @@ On a failure, your
 attack misses.
 With a moderate success, you deal the attack's damage in
 Stamina.
-With a major success, you can hit a precise target (see *Called
-Shots* under *Maneuvers*, p.
-XXX) or may slam the target.
+With a major success, you can hit a precise target (see *Called Shots* under *Maneuvers*) or may slam the target.
 With a massive
 success, you may stun the target.
-See *Damage* (p.
-XXX) for details.
+See *Damage* for details.
 
 === Catching ⊕
 
@@ -317,15 +311,10 @@ On a failure, your attack misses.
 With a moderate
 success, you deal the attack's damage in Stamina.
 With a major success,
-you can hit a specific part of the target (see *Called Shots*, p.
-XXX).
-You can potentially use this to stun the target (see *Shooting to Stun*,
-p.
-XXX).
+you can hit a specific part of the target (see *Called Shots*).
+You can potentially use this to stun the target (see *Shooting to Stun*).
 With a massive success, you may kill the target!
-See *Damage*
-(p.
-XXX) for details.
+See *Damage* for details.
 
 === Swimming ⊕
 
@@ -333,8 +322,7 @@ Without a special power, a character covers only close distance each
 page while swimming.
 Characters underwater must make a Strength test
 each page: failure means you're unconscious and begin losing Strength
-levels (see *Killing*, p.
-XXX).
+levels (see *Killing*).
 Moderate success means you're winded and
 lose 2 points of Stamina.
 A major or better success means there's no
@@ -358,13 +346,11 @@ Hitting someone with a thrown object is a test of Coordination against
 the target's Coordination: on a failure, the object misses the target.
 On a success, it hits and deals its damage in Stamina.
 With a massive
-success, the object might also stun the target (see *Stunning*, p.
-XXX).
+success, the object might also stun the target (see *Stunning*).
 
 If the thrown object is sharp or pointed, then a major success results
 in a possible stun, but a massive success can potentially kill the
-target (see *Killing*, p.
-XXX).
+target (see *Killing*).
 
 == Strength
 
@@ -413,8 +399,7 @@ level: reduce damage inflicted on you by the amount equal to the effect
 So if you exceed the attack's damage
 by 3, for example, you reduce the damage inflicted by 3.
 
-If you have the Invulnerability power (p.
-XXX), you can also block
+If you have the Invulnerability power, you can also block
 Slashing and Shooting attacks, putting up your arms and pushing on
 through or even punching through Blasting or Shooting attacks!
 
@@ -466,8 +451,7 @@ distance for levels 9-10.
 With a Strength test against your own Strength
 level and a major success you can jump one extra step.
 
-If you have the Leaping power (p.
-XXX), you can jump much greater
+If you have the Leaping power, you can jump much greater
 distances than your Strength allows.
 
 === Lifting ⊕
@@ -506,8 +490,7 @@ moderate success, you hit, inflicting damage equal to your Strength.
 With a major success, you may slam the target.
 With a massive success,
 you may stun the target.
-See *Damage* (p.
-XXX) for details.
+See *Damage* for details.
 
 === Wrestling
 
@@ -543,8 +526,7 @@ machine could be difficulty 6 or even higher.
 
 If you have a level 6 or higher Intellect, or specialties giving you an
 effective level that high, the GM may allow you to perform stunts (see
-*Stunts*, p.
-XXX) to whip-up temporary inventions to overcome problems
+*Stunts*) to whip-up temporary inventions to overcome problems
 in an adventure.
 So, for example, you might be able to modify a device
 to do something different, or make a temporary device, like short-term
@@ -582,8 +564,7 @@ If you do want to take languages into account, then an Intellect 4
 character is fluent in one additional language.
 Each additional level of
 Intellect doubles the number of additional languages, and each level of
-the Languages specialty (p.
-XXX) counts as a level of Intellect in terms
+the Languages specialty counts as a level of Intellect in terms
 of known languages.
 
 By Intellect 9, a character speaks over thirty languages, over sixty at
@@ -649,8 +630,7 @@ You can use Awareness to pick up on subtle signs people and vehicles
 leave behind in order to follow their trail and track them.
 This is
 considerably easier (or at least possible) if you have one or more
-Supersenses (p.
-XXX) to pick up on signs other people can't, such as
+Supersenses to pick up on signs other people can't, such as
 tracking people by scent or microscopic traces they leave behind.
 
 == Willpower
@@ -747,8 +727,7 @@ the target with a good enough attack test.
 The difficulty level to attack an immobile target is generally 0,
 meaning the effort of the attack is also its effect.
 This includes
-opponents in a complete hold, or ensnared in a Binding power (see p.
-XXX).
+opponents in a complete hold, or ensnared in a Binding power.
 
 === Interposing
 
@@ -828,15 +807,13 @@ your attack test.
 === Underwater Combat
 
 Characters fighting underwater need to hold their breath, if they're
-unable to breathe water (see *Swimming*, p XXX).
+unable to breathe water (see *Swimming*).
 Additionally, they
 suffer a –1 penalty to actions due to the resistance of the water.
 The
-Underwater Combat specialty (p.
-XXX) negates this penalty, allowing the
+Underwater Combat specialty negates this penalty, allowing the
 character to act normally.
-The Aquatic power (p.
-XXX) may increase the
+The Aquatic power may increase the
 character's Coordination and Awareness for actions under water,
 offsetting the penalty as well.
 
@@ -883,8 +860,7 @@ The target must spend next panel getting up and can
 perform no other action.
 If there's an obstacle along the way, and the
 attacker's damage is greater than the obstacle's material Strength (see
-*Bending & Breaking*, p.
-XXX), the target is knocked through it.
+*Bending & Breaking*), the target is knocked through it.
 Otherwise the target hits the obstacle and stops.
 
 Moderate success knocks the target down.

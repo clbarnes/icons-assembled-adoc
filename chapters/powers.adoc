@@ -16,9 +16,7 @@ The following are the descriptions of the various powers.
 Each
 description includes general ways in which the power can be used.
 The
-Game Master sets the difficulty (see p.
-XXX) for specific actions
-attempted by characters with their powers.
+Game Master sets the difficulty for specific actions attempted by characters with their powers.
 
 [[power_groups]]
 === Power Groups ★
@@ -38,8 +36,7 @@ may include all powers in a group for ease of reference.
 === Bonus Powers
 
 Power descriptions refer to bonus powers; these are choices when
-creating a character (see *Character Creation*, p.
-XXX).
+creating a character (see *Character Creation*).
 You can have a
 bonus power replace one of your rolled powers.
 So, for example, if you
@@ -50,8 +47,7 @@ Bonus powers are optional, you don't have to take them, but if you
 choose not to do so, you can't go back and take one later.
 You can make
 use of bonus powers you chose not to take initially as power stunts
-later on (see *Power Stunts*, p.
-XXX).
+later on (see *Power Stunts*).
 
 === Devices
 
@@ -64,8 +60,7 @@ talismans.
 Devices have their own independent power-source, although they may need
 periodic recharging; having a device suddenly run out of power, break
 down, get stolen, or otherwise pose a problem for its owner is a
-suitable challenge (see *Challenges*, p.
-XXX).
+suitable challenge (see *Challenges*).
 
 Heroes with the Trained and Gimmick origins can only have powers from
 devices.
@@ -158,8 +153,7 @@ in your superhuman form(s).
 You can transform into a form other than flesh and blood, selected from
 the list below, at will.
 While transformed you possess the properties of
-the material and gain *Invulnerability* (p.
-XXX) equal to the power's
+the material and gain *Invulnerability* equal to the power's
 level.
 
 Depending on the form and Game Master approval you can use the level of
@@ -209,8 +203,7 @@ like a dolphin, 5 is as fast as a submersible, 7 like a torpedo, while
 higher levels are faster than any known sea-creature or vessel.
 
 If you have this power, but cannot breathe air (that is, you "drown" out
-of water, see *Swimming*, p.
-XXX), it does not count against your total
+of water, see *Swimming*, it does not count against your total
 number of powers when figuring Determination, since you essentially have
 a permanent "challenge" associated with it.
 
@@ -218,9 +211,7 @@ a permanent "challenge" associated with it.
 
 Your body, as well as worn or carried items, can change color, allowing
 you to blend into your surroundings.
-This is similar to *Invisibility*
-(see p.
-XXX), except it is easier to detect; anyone searching for you
+This is similar to *Invisibility*, except it is easier to detect; anyone searching for you
 makes an Awareness test against a difficulty equal to your Chameleon
 power level.
 If the Awareness test fails, you remain hidden.
@@ -256,12 +247,10 @@ Duplicates have the same traits as you, except they lack this power
 (duplicates cannot themselves create duplicates).
 You and your
 duplicates share the same "pool" of Determination, like a team (see
-*Team Determination*, p.
-XXX).
+*Team Determination*.
 Duplicates act as independent characters,
 although the GM may want to use the guidelines for cooperation with a
-group of duplicates (see *Combining Abilities*, p.
-XXX).
+group of duplicates (see *Combining Abilities*).
 
 A dead or unconscious duplicate disappears.
 If you are knocked out or
@@ -342,9 +331,7 @@ Roll an Invisibility (5) test, with success the item
 or character becomes invisible and remains so as long as you are
 touching it.
 Use your power level to determine the maximum mass of an
-object you can affect, as if you were trying to lift it (see *Lifting*,
-p.
-XXX).
+object you can affect, as if you were trying to lift it (see *Lifting*).
 
 You can choose Invisibility Ray as a bonus power, allowing you to make
 other things (and people) invisible at a distance.
@@ -372,8 +359,7 @@ choose some effect that works on you even while you are phasing.
 === Material Duplication (x2)
 
 By touching a substance or energy you can take on its properties like
-the Alternate Form power (p.
-XXX), except you can assume different
+the Alternate Form power, except you can assume different
 alternate forms, but only by touching the appropriate material or energy
 first.
 
@@ -492,8 +478,7 @@ unarmed damage (with a maximum of +3).
 === Stretching
 
 Your body and limbs can stretch, allowing you to reach or attack someone
-out to extended distance (see *Distance*, p.
-XXX).
+out to extended distance (see *Distance*).
 Use the lower of your
 normal ability or your Stretching level when you extend your reach, so
 abilities greater than your Stretching level are reduced to that level,
@@ -516,8 +501,7 @@ You gain the physical properties of the assumed form, up to your
 Transformation power level.
 Turning into other people doesn't grant you
 their powers, however.
-For that, see Power Duplication (p.
-XXX).
+For that, see Power Duplication.
 
 If convincingly imitating a particular form is an issue, your
 Transformation power level is the difficulty for an Awareness test to
@@ -587,9 +571,7 @@ individual power descriptions for details.
 
 You can endow inanimate objects with the ability to move and act on your
 command.
-Objects have Strength equal to their Strength (see *Bending &
-Breaking*, p.
-XXX), Prowess and Coordination equal to your power level,
+Objects have Strength equal to their Strength (see *Bending & Breaking*), Prowess and Coordination equal to your power level,
 and Stamina equal to their Strength.
 They have no mental abilities.
 The
@@ -598,8 +580,7 @@ and size, but are generally based on their new Strength and
 Coordination.
 You can only animate objects with Strength of your power
 level or less, and weighing no more than Strength of your power level
-could lift (see *Lifting*, p.
-XXX).
+could lift (see *Lifting*).
 
 [[elemental_control]]
 === Elemental Control ★
@@ -626,19 +607,16 @@ Choose two of the following power effects you can perform with your
 Elemental Control.
 You can acquire the others as bonus powers:
 
-*Attacking:* You can wield your element as an attack, like a Blast (p.
-XXX) at your Elemental Control power level.
+*Attacking:* You can wield your element as an attack, like a Blast at your Elemental Control power level.
 
 *Creating:* You can spontaneously create your chosen element, giving you
 an unlimited source of it to control.
 
 *Defending:* You can use Elemental Control to defend against attacks
-like a Force Field (p.
-XXX) at its power level.
+like a Force Field at its power level.
 
 *Detection:* You can detect the element you control, like the Detection
-power (p.
-XXX) at your Elemental Control level.
+power at your Elemental Control level.
 
 *Moving:* You can use Elemental Control to lift and move objects of your
 chosen element, and possibly others as well, by using the element as a
@@ -729,9 +707,7 @@ rather than curing it.
 === Plant Control
 
 You can control plants within extended range, forcing them to twist and
-turn and using them to wrestle, attack opponents, or block attacks (see
-p.
-XXX) using your Plant Control level in place of the usual abilities
+turn and using them to wrestle, attack opponents, or block attacks using your Plant Control level in place of the usual abilities
 for those actions.
 
 *Plant Growth:* As a bonus power, you can make plants grow rapidly in an
@@ -762,8 +738,7 @@ failed Power Nullification test, the power simply has no effect.
 
 You can exert some influence over random chance.
 This power gives you
-extra Determination equal to its level (see Determination, p.
-XXX),
+extra Determination equal to its level (see Determination),
 usable only for determined effort and retcons.
 These points renew along
 with your normal Determination but are not otherwise affected by changes
@@ -921,14 +896,12 @@ however, just like other devices.
 Most
 spells require the ability to freely speak and gesture.
 If you are held
-(see *Wrestling*, p.
-XXX), gagged, or otherwise unable to gesture or
+(see *Wrestling*), gagged, or otherwise unable to gesture or
 speak, you cannot cast spells.
 
 Choose two power effects you can duplicate with your Wizardry.
 Additional effects are available as bonus powers; essentially, any power
-is a potential Wizardry power stunt (see *Power Stunts*, p.
-XXX).
+is a potential Wizardry power stunt (see *Power Stunts*).
 
 [[defensive_powers]]
 == Defensive Powers
@@ -942,10 +915,8 @@ providing a defensive power.
 === Absorption
 
 You are resistant to damage inflicted by a specific element or energy
-type (select one under *Elemental Control*, see p.
-XXX) up to the level
-of this power, like the Resistance power (see *Resistance*, p.
-XXX).
+type (select one under *Elemental Control*) up to the level
+of this power, like the Resistance power (see *Resistance*).
 Any
 levels of damage over the level of this power are suffered normally.
 You
@@ -1168,15 +1139,13 @@ successful power test with the target's Awareness as the difficulty.
 If
 you fail an Emotion Control test against someone, you must make a
 determined effort to attempt to control them again in the same scene
-(see *Determination*, p.
-XXX).
+(see *Determination*).
 
 You can instill a single emotion in the target at a time (see the
 following table for emotional effects).
 The target is affected until you
 choose to release them or they are led to do something opposed to one or
-more of their aspects (see *Aspects*, p.
-XXX) at which point you must
+more of their aspects (see *Aspects*) at which point you must
 roll a new Emotion Control test to maintain the effect.
 
 If you are limited to instilling a single emotion, increase your power
@@ -1243,9 +1212,7 @@ They cannot cause damage.
 
 You can strike other minds within visual range with blasts of mental
 "force." Roll a Willpower test, with a difficulty equal to the target's
-Willpower and read the results like a blasting attack (see *Blasting*,
-p.
-XXX).
+Willpower and read the results like a blasting attack (see *Blasting*).
 You inflict damage equal to your power level and can stun, but
 not slam, your target.
 
@@ -1264,14 +1231,12 @@ To take control of another, roll a Mind Control test with a difficulty
 of the target's Willpower.
 If successful, the target is under your
 control until you choose to release them or you order the target to do
-something opposed one or more of their aspects (see *Aspects*, p.
-XXX)
+something opposed one or more of their aspects (see *Aspects*)
 at which point you must roll a new Mind Control test to maintain your
 control.
 If you fail a Mind Control test against someone, you must make
 a determined effort to attempt to control them again in the same scene
-(see *Determination*, p.
-XXX).
+(see *Determination*).
 
 While you can command a target to take any action, you cannot force
 targets to make determined efforts or otherwise spend Determination.
@@ -1342,12 +1307,9 @@ wall-walking boots and gloves, and teleport belts.
 === Burrowing
 
 You have the ability to tunnel beneath the earth, moving at a rate equal
-to your normal speed (see *Movement*, p.
-XXX) through any subterranean
+to your normal speed (see *Movement*) through any subterranean
 area with a material Strength equal to or less than your Burrowing level
-(see *Bending and Breaking*, p.
-XXX, for some comparative Strength
-levels).
+(see *Bending and Breaking* for some comparative Strength levels).
 You cannot "burrow" through other characters; for that sort of
 attack, see *Strike* under *Offensive Powers*.
 
@@ -1504,8 +1466,7 @@ You can project an attack that binds or traps the target such as glue,
 ice, mud, webbing, or the like.
 Make a Coordination test against the
 target's Coordination to hit with the attack, treating the outcome like
-a wrestling test (see *Wrestling*, p.
-XXX).
+a wrestling test (see *Wrestling*).
 Your Binding has Strength
 equal to its power level.
 
@@ -1532,8 +1493,7 @@ With
 a moderate success, you blind the target for 1 page, with a major or
 better success, the target is blinded for 1 page per Blinding level.
 
-The Resistance power (p.
-XXX) can reduce the power level of your
+The Resistance power can reduce the power level of your
 Blinding; if it's reduced to 0 or less, you cannot blind the target.
 
 Optionally, you can have your attack affect a sense other than sight,
@@ -1573,8 +1533,7 @@ target's Stamina and add it to your Stamina, which can't increase above
 its normal maximum.
 Targets drained to 0 Stamina must make a Strength
 test against your Life Drain level with failure meaning they begin
-losing Strength levels (see *Killing*, p.
-XXX).
+losing Strength levels (see *Killing*).
 
 As a bonus power, your Life Drain can increase your Stamina above it's
 normal maximum, up to your power level.
@@ -1693,8 +1652,7 @@ tests for areas completely unknown to you, determining what you sense
 based on the result.
 
 As a bonus power, you can extend your ESP into other dimensions, like a
-use of the Dimension Travel power (p.
-XXX).
+use of the Dimension Travel power.
 
 If your ESP is limited to only seeing or hearing (clairvoyance or
 clairaudience), rather than all your ranged senses, increase your rolled
@@ -1707,8 +1665,7 @@ range.
 Use the higher of your Interface or Intellect levels when
 operating computers.
 Against intelligent computer systems, including
-self-aware robots, this power works like Telepathy (see p.
-XXX).
+self-aware robots, this power works like Telepathy.
 
 === Postcognition
 

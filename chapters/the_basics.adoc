@@ -122,8 +122,7 @@ finds average tests of strength ridiculously easy.
 There are six abilities, three physical and three mental: Prowess,
 Coordination, and Strength, plus Intellect, Awareness, and Willpower.
 
-Abilities are described in detail in their own section on p.
-XXX.
+Abilities are described in detail in their own section.
 
 == Tests
 
@@ -237,8 +236,7 @@ higher level of ability in that area.
 Likewise, a character with a
 Martial Arts specialty in Prowess is a better unarmed fighter.
 
-Specialties and their uses are described in detail on p.
-XXX.
+Specialties and their uses are described in detail in their own section.
 
 == Powers
 
@@ -251,8 +249,7 @@ just a 1 or 2), powers are rare and vary from character to character.
 The heroes and villains in Icons typically have powers, but normal
 people, by definition, do not.
 
-Powers and their effects are described in detail on p.
-XXX.
+Powers and their effects are described in detail in their own section.
 
 == Determination
 
@@ -275,5 +272,4 @@ the hero's Qualities and Challenges.
 
 Qualities and Challenges together describe the different Aspects of a
 character.
-Determination and how it works is described in detail on p.
-XXX.
+Determination and how it works is described in detail in its own chapter.

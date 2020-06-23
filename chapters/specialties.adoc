@@ -83,8 +83,7 @@ Intellect.
 === Acrobatics
 
 Add your specialty bonus to Coordination for acrobatic maneuvers,
-including dodging tests in combat (see *Dodging*, p.
-XXX).
+including dodging tests in combat (see *Dodging*).
 
 [[aerial_combat]]
 === Aerial Combat
@@ -149,8 +148,7 @@ You're especially adept at learning and speaking other languages.
 Your
 specialty bonus improves your Intellect level when it comes to dealing
 with languages.
-See *Languages*, p.
-XXX, for details.
+See *Languages* for details.
 
 === Law
 
@@ -164,8 +162,7 @@ or practicing law.
 You are a skilled and recognized leader, able to inspire confidence and
 determination in those under your guidance.
 When you are the leader of a
-team, their Team Determination (see *Team Determination*, p.
-XXX) is
+team, their Team Determination (see *Team Determination*) is
 increased by your specialty bonus.
 A team can only have one recognized
 leader at a time.
@@ -179,8 +176,7 @@ the Wrestling specialty).
 If you are skilled in Martial Arts, use the
 better of your Strength or Prowess (including your specialty bonus for
 the latter) as the difficulty for an opponent to resist being slammed or
-stunned by your unarmed attacks (see *Stun* and *Slam*, p.
-XXX).
+stunned by your unarmed attacks (see *Stun* and *Slam*).
 
 So, for example, a character with Martial Arts Mastery and Prowess 4 has
 a comparative level of 7 for purposes of slamming or stunning opponents
@@ -276,8 +272,7 @@ You're skilled at fighting under water; having this specialty negates
 the –1 penalty for actions taken underwater, while expert and mastery
 levels add to your defensive combat tests, much like aerial combat.
 This
-specialty is primarily useful to Aquatic characters (see *Powers*, p.
-XXX).
+specialty is primarily useful to Aquatic characters (see *Powers*).
 
 === Weapons ★
 
@@ -296,6 +291,5 @@ higher level of Prowess, rather than a specialty.
 
 === Wrestling
 
-This is specialty in wrestling combat (see *Wrestling*, p.
-XXX); add
+This is specialty in wrestling combat (see *Wrestling*); add
 your specialty bonus to all wrestling and escaping tests.
