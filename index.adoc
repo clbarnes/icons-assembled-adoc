@@ -1,5 +1,7 @@
 = ICONS: Superpowered Roleplaying
 :!player-only:
+:toc: left
+:sectnums:
 
 :leveloffset: +1
 
