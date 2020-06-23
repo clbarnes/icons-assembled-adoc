@@ -1,0 +1,14 @@
+= icons-adoc
+
+An https://asciidoctor.org/[asciidoctor] rendition of the https://en.wikipedia.org/wiki/Open_Game_License[Open Game Content] of https://stevekenson.com/icons/[ICONS: Superpowered Roleplaying], by https://stevekenson.com/[Steve Kenson].
+
+== Usage
+
+Requires https://docs.docker.com/get-docker/[docker].
+
+`make` will install the docker image and build a web page at `build/index.html`.
+
+== History
+
+The content included here was originally adapted from http://ogc.rpglibrary.org/index.php?title=Icons[the RPGlibrary wiki].
+It is a work in progress, with the goal to have a faithful, beautiful, and forkable base from which the ICONS ecosystem can continue to grow.
