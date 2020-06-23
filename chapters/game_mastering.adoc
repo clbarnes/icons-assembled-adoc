@@ -1,1 +1,747 @@
 = Game mastering
+It is the Game Master's job to oversee the creation and running of an
+Icons game, from the creation of the heroes to take part in the story to
+the design of their potential adventures, and linking those adventures
+together to make a series. The actual stories of the series come out of
+the players interacting with the adventures the Game Master creates, but
+the GM has to design the adventures in the first place.
+
+This section looks at the job of Game Mastering and offers some advice
+on how to do it well. The most important piece of advice is to just
+relax, remember it's all just a game and, most of all, have _fun!_
+
+[[running_hero_creation]]
+== Running Hero Creation
+
+Part of the Game Master's job is overseeing the process of the players
+creating their heroes and approving the designs they come up with. This
+is more art than clear-cut science and involves asking yourself: Does
+this hero fit into the kind of adventures I plan to run? Will this
+character be a good addition to the game overall and fun for both the
+player and the rest of the group?
+
+If the answer to either of these is "no," politely ask the player to
+adjust the character or come up with a new one. It's better to do this
+in advance than be forced into it after play has begun with an
+unsuitable character.
+
+[[new_traits]]
+=== New Traits
+
+While Icons covers the majority of traits needed to describe superheroic
+characters, no game can cover every possible trait. Sooner or later,
+your players may come up with concepts requiring a specialty or power
+not described in the rules. So long as you and the player are agreeable,
+feel free to make it up! Use the existing specialties and powers as
+guidelines and examples and write up what the new trait does, assign a
+level to it, and you’re ready to go!
+
+Creating new traits is even easier when you're dealing with non-player
+characters like villains, since presumably you have your own permission
+to come up with new things! Feel free to give villains whatever traits
+you see fit to make them fun, interesting, and challenging for the
+heroes. This may include assigning them traits you wouldn't normally
+allow for heroes; things that would make heroes too effective can make
+for good villains, since they allow a single villain to take on a group
+of heroes and encourage heroes to be creative in overcoming the bad guy.
+
+Be aware when creating new traits that they are sometimes more powerful
+or capable of affecting the game than they seem at first. If what seems
+like an obvious trait is left out of the game rules, consider: might
+there be a reason for that?
+
+[[customizing_traits]]
+=== Customizing Traits
+
+Rather than needing an entirely new trait, sometimes an existing trait
+just needs a bit of adjustment to fit a player's concept of a hero. Keep
+in mind that the names and descriptions of the traits in Icons are
+mostly suggestions. You can allow players to call certain powers by
+different names and to give them different "special effects" describing
+how they look and feel in the context of the game.
+
+These things don't necessarily change the numbers or rules about how the
+traits work, but can make a big difference in terms of how they are
+perceived, and what makes a good "fit" for that character.
+
+Similarly, you can customize traits to a degree by how you "calibrate"
+the scale (see *The Basics*): the rules provide some general guidelines
+for where different levels of ability fall, but you can shift things
+around changing, for example, the superhuman end of the Strength scale
+to better suit your ideas of really strong characters in your setting.
+This doesn't change the actual numbers or how they work in game-play,
+just what they mean in descriptive terms.
+
+[[determination_stunts]]
+=== Determination & Stunts
+
+The relationship between Determination and powers in Icons is intended
+to provide a degree of balance between different types of characters,
+namely those with a great deal of power or flexibility and those who
+rely more on ability, skill, and raw determination to succeed.
+
+Essentially, heroes with a lot of powers (which include very high
+abilities) have less starting Determination and have to rely more on
+compels from the GM to earn more. This is why powerful heroes in the
+comics often lead such complicated lives: they need the compels those
+challenges give them!
+
+Conversely, heroes with few, if any, powers have more Determination to
+start with, allowing them to succeed by sheer grit and, well,
+determination. In essence, having a lot of starting Determination is
+their "power," which fits with a lot of comic book archetypes.
+
+The same is true for the breadth of a hero's powers. Characters with
+lots of developed and established stunts effectively have more powers
+than those who come up with their stunts on-the-fly (and spend
+Determination to use them). That's why it is a good idea to balance what
+is an established (and therefore always usable) element of the hero's
+powers and what is a less often-used stunt the player is willing to
+spend Determination to use.
+
+[[running_team_creation]]
+== Running Team Creation
+
+Roleplaying games are a group activity, and in supers games, groups mean
+teams. Following are a few common kinds of teams, and suggestions for
+managing a team of that type in your game. Sitting down together as part
+of character creation to discuss what kind of team you'll use in your
+game is a really good way to lay the foundation for a successful supers
+campaign.
+
+On the most basic level, creating a hero team is as simple as the
+players deciding that their heroes act together. Whether that grouping
+is a one-off "special team-up" issue, or the start of a group is up to
+the players.
+
+In the comics, superhero teams often fall into one of several
+recognizable archetypes. If your players are interested in creating a
+continuing team, you should encourage them to think about what archetype
+best embodies what they're going for.
+
+[[the_elite_team]]
+=== The Elite Team
+
+This is the big one. In any game universe, there will usually be only
+one team like this, made up of the big hitters, the best of the best.
+These are the guys you turn to when the fate of the world is at stake.
+They have accepted the responsibility of being Earth's best and last
+hope. Everyone aspires to match them. Every villain fears them. Almost
+nothing can stop them.
+
+An elite team is almost always established by the supers themselves,
+when two or three big names see the value of assembling a group to deal
+with those threats that are too great to face alone. The founding
+members of an elite team will usually have a special status within the
+team, and the tone and attitude of the team will spring from the
+perspective of these founding members.
+
+The heroes will probably not be novices or amateurs. The team will
+develop substantial information resources, battle tactics and back-up
+plans. Personal disputes will, of course, occur but they will generally
+be talked through between missions; members of a team like this will
+almost certainly be too professional to let disputes interfere with
+their action out in the field.
+
+Alternatively, the Elite Team could be presented as aspirational --
+perhaps the heroes hope to become members one day, and in the meantime
+seek the approval of the Elite Team, or perhaps a mentoring
+relationship.
+
+Elite Teams rarely end or fall apart except in the most unusual
+circumstances. If they do, then eventually another Elite Team will
+emerge to replace them.
+
+[[the_employee_team]]
+=== The Employee Team
+
+For some, supers work is not a calling -- it's a job. Governments,
+companies, private security agencies, non-governmental organizations and
+others sometimes see the benefits of putting a squad of supers on the
+payroll. The Employee Team has a boss and a mission statement. They try
+and do what’s right, but they do it from the perspective of their
+employer.
+
+Employee teams vary a great deal depending on the nature of the
+employer. A city council hiring a supers team to provide support to its
+police and emergency services will result in one kind of team, whereas a
+multinational company hiring several heroes to promote its brand and
+protect its interests will produce quite a different team.
+
+There will almost always be tension between the team members and their
+employers. Managers will make decisions that seem senseless or
+counterproductive; directives will be received that seem morally
+repugnant; orders will be handed down to stay out of affairs that
+intensely interest the members. Whether or not members can undertake any
+activity on their own is a key point to establish with this kind of
+team. In some situations, a hero who does some personal work might end
+up facing a disciplinary committee.
+
+The players and GM should work together to hash out the details of the
+employer and the relationship between heroes and their boss. It is not
+necessary to work out all the details in advance, but it is crucial that
+players know how to run their characters while on the job. The group
+should also consider what general type of mission assignments will be
+appropriate for this sort of team.
+
+Alternatively, an Employee Team could be created by a secret patron,
+whose true intentions may be straightforward or mysterious. In this
+case, the details of the employer-employee relationship may never be
+determined, and any decisions by the patron may remain inscrutable.
+
+Employee Teams are fragile. If the team ever becomes perceived as a
+liability to the employer, its future will be in doubt. If it ever acts
+against the employer, it will certainly be discontinued. If the employer
+goes out of business or changes hands, the terms of employment might be
+radically changed and members might no longer wish to be part of the
+team.
+
+[[the_purposeful_team]]
+=== The Purposeful Team
+
+Some teams assemble for a particular purpose. Perhaps it is to explore
+the multiverse, or to oppose a criminal syndicate's activities, or to
+protect a particular city neighborhood. Whatever the purpose, all
+members of the team must subscribe to it (some more than others
+perhaps), and all activities by the team will ultimately serve this
+purpose (or, at the very least, not work against it).
+
+The key question is, what is the purpose? Deciding on the team's mission
+will set the tone of the game more than anything else. All the
+characters will be built in relationship to the purpose, and all the
+adventures will bear some relationship to that purpose.
+
+Alternatively, a Purposeful Team could be created for a purpose that is
+secret or mysterious. Maybe only one or two of the members know the
+team's purpose. Maybe none of them do and the team's missions are given
+to them by a magical talking stick or a supercomputer from the moons of
+Jupiter. Discovering the true purpose of the team's existence should be
+the central ongoing plot point in the campaign.
+
+Purposeful Teams are sturdy as long as the purpose still exists. Until
+the reason for being plays itself out, a Purposeful Team will probably
+keep going through thick and thin. The purpose is bigger than all of
+them.
+
+[[the_outsider_team]]
+=== The Outsider Team
+
+Life is tough, sometimes, and banding together is a good way to cope.
+The outsider team forms from those who are hated or feared by society,
+or on the run from the government or some evil power. They live life on
+the fringes, rarely understood, helping each other keep going, making
+tough choices every day, trying to do the right thing for no other
+reason than it's the right thing to do.
+
+The players and GM need to decide why the team are on the outside, and
+how harsh life is for them -- are they constantly on the run and
+scrabbling to survive, or are they outsiders due to a low level of
+prejudice and misunderstanding?
+
+Alternatively, an outsider team could be on the outside because of its
+goals. Perhaps the team is made up of anarchists determined to overthrow
+the government, or true patriots determined to uncover corruption
+amongst the powerful.
+
+Outsider teams are always fragile. They could fall apart for any number
+of reasons. Personal relationships are frequently strained due to the
+pressures of being outsiders. The forces acting against the team have
+plenty of ways of weakening and undermining the team's viability. Few
+outsider teams last for long.
+
+[[the_bound_fates_team]]
+=== The Bound Fates Team
+
+Sometimes characters don't have a say in who they're on a team with.
+Maybe the meteorite that gave them their powers gave them all a
+permanent psychic link to each other. Maybe the demon they fought when
+they first got together is always going to keep going after all of them,
+and they have to stay together to stand a chance against it. Maybe they
+all share a mysterious sigil on their shoulders, the true meaning of
+which remains unclear. In all these cases, the team is bound together by
+fate.
+
+The players should decide what the nature of their bound fate is, how
+much is known by the characters, and how their characters feel about
+this forced co-operation.
+
+Alternatively, a Bound Fates team could have chosen this course. Perhaps
+they all completed a blood brothers ritual? Perhaps they made a mystical
+vow to each other? What if one member chose but the others had no
+choice?
+
+Bound Fates teams are incredibly strong, by their very nature. They
+resist any attempt to tear them apart until the fate that binds them is
+resolved.
+
+[[running_adventures]]
+== Running Adventures
+
+An adventure is a series of chapters, making up a single issue, like an
+issue of a comic book (as described under *Time* in the *Taking Action!*
+section). Some long adventures may span multiple issues, a "mini-series"
+of sorts.
+
+The bulk of the Game Master's job in Icons is actually running the game;
+creating and narrating exciting superhero adventures for the players.
+This section looks at some things to know when running Icons.
+
+[[adventure_structure]]
+=== Adventure Structure
+
+Comic book stories tend to follow a standard structure, and because
+Icons is a comic book game, its adventures should follow a similar
+format. It breaks the story down into a series of chapters: the Threat,
+the Investigation, the Challenge, and the Comeback.
+
+[[the_threat]]
+==== The Threat
+
+The Threat gives the heroes an indication something is wrong and needs
+their attention. It might be as straightforward as a bank alarm ringing
+out over the rooftops of the city or the police commissioner picking up
+the red phone, or as subtle as sinister shadows watching the heroes from
+the sidelines of a parade or a ceremony where they accept the key to the
+city or the like. The threat is a "hook," a call to action, getting the
+players and their heroes engaged and involved in the story.
+
+[[the_investigation]]
+==== The Investigation
+
+In the Investigation phase of an adventure, the heroes look into the
+nature of the Threat and what they can do about it. This might be as
+simple as rushing to the site of an alarm or as involved as piecing
+together clues from multiple crime scenes, or following up on a series
+of mysterious disappearances to see if there are any connections.
+
+The Investigation phase may involve some tests, particularly of
+investigative abilities like Awareness, and is when the GM imparts a
+good deal of information to the players about what is going on. It may
+also involve some other tests or challenges, even combat, as the heroes
+run up against opposition, have to shake down informants, and so forth.
+
+Keep in mind that although the Investigation is intended to be
+challenging and exciting, drawing the players into the story, it should
+also be informative. Don't structure it so that if the players fail a
+single test they will miss a vital clue, sending the story off on a
+tangent from which it might not recover. It's not much fun chasing down
+dead-end leads and casting about trying to figure out what the heroes
+should be doing, after all.
+
+[[the_challenge]]
+==== The Challenge
+
+The Challenge phase is where the action really starts happening. It is
+when the heroes have some idea of what they need to do and they try to
+do it. The Challenge often involves combating the villain(s), but it can
+include other sorts of tests of the heroes' abilities.
+
+Often heroes face a series of challenges to get to the final
+confrontation or climax of the story. Some of these initial challenges
+might be failures or setbacks, such as the heroes initially being unable
+to stop the villain or falling into a trap and having to escape. These
+sorts of additional challenges are opportunities for the players to rack
+up Determination for the final part of the adventure. Multiple
+challenges may be interspersed with investigation phases as the heroes
+follow-up on clues from each challenge.
+
+[[the_comeback]]
+==== The Comeback
+
+In the end, the heroes come back from apparent defeat and win the day,
+overcoming challenges and taking down the villain(s). The Comeback is
+the dramatic final confrontation of the story. It is often a big blowout
+fight but it can just as easily be a dramatic debate or a clever plan
+that wins the day without a single punch being thrown.
+
+This is the phase of the adventure where players want to spend the
+Determination they have earned to get the job done, just like the heroes
+come back more determined than ever to succeed.
+
+The Comeback is often followed by an epilogue of some sort, where the GM
+ties up loose ends and the heroes get to bask in their success for a few
+moments before the close of the story.
+
+[[adventure_structure_examples]]
+=== Adventure Structure Examples
+
+Here are a couple examples of the comic book adventure structure in
+action:
+
+[[the_bank_heist]]
+==== The Bank Heist
+
+Criminals are robbing the First National Bank! The Threat comes when the
+heroes are alerted to the robbery by the sound of an alarm, an
+announcement over the police band, or the like. They investigate by
+arriving at the bank and checking out the situation, discovering the
+criminals are holding the customers and employees hostage. They must
+overcome the challenge of getting in and securing the hostages' safety.
+Only then to they discover the additional challenge of the supervillain
+working with the robbers! After the bad guy gets a few good licks in by
+attacking from surprise, the heroes rally, stage a comeback, and take
+down the bad guys.
+
+[[the_masterminds_island]]
+==== The Mastermind's Island
+
+A master villain is blackmailing the world with a doomsday weapon from a
+hidden island fortress. The Threat comes in a broadcast across the
+worldwide networks. To prove the authorities are helpless, the villain
+challenges the heroes to a battle to the death against his loyal
+minions.
+
+The heroes fight a villain team working for the master villain, but
+manage to defeat them. From their foes, they learn the location of the
+villain's island lair, allowing them to infiltrate and attempt to stop
+the doomsday device. Unfortunately, the master villain is prepared and
+captures them, only then revealing that they are the necessary final
+component of his doomsday weapon! Of course, the process will also
+destroy them as an added bonus.
+
+In the Comeback, the heroes have to escape the villain's trap and defeat
+him. Perhaps their escape and battle triggers the destruction of the
+island lair, leading to the villain's apparent demise (from which he
+can, eventually, return).
+
+[[how_to_test]]
+== How to Test
+
+It is up to the Game Master to decide when to ask players to test their
+heroes' traits and how difficult the tests will be. Some general rules
+of thumb when it comes to asking for tests:
+
+* Only test when there is a chance of failure and that failure matters
+to the story in some way. A test should always matter, otherwise don't
+bother. It just sets the players up for possible failure with no real
+reward otherwise.
+* Try to limit things to one test per situation. If, for example, a hero
+has to sneak into a building, ask for a single Coordination (Stealth)
+test. Having players make a series of tests to accomplish one thing
+generally just increases the chances that they'll fail and is unfair.
+* Only test things you want the players to be able to use Determination
+to accomplish. Remember that a character must attempt and fail at
+something to make a Determined Effort, unless there is only one chance
+to succeed.
+* Speaking of which, if the hero only has one shot at a test, be sure to
+tell the players that so they can choose to use Determined Effort, if
+they want.
+* Remember that only the players make tests. When it comes to
+GM-controlled characters, you either determine the outcome of their
+actions based on their traits and the situation, or call for a test from
+the players to determine if their heroes are able to avoid or resist the
+effects of the other character's action.
+* Keep in mind that a test with a Difficulty equal to the hero's trait
+has roughly a 60% chance of success, one with a difficulty 2 higher is
+about half that (a 30% chance), and a difficulty 4 higher is less than a
+10% chance, but just one or two points of Determination can shift the
+odds back in the hero's favor.
+
+== Benchmarks
+
+Icons has a fairly loose system when it comes to rating and describing
+things in game terms. Basically, it all comes down to the 1 to 10 scale
+and the question "on a scale of 1 to 10, how would you rate that?"
+Something either falls somewhere on the scale, or it is simply off the
+scale altogether and probably not worth worrying about (see *Off the
+Scale* in *The Basics* section).
+
+Still, it can be helpful to have some "benchmarks," points of reference
+for quickly determining where something falls on the scale while running
+the game or designing adventures for it. The level descriptions under
+the *Levels and Scale* header in *The Basics* provide some benchmarks
+where abilities are concerned, while the sample materials under the
+*Bending and Breaking* header and the sample weights under *Lifting* in
+the *Taking Action!* section do the same.
+
+As given under *How to Test*, remember that a trait at a level equal to
+a given Difficulty has about a 60% chance of success, half that for a 2
+level difference, and about 10% for a 4 level difference.
+
+Here are some other quick benchmarks to keep in mind:
+
+* *Damage:* A damage level of 3 to 4 is about that of a hand weapon, 5
+to 6 a heavy weapon like a machine gun or chain gun, and 7 or more a
+military weapon like a missile or torpedo. Truly massive damage like a
+nuclear weapon is pretty much off the scale.
+* *Speed:* Speed levels for movement powers are deliberately vague,
+rather than in exact miles or kilometers per hour. Remember that a speed
+of 4 to 5 is that of a typical car, 6 is a sub-sonic plane, while 7 or
+more is super-sonic.
+* *Toughness:* The material strength levels show the toughness of
+various substances. You can use them as benchmarks for objects as well,
+keeping in mind that complex or mechanical objects (like vehicles) are
+going to be less tough overall than their material, being both hollow
+and filled with relatively delicate moving parts. So most vehicles will
+have an effective Strength of 5 to 6 when it comes to taking damage.
+
+[[game_rules_vs._common_sense]]
+=== Game Rules vs. Common Sense
+
+The rules of Icons give you the tools to handle most common situations
+likely to come up in a superhero story. However, they're not one hundred
+percent foolproof, and no set of rules can anticipate every possible
+thing that could happen in a story. From time to time, you'll encounter
+a situation where the rules don't provide a clear-cut answer, or worse,
+provide a clearly wrong answer. In these cases, ignore the rules and go
+with what makes the most sense to you and what you think will be the
+most fair and fun for your players; and if one of them should object and
+say, "That's not in the rules!" point them to this paragraph and say,
+"Yes, it is."
+
+[[random_adventure_creation]]
+== Random Adventure Creation
+
+If you are pressed for time or just looking for some inspiration for a
+new adventure, it is as simple as 1... 2... 3!
+
+[[create_a_villain]]
+=== 1. Create a Villain
+
+Using the same guidelines given for creating heroes, create one or more
+villains for your adventure. You can use the random roll approach for
+inspiration, but don't feel restricted to what you roll-up. If you get a
+better idea, or need the villain to have a certain trait or level, just
+assign it. You can also create villains simply by choosing whatever
+traits and levels you think the character should have. Barring that,
+pick a villain from the samples given in this book!
+
+Be sure to give your villain some aspects, particularly things the
+players can figure out and tag!
+
+[[choose_a_plot]]
+=== 2. Choose a Plot
+
+Roll on the following tables or just choose a suitable plot for your
+villain.
+
+[cols="",options="header",]
+|===
+|Plot Element 1
+||d6
+|1-2
+|
+|
+|
+|
+|
+|3-4
+|
+|
+|
+|
+|
+|5-6
+|
+|
+|
+|
+|
+|===
+
+[cols="",options="header",]
+|===
+|Plot Element 2
+||d6
+|1-2
+|
+|
+|
+|
+|
+|3-4
+|
+|
+|
+|
+|
+|5-6
+|
+|
+|
+|
+|
+|===
+
+Take the combination of terms as inspiration for the villain's plot. So
+an initial pair of rolls of 3 and 4 yields "Rob" while a second pair of
+1 and 5 gives us "City". Clearly, the villain intends to rob the city
+blind! But how? Perhaps by literally "robbing the city blind" -- a plot
+to temporarily blind everyone, allowing the villain and his henchmen
+free rein!
+
+You can use the style and aspects of your chosen villain to help you
+fill out the plot. For example, if you roll-up a "Control Power" plot
+and your villain is a mystical mistress of Wizardry, perhaps she intends
+to steal all magical power in the world for herself! "Escape Invention"
+could be about a mad scientist who has created a super-powerful android
+that now has a will of its own and wants to destroy its creator!
+Alternately, it could be the designer of an engineered super-virus
+trying to escape before it is released on an unsuspecting populace.
+
+Feel free to twist around the meanings of the words as you see fit and
+play with different ideas to see what they inspire. Again, the rolls on
+the table aren't intended to lock you into a particular outcome, just to
+"kick start" your imagination and get you thinking of different
+possibilities. Take notes! Even if you don't use a particular idea you
+come up with for your next adventure, who's to say when you might want
+to use it somewhere down the line?
+
+[[add_complications]]
+=== 3. Add Complications
+
+Kick things off by giving the heroes a threat, as described in the
+Adventure Structure section, and then use the heroes' and villains'
+aspects to provide some complications to the basic plot. Do two or more
+characters have a rivalry? Is there romantic tension? Opportunities to
+threaten a hero's secret identity or compel a weakness? Adding these
+elements into the adventure help to both personalize it for the players'
+heroes and award the players Determination they can use to help their
+characters prevail in the end!
+
+Put it all together, and you're ready to go!
+
+[[managing_determination]]
+== Managing Determination
+
+Icons Characters start the game with 6 Determination points minus their
+total number of powers (with a minimum of 1 starting point). These
+points may be spent to affect the outcome of events in the game (see the
+*Determination* section for details about how).
+
+[[judging_determination_use]]
+=== Judging Determination Use
+
+One of the Game Master's jobs is adjudicating the more open-ended uses
+of Determination, particularly retcons and stunts. You want to encourage
+the players to be creative, without bogging the game down in a lot of
+discussion or debate about how things are going to work.
+
+Keep in mind the general guideline about retcons being unable to
+directly contradict established information. It's one thing for a player
+to spend Determination to find a convenient item nobody noticed before,
+but quite another to ask for a retcon that (for example) completely
+removes a character from the scene, when it has been established that he
+is there.
+
+Similarly, try and encourage players when they're being too modest in
+their Determination spending. It is a limited resource, so don't require
+players to spend it for things that should be taken for granted, like
+finding a fire extinguisher in a public building, for example. Help the
+players along, perhaps with a suggestion about a retcon or stunt you
+think would be cool and fit the adventure. After all, you're trying to
+create a story together.
+
+Try to be flexible when it comes to the requirement to tag qualities in
+order to spend Determination; so long as it fits the general parameters
+of the quality, and the player can come up with an in-game reason to
+justify it, it should be fine. Spending the points is the primary limit
+on Determination, the tagging just helps to ensure it follows the
+character's overall theme and gets the players thinking.
+
+[[determination_is_a_gms_best_friend]]
+==== Determination is a GM's Best Friend
+
+Remember, when you want to allow a particularly clever idea or maneuver
+from a player but you feel there should be some "cost" to it, asking the
+player to spend a point of Determination is your best option for both
+encouraging creativity, but also limiting overly effective tactics or
+options players might otherwise use all the time, if it weren't for the
+associated cost.
+
+In short, one of the best answers you can give while running the game
+is, "Sure, spend a point of Determination and you can try it!"
+
+=== Challenges
+
+An important Game Master job is compelling the heroes' challenges and
+bringing them into the game, providing the players with additional
+Determination to spend, while also making the story more interesting
+and, well, challenging.
+
+Challenges are essentially a way for players to tell you: "I want to see
+this happen to my character in the game." Since players get to choose
+their characters' challenges, they can pick things they want to deal
+with in play. It's your job as GM to compel those things and bring them
+into the game. Players can (and should) suggest opportunities to compel
+their characters' challenges, but it is ultimately up to the GM.
+
+Part of the reason to make use of characters' challenges is to keep the
+flow of Determination going, since it helps to make the game more
+fast-paced, creative, and exciting. If the players are regularly running
+out of Determination points to spend, then you are probably not giving
+out enough during the game.
+
+[[temporary_challenges]]
+==== Temporary Challenges
+
+Of course, a hero's standard challenges are not the be all and end all
+of possibilities. You can also provide temporary challenges, lasting for
+a single chapter or issue of the game. Perhaps an old flame comes back
+into a character's life, or a relative is visiting out of town.
+Something from a hero's past may come back to haunt him briefly, or
+circumstances may cause something to happen to the hero's powers. All of
+these are potential challenges worth awarding the players Determination
+when you incorporate them into the game.
+
+[[determination_awards]]
+==== Determination Awards
+
+In addition to Determination from compelling their aspects, you can
+award players bonus Determination points simply for good game play. When
+a player comes up with a great idea, clever quip, or pulls off an
+impossible die roll that gets everyone at the table excited, give the
+player an extra point of Determination as a reward.
+
+As a general rule, the more Determination you hand out, the more
+fast-paced and wild the game gets, and the bigger the difficulties you
+can put in the heroes' path. There's no exact formula for it; calibrate
+how many points you give out to the flow of your game, supplementing it
+when you feel things are getting slow or unfairly difficult for the
+players.
+
+[[option_hero_improvement]]
+=== Option: Hero Improvement
+
+In the comic books, characters don't generally go through gradual change
+and improvement: they change radically, gaining or losing powers,
+changing names and costumes, dying and returning to life (often with new
+names, costumes, and powers).
+
+One area were you may improve characters is increasing their starting
+Determination (the value that refreshes at the start of a new issue).
+
+At the Game Master's option, players can then spend starting
+Determination points to improve their heroes, lowering the starting
+value. Players cannot lower their characters' starting Determination
+below 1.
+
+Adjust the costs as you see fit, increasing them to make improvement
+slower and more difficult, or lowering them (or providing more for the
+same cost) to encourage improvement.
+
+*Levels:* Increasing an ability or existing power's level by one costs
+two starting points of Determination.
+
+*Specialties:* A character can improve an existing specialty by one
+level at the cost of a starting point of Determination, or acquire a new
+specialty for a starting point of Determination.
+
+*Power Stunts:* After successfully performing a power stunt ten times,
+you can choose to not regain the spent Determination, lowering starting
+value by 1. The power stunt then becomes a regular part of your hero's
+repertoire of powers and you no longer have to spend Determination to
+use it.
+
+*New Powers:* A character may also gain a completely new power -- with
+its level determined randomly -- by spending two permanent points of
+Determination. This new power must have an in-game explanation (be it an
+accident, a new gadget, super serum, or any other means approved by the
+Game Master).
+
+You may also institute whatever requirements you see fit in terms of
+training, practice, or the like for heroes to implement improvements.
+They might happen "off panel" or "between stories" or a certain amount
+of time or effort may be required. Heroes might even need to seek out
+particular teachers or assistants and gain their aid in making the
+desired improvements.

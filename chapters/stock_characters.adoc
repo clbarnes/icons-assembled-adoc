@@ -1,1 +1,249 @@
 = Stock characters
+Icons Game Masters can create villains and other characters to populate
+their adventures as they see fit. To make things a bit easier, this
+section presents various "stock" character types, ones that appear in a
+lot of superhero comics. You can use their traits as-is, just filling in
+the descriptive details, or modify them to suit the needs of your
+adventure.
+
+Some stock characters, particularly villainous henchmen, can use the
+minions option for damage (see the Damage section for details). In this
+case, ignore their listed Stamina value; any successful attack against
+them renders them unconscious.
+
+== Bystander
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Specialties*
+
+Possibly something related to the character’s job: Business for a
+corporate-type, Medicine for a doctor, etc.
+
+*Notes*
+
+A bystander is pretty much your normal person off the street, the kind
+menaced by rampaging monsters, alien invaders, held hostage by
+criminals, and so forth. They are also sometimes taken over by villains
+with Mind Control or similar powers and turned against the heroes!
+
+== Cultist
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Specialties*
+
+Occult
+
+*Notes*
+
+Followers of a cult leader or worshipers of dangerous occult entities,
+cultists tend to operate in secret. They may be armed with weapons like
+sacrificial knives (slashing damage 3) or more sophisticated modern
+weapons (see the Henchman and Soldier for examples).
+
+== Henchman
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Specialties*
+
+Typically none.
+
+*Notes*
+
+The average criminal henchman tends to be a bit on the slow side (both
+physically and mentally).
+
+Henchmen not relying solely on their fists might have simple weapons
+like handguns (shooting damage 3–4).
+
+== Ninja
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Specialties*
+
+Martial Arts, Stealth, Weapons (Ninja Weapons)
+
+*Notes*
+
+This is a ninja henchman for an Asian or martial arts themed villain or
+group. They're likely to disintegrate or burn to ash when defeated or
+captured. Typical weapons include a sword (slashing damage 4) and
+throwing stars (shooting damage 2).
+
+[[police_officer]]
+== Police Officer
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Specialties*
+
+Criminology, Investigation, Weapons (Guns)
+
+*Notes*
+
+The average police officer has some combat training, along with
+knowledge of criminal investigation and evidence gathering. Equipment
+includes a sidearm (shooting damage 4), a tonfa or billy club (bashing
+damage 4), a radio, and handcuffs (material strength 6).
+
+== Robot
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Notes*
+
+This represents a humanoid (and roughly human-sized) robot, suitable as
+a minion for a technological villain. Not being alive, robots are immune
+to anything affecting a living metabolism or mind. They have no
+Willpower, but Stamina equal to twice their Strength instead.
+
+For larger-than-human robots, apply levels of the Growth power,
+proportionately increasing the robot's Strength. Some robots may also be
+armored.
+
+== Soldier
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Specialties*
+
+Martial Arts, Military, Weapons (Guns). Drive or Pilot are common for
+some.
+
+*Notes*
+
+A professional soldier has a fair amount of combat training. Equipment
+for soldiers in the field includes sidearms (shooting damage 4) and
+rifles (shooting damage 5).
+
+== Thug
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Specialties*
+
+Typically none.
+
+*Notes*
+
+Thugs are henchmen wannabes, small-time criminals operating on their own
+or in gangs. They're not particularly bright or quick on the uptake.
+They may have guns (shooting damage 3–4) or other makeshift weapons
+(good for bashing or slashing damage 3–4).
+
+== Zombie
+
+[cols="",options="header",]
+|===
+|Abilities
+|Prowess
+|Coordination
+|Strength
+|Intellect
+|Awareness
+|Willpower
+|
+||Stamina
+|===
+
+*Notes*
+
+These are the walking dead. (Well, shambling, mostly.) Zombies are
+corpses reanimated by magic or mad science, minions for evil sorcerers
+and similar foes.
+
+Being both dead and essentially mindless, zombies are immune to anything
+that affects a living metabolism or mind, including many Afflictions and
+most mental powers. They have no Willpower, but Stamina equal to twice
+their Strength instead.

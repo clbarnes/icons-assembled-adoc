@@ -1,1 +1,1541 @@
 = Powers
+Powers put the "super" into superhero characters. Like abilities, powers
+have levels rated on the 1 to 10 scale. Also like abilities, power
+levels are used for tests, although some powers require tests of other
+abilities as well; such as a close combat power requiring a Prowess test
+to hit a target. Other powers don't require tests; the power's level is
+just a measure of its effectiveness.
+
+[[power_descriptions]]
+== Power Descriptions
+
+The following are the descriptions of the various powers. Each
+description includes general ways in which the power can be used. The
+Game Master sets the difficulty (see p. XXX) for specific actions
+attempted by characters with their powers.
+
+[[power_groups]]
+=== Power Groups ★
+
+As with specialties, some powers (such as Elemental Control or
+Resistance) are actually power groups of similar abilities, indicated by
+the group icon shown in the header. You don't take the Alternate Form or
+Elemental Control power; you choose one of the powers from within that
+group, such as Energy Form, Gaseous Form, Fire Control, or Magnetic
+Control.
+
+Each power within a group is considered separate, although some effects
+may include all powers in a group for ease of reference.
+
+[[bonus_powers]]
+=== Bonus Powers
+
+Power descriptions refer to bonus powers; these are choices when
+creating a character (see *Character Creation*, p. XXX). You can have a
+bonus power replace one of your rolled powers. So, for example, if you
+come up with Elemental Control for your hero, you can choose to replace
+one of the hero's other powers with a Blast power of the same element.
+
+Bonus powers are optional, you don't have to take them, but if you
+choose not to do so, you can't go back and take one later. You can make
+use of bonus powers you chose not to take initially as power stunts
+later on (see *Power Stunts*, p. XXX).
+
+=== Devices
+
+A device is an item providing a power or powers, rather than the power
+residing in the character. Devices range from relatively mundane items
+like swords, guns, and armor to super-science gadgets and magical
+talismans.
+
+Devices have their own independent power-source, although they may need
+periodic recharging; having a device suddenly run out of power, break
+down, get stolen, or otherwise pose a problem for its owner is a
+suitable challenge (see *Challenges*, p. XXX).
+
+Heroes with the Trained and Gimmick origins can only have powers from
+devices. Other characters may choose whether or not a power comes from a
+device or is innate when the power is acquired. If you want to determine
+this randomly, roll 2d6: on a 4 or less, the power comes from a device,
+otherwise it is innate.
+
+[[alteration_powers]]
+== Alteration Powers
+
+These powers alter the character's body in some fashion.
+
+Alteration devices can take many different forms, including, but not
+limited to: pills and "wonderdrugs;" belts, suits, or harnesses; magical
+talismans, or gloves or gauntlets for touch-range powers like Power
+Duplication or Theft.
+
+[[ability_boost]]
+=== Ability Boost ★
+
+Unlike Ability Increase (see the following), this power is a temporary
+boost to any one ability (chosen when the power is acquired). Ability
+Boost is actually a power group of six powers, one for each ability:
+Prowess Boost, Coordination Boost, Strength Boost, and so forth. To
+determine the boosted ability randomly, roll 1d6: 1 = Prowess, 2 =
+Coordination, 3 = Strength, 4 = Intellect, 5 = Awareness, 6 = Willpower.
+
+Once each scene you can boost the chosen ability's level up to the power
+level, lasting for a number of pages equal to the newly boosted level.
+Then the affected ability's level is reduced to one lower than its
+normal level for the same amount of time while it recovers. So, for
+example, Strength Boost 8 raises your Strength level to 8 for 8 pages,
+then your Strength drops to 1 less than its normal level for 8 pages
+while you recover.
+
+When you determine the level for this power, any result equal to or less
+than your existing ability level should be re-rolled until you get a
+higher level. Level 10 abilities cannot be boosted.
+
+[[ability_increase]]
+=== Ability Increase
+
+When this power is selected, permanently increase the level of one of
+the character's abilities by +2, to a maximum of 10. Select an ability
+or roll 1d6: 1 = Prowess, 2 = Coordination, 3 = Strength, 4 = Intellect,
+5 = Awareness, 6 = Willpower.
+
+Ability Increase only counts as a power for figuring your starting
+Determination if the final level of the ability is 7 or greater. You can
+choose another Alteration Power as a bonus power.
+
+[[alter_ego]]
+=== Alter-Ego
+
+Your hero can transform into an entirely different alternate character!
+Create a second character as your Alter-Ego. The new character
+automatically has one less power. The GM may require certain traits,
+notably origin and mental abilities, to remain consistent between the
+two characters. If your hero simply has an "ordinary" human identity
+with no powers, that is most likely a Challenge rather than an instance
+of this power.
+
+*Serial Alter-Egos:* If you roll this power twice, you can take the
+following option: stop rolling and discard all other powers. In their
+place, you can assume a series of superhuman alter-egos! You either have
+a set number of alter-egos equal to the number of initially rolled
+powers (minimum of two) or an unlimited series of random superhuman
+forms (generate a new character for each identity assumed).
+
+In both cases, you can assume alter-ego form at will, but must revert to
+your normal form afterward for an amount of time equal to the time spent
+in your superhuman form(s).
+
+[[alternate_form]]
+=== Alternate Form ★
+
+You can transform into a form other than flesh and blood, selected from
+the list below, at will. While transformed you possess the properties of
+the material and gain *Invulnerability* (p. XXX) equal to the power's
+level.
+
+Depending on the form and Game Master approval you can use the level of
+this power to determine damage when attacking in close combat (punching
+with fists of steel, igniting things while made of fire, suffocating
+with gas or water, burning with acid, etc.).
+
+Each type of Alternate Form is a power group, so you have Electrical
+Form, Fire Form, Gaseous Form, Metal Form, Water Form, and so forth, as
+individual powers.
+
+*Energy* You transform into energy (choose electricity, fire, light,
+radiation, etc.). When in energy form you can do such things as:
+
+* Jump into power lines and travel through them. (Electricity)
+* Ignite flammable objects by touch. (Fire)
+* Move at the speed of light. (Light)
+* Cause radiation burns and sickness. (Radiation)
+
+*Gaseous* You transform into a cloud of gas. You can flow through any
+opening that's not airtight and move through the air at your normal
+ground movement speed.
+
+*Liquid* You transform into a liquid like water. While in liquid form
+you can flow like water, running through cracks and other small spaces.
+
+*Solid* You transform into a dense material like metal or stone. You
+gain Strength equal to the greater of your power level or your normal
+Strength +1 while in solid form.
+
+=== Aquatic
+
+You are equally suited to living and moving underwater and on land. You
+can breathe normally under water and your Coordination and Awareness are
+the better of their normal levels or this power's level while submerged.
+You can swim at a speed based on your power level: 3 is a swift swimmer
+like a dolphin, 5 is as fast as a submersible, 7 like a torpedo, while
+higher levels are faster than any known sea-creature or vessel.
+
+If you have this power, but cannot breathe air (that is, you "drown" out
+of water, see *Swimming*, p. XXX), it does not count against your total
+number of powers when figuring Determination, since you essentially have
+a permanent "challenge" associated with it.
+
+=== Chameleon
+
+Your body, as well as worn or carried items, can change color, allowing
+you to blend into your surroundings. This is similar to *Invisibility*
+(see p. XXX), except it is easier to detect; anyone searching for you
+makes an Awareness test against a difficulty equal to your Chameleon
+power level. If the Awareness test fails, you remain hidden.
+
+=== Density
+
+You can control your body's density, increasing it to become heavier,
+stronger, and tougher, but slower.
+
+When your power is active, your Strength equals your Density level or
+your normal Strength +1, whichever is greater, and you gain
+Invulnerability equal to your Density level.
+
+However, your Coordination equals the lower of your normal level or 10
+minus your Density level, and at Density 10, you are unable to move
+without making a Willpower (10) test, which allows you to move a few
+steps.
+
+If you have Density, you can choose Phasing as a bonus power,
+representing the ability to both increase and decrease your density.
+
+[[duplication_x2]]
+=== Duplication (x2)
+
+You can produce exact duplicates of yourself out of nowhere. You can
+create a number of duplicates equal to your power level, so one
+duplicate with Duplication 1, two with Duplication 2, and so forth. (The
+power to create virtually unlimited duplicates is off the scale.)
+
+Duplicates have the same traits as you, except they lack this power
+(duplicates cannot themselves create duplicates). You and your
+duplicates share the same "pool" of Determination, like a team (see
+*Team Determination*, p. XXX). Duplicates act as independent characters,
+although the GM may want to use the guidelines for cooperation with a
+group of duplicates (see *Combining Abilities*, p. XXX).
+
+A dead or unconscious duplicate disappears. If you are knocked out or
+killed, all your duplicates disappear as well.
+
+[[extra_body_parts]]
+=== Extra Body Parts ★
+
+You have additional body parts, either a completely new part (such as a
+tail) or more of an existing part (like four arms instead of two).
+Choose one of the following options or roll 2d6:
+
+[cols=",,",options="header",]
+|===
+||Roll ||Body Part ||Benefit
+|2–3 |Carapace |You have a hard shell, granting Invulnerability equal to
+your power level.
+
+|4–5 |Claws |You have the Strike power at a level equal to your power
+level.
+
+|6 |Extra Arms |You have the Fast Attack power at a level equal to your
+power level.
+
+|7 |Extra Legs |You can move faster, using your power level for your
+speed like the Super-Speed power.
+
+|8 |Tail |You can use your tail as if it were an extra arm. You gain the
+Fast Attack power at a level equal to your power level.
+
+|9–10 |Tentacles |You have powerful tentacles with Strength equal to
+your power level. They might grow out of your shoulders, back, or sides,
+or even be made up of long, prehensile hair.
+
+|11–12 |Wings |You gain the Flight power at a level equal to your power
+level.
+|===
+
+=== Growth
+
+You can grow larger at will, increasing your strength and toughness, but
+also becoming easier to notice and hit.
+
+While enlarged, your Strength level becomes the greater of your power
+level or your normal Strength +1 and you gain Invulnerability equal to
+your power level.
+
+Your height is based on your Growth level, as shown on the table, and
+you have a penalty to your defense based on your increased size, since
+it's easier for opponents to hit you.
+
+[cols=",,",options="header",]
+|===
+||Level ||Height ||Defense
+|1 |9 feet |-0
+|2 |12 feet |-1
+|3 |15 feet |-1
+|4 |18 feet |-1
+|5 |21 feet |-1
+|6 |24 feet |-2
+|7 |27 feet |-2
+|8 |30 feet |-2
+|9 |60 feet |-3
+|10 |120 feet |-3
+|===
+
+=== Invisibility
+
+You can become invisible at will. Sound, scent, heavy rain, and similar
+methods can still give away your presence and location.
+
+You can also attempt to turn objects or even other characters invisible
+by touching them. Roll an Invisibility (5) test, with success the item
+or character becomes invisible and remains so as long as you are
+touching it. Use your power level to determine the maximum mass of an
+object you can affect, as if you were trying to lift it (see *Lifting*,
+p. XXX).
+
+You can choose Invisibility Ray as a bonus power, allowing you to make
+other things (and people) invisible at a distance.
+
+=== Phasing
+
+You can become less substantial, transforming into ectoplasm, altering
+your density or atomic valence, or perhaps phasing out of the physical
+world in some fashion. You gain Immunity to physical attack and can pass
+harmlessly through solid objects. Make a power test to pass through
+energy fields (like a force field) with a Difficulty equal to the
+field's level. You're also unable to physically affect the world while
+you are out-of-phase, although you can still use mental powers, and they
+may be used on you.
+
+As a bonus power, you can use an offensive power you possess to affect
+the physical world while you are out-of-phase. However, you must in turn
+choose some effect that works on you even while you are phasing.
+
+[[material_duplication_x2]]
+=== Material Duplication (x2)
+
+By touching a substance or energy you can take on its properties like
+the Alternate Form power (p. XXX), except you can assume different
+alternate forms, but only by touching the appropriate material or energy
+first.
+
+If you choose to do nothing in your panel except duplicate the
+properties of an incoming attack, you become immune to that attack and
+take on its form. So, for example, if you choose to adapt and are hit
+with a flame-thrower, you assume a fire form and the flame-thrower
+attack has no effect. If you're hit with multiple attacks in a page, you
+choose which (if any) you duplicate. Attacks with no material or energy
+qualities -- such as Life Drain or Mental Blast -- are impossible to
+duplicate.
+
+[[power_duplication_x2]]
+=== Power Duplication (x2)
+
+By touching another character, you can duplicate their powers and use
+them yourself.
+
+You gain all the target's powers at their existing level or your Power
+Duplication level, whichever is less. So if you have Power Duplication
+4, any powers you duplicate are limited to a level no greater than 4.
+
+You retain any duplicated powers until you choose to duplicate another
+set or you are rendered unconscious, in which case you lose any
+previously duplicated powers.
+
+As a bonus power, you can duplicate the powers of two subjects at the
+same time, but only the highest level of any given power applies. Each
+additional bonus power allows you to duplicate an additional subject.
+You must still touch the subjects one at a time to duplicate their
+powers.
+
+[[power_theft_x2]]
+=== Power Theft (x2)
+
+By touching another character, you can steal their powers and use them
+yourself!
+
+Subtract your power level from the levels of all the target's powers.
+You gain the powers at that level (the lesser of your Power Theft level
+and the target's original level). The target retains any remaining power
+level. So if you have Power Theft 4 and touch a target with Fire Control
+7, you gain Fire Control 4 and your target retains Fire Control 3. If
+your power level exceeds the subject's power, you gain it at the
+target's level and the target loses it entirely. Multiple touches have a
+cumulative effect, until all of the target's power levels are gone (at
+which point there is no more left for you to steal).
+
+You retain the stolen powers for ten times your Power Theft level in
+pages. Then you lose 1 level from each stolen power per page, and your
+target regains 1 level per page, until the stolen powers are completely
+gone.
+
+You can steal powers from multiple targets, but only the highest level
+of any given power applies.
+
+As a bonus power, you can make a power theft attack at extended range.
+You must make a Coordination test to hit the target of your attack.
+
+=== Shrinking
+
+You can become smaller at will, down to a minimum height as shown on the
+table on the next page.
+
+When using Shrinking your Strength level is unaffected. You also gain
+the modifier listed on the table as a bonus to defense and attack tests
+against normal-sized opponents.
+
+*Microscopic Size:* At Shrinking 9+ you can reduce your size below that
+visible to the naked eye, down to the microscopic or even atomic or
+sub-atomic levels. You essentially exist in a separate "world" on
+another scale. You no longer interact directly with the larger world and
+your Strength is limited to interacting with things at the same scale.
+On the other hand, at microscopic and smaller sizes you can do things
+like slip through tiny openings or even between molecules (at atomic
+size).
+
+At the GM's discretion, you might even be able to reduce "below" the
+sub-atomic to enter a "microuniverse" or similar alternate reality. This
+could be considered a bonus power, depending on the setting.
+
+*Growth Momentum:* As a bonus power, you can enlarge rapidly under a
+target, using the momentum of your growth to enhance an attack; add the
+modifier for your Shrinking level given on the table as a bonus to your
+unarmed damage (with a maximum of +3).
+
+[cols=",,",options="header",]
+|===
+||Level ||Size ||Modifier
+|1 |4 feet |+0
+|2 |3 feet |+0
+|3 |2 feet |+1
+|4 |1 foot |+1
+|5 |6 inches |+2
+|6 |3 inches |+2
+|7 |1 inch |+3
+|8 |insect |+3
+|9 |microscopic |—
+|10 |atomic |—
+|===
+
+=== Stretching
+
+Your body and limbs can stretch, allowing you to reach or attack someone
+out to extended distance (see *Distance*, p. XXX). Use the lower of your
+normal ability or your Stretching level when you extend your reach, so
+abilities greater than your Stretching level are reduced to that level,
+to reflect the difficulty of doing things at an extended distance. The
+GM may require a Stretching test for extreme distances or uses of your
+ability.
+
+You can choose Invulnerability (representing your body's extreme
+flexibility) as a bonus power.
+
+[[transformation_x2]]
+=== Transformation (x2)
+
+You can transform into other things (animals, other characters, objects)
+although you retain your normal mass (unless you also have Growth or
+Shrinking).
+
+You gain the physical properties of the assumed form, up to your
+Transformation power level. Turning into other people doesn't grant you
+their powers, however. For that, see Power Duplication (p. XXX).
+
+If convincingly imitating a particular form is an issue, your
+Transformation power level is the difficulty for an Awareness test to
+notice something amiss.
+
+You _must_ have a limitation on your Transformation power. Choose one of
+the following or work out a similar suitable limitation with the Game
+Master:
+
+* You're limited to turning into a particular type of shape, such as
+only animals, machines, humanoids, and so forth.
+* You do not gain the physical properties of the forms you assume, just
+their appearance; you can look like a brick wall, but you're not as
+strong or tough as one.
+* You have a "tell" that's always apparent, such as an inability to
+change color or texture, or having a version of your normal face always
+visible, making your power less useful for disguising yourself without
+using other measures, such as make-up.
+
+You can choose Growth, Shrinking, or Stretching as bonus powers,
+expanding your control over your form.
+
+[[control_powers]]
+== Control Powers
+
+Control powers provide control over different energies, elements,
+forces, or materials.
+
+Control Devices often take the form of directed items: guns, wands, and
+other sorts of things you can point at a target. They can also be worn
+items like a crown, circlet, or helm, a ring, or a pair of gloves.
+
+[[alteration_ray]]
+=== Alteration Ray ★
+
+This power group is made up of Alteration Powers you can use on others
+rather than yourself (see *Alteration Powers*). Choose an option from
+the list below, or roll 1d6.
+
+[cols=",,",options="header",]
+|===
+||Roll ||Type ||Effect
+|1 |Density Ray |You increase the target's density.
+
+|2 |Growth Ray |You enlarge the target.
+
+|3 |Invisibility Ray |You make the target invisible.
+
+|4 |Phasing Ray |You make the target intangible.
+
+|5 |Shrinking Ray |You shrink the target.
+
+|6 |Transformation Ray |You transform the target into a different shape,
+like a use of Transformation.
+|===
+
+You have to make a Coordination test to affect the target. A successful
+hit subjects the target to the effect of the Alteration Power. See the
+individual power descriptions for details.
+
+=== Animation
+
+You can endow inanimate objects with the ability to move and act on your
+command. Objects have Strength equal to their Strength (see *Bending &
+Breaking*, p. XXX), Prowess and Coordination equal to your power level,
+and Stamina equal to their Strength. They have no mental abilities. The
+attacks and movement abilities of animated objects depend on their shape
+and size, but are generally based on their new Strength and
+Coordination. You can only animate objects with Strength of your power
+level or less, and weighing no more than Strength of your power level
+could lift (see *Lifting*, p. XXX).
+
+[[elemental_control]]
+=== Elemental Control ★
+
+This power group includes abilities to control different elements. Each
+type constitutes a separate power: Air Control, Darkness Control, and so
+forth. Choose one of the listed options or roll 2d6, the first die
+indicating one of the first six or one of the second six, the second die
+indicating which of those six options is selected.
+
+You can only manipulate an existing source of the element; you do not
+possess the ability to spontaneously create it. The GM may limit your
+effective power level based on the amount of the element available for
+you to control. Light Control is limited in areas of dim illumination,
+for example, and useless in complete darkness. Clever foes may try to
+cut you off from your element to weaken you or render you powerless.
+
+Choose two of the following power effects you can perform with your
+Elemental Control. You can acquire the others as bonus powers:
+
+*Attacking:* You can wield your element as an attack, like a Blast (p.
+XXX) at your Elemental Control power level.
+
+*Creating:* You can spontaneously create your chosen element, giving you
+an unlimited source of it to control.
+
+*Defending:* You can use Elemental Control to defend against attacks
+like a Force Field (p. XXX) at its power level.
+
+*Detection:* You can detect the element you control, like the Detection
+power (p. XXX) at your Elemental Control level.
+
+*Moving:* You can use Elemental Control to lift and move objects of your
+chosen element, and possibly others as well, by using the element as a
+medium. You do so with Strength equal to your Elemental Control level.
+
+*Shaping:* You can control your chosen element to form different shapes
+as you will, up to an amount you can move (based on your power level).
+You can shape the element into walls and simple geometric forms, and
+even more complex shapes with a suitable power test; the GM sets the
+difficulty level based on the desired shape. Such objects retain their
+shape for as long as you maintain them, although stable forms (such as
+shaped earth or metal) may remain so, at the GM's discretion.
+
+[cols=",,",options="header",]
+|===
+||Rolls ||Element ||Effects
+|1-3, 1 |Air |You can manipulate winds to attack, create protective
+barriers, move objects, etc.
+
+|1-3, 2 |Darkness |You can manipulate darkness and shadows to blind
+opponents, block sources of light, etc.
+
+|1-3, 3 |Earth |You can manipulate the ground to attack, create walls of
+earth that act as armor, move objects, etc.
+
+|1-3, 4 |Electrical |You can manipulate electricity to attack, create
+force fields, move objects, etc.
+
+|1-3, 5 |Fire |You can manipulate fire to attack, increase or decrease
+the temperate of a flame, create a wall of fire like a force field, etc.
+
+|1-3, 6 |Gravity |You can manipulate gravity to make things lighter or
+heavier, create gravitic shields, move objects, etc.
+
+|4-6, 1 |Light |You can manipulate light to attack, blind opponents,
+create force fields, etc.
+
+|4-6, 2 |Magnetic |You can manipulate ferrous metals to attack, create
+walls of metal that act as armor, move metallic objects, etc.
+
+|4-6, 3 |Radiation |You can manipulate radiation to attack, create force
+fields, heat up objects, etc.
+
+|4-6, 4 |Sound |You can manipulate sound waves to attack, deafen, create
+force fields, etc.
+
+|4-6, 5 |Water |You can manipulate water to attack, create walls of
+water that act as armor, move objects, etc.
+
+|4-6, 6 |Weather |You can manipulate the weather. This power can be
+especially powerful since it allows a character to manipulate air,
+lightning, rain, fog, and any other aspect associated with
+storms/weather so the Game Master may choose to have Weather Control
+count as two power choices.
+|===
+
+=== Healing
+
+You can restore lost Stamina and Strength to others by touch. You heal
+up to your power level in Stamina per use and you can use Healing up to
+twice on any given subject per day. Additional Healing uses cost you a
+point of Determination per use.
+
+A use of Healing can also restore one lost Strength level. This requires
+a Healing (3) test. If the test fails, the lost Strength is restored,
+but the healer loses a level of Strength, which must be recovered
+normally through rest. Healing 8+ automatically succeeds at this test,
+you don't have to roll.
+
+At the GM's discretion, Healing may be able to eliminate the effects of
+some diseases and toxins -- apart from simply restoring Stamina and
+Strength -- as a bonus power. This generally requires a Healing test,
+with the difficulty based on the potency of the disease or toxin, and at
+least a moderate success, although major success may be required in some
+cases, with moderate success just holding the malady at bay temporarily,
+rather than curing it.
+
+[[plant_control]]
+=== Plant Control
+
+You can control plants within extended range, forcing them to twist and
+turn and using them to wrestle, attack opponents, or block attacks (see
+p. XXX) using your Plant Control level in place of the usual abilities
+for those actions.
+
+*Plant Growth:* As a bonus power, you can make plants grow rapidly in an
+area, giving you more to control.
+
+[[power_nullification]]
+=== Power Nullification
+
+You have the ability to nullify -- completely negate -- the powers of
+another within extended range. Roll a Power Nullification test, with the
+opposing power's level as the difficulty. If the attempt fails, you
+suffer damage equal to one-half (round up) the level of the targeted
+power. With a moderate success, the targeted power works at half its
+effectiveness (round up). With a major or better success, the power is
+negated (reduced to an effective level of 0) for a number of pages equal
+to your power level.
+
+As a bonus power you can choose to suffer no feedback damage. On a
+failed Power Nullification test, the power simply has no effect.
+
+[[probability_control_x2]]
+=== Probability Control (x2)
+
+You can exert some influence over random chance. This power gives you
+extra Determination equal to its level (see Determination, p. XXX),
+usable only for determined effort and retcons. These points renew along
+with your normal Determination but are not otherwise affected by changes
+to your Determination total.
+
+When you get this power, roll the dice without any modifiers:
+
+• On a positive roll, you gain Probability Control for "good luck." • On
+a negative roll, you gain Probability Control for "bad luck." • On a
+roll of 0 you can choose whether your Probability Control is good or bad
+luck. • On a roll of +5 or –5 your Probability Control is good for both
+good and bad luck.
+
+Good luck Probability Control is good for determined effort and retcons
+explainable as "lucky breaks."
+
+Bad luck Probability control works in reverse: you can use determined
+effort to reduce the efforts of others, the opposite of determined
+effort for yourself, setting a maximum effect the target can achieve and
+paying Determination to reduce their result to that level. You can also
+retcon "unlucky breaks" for others.
+
+Unlike normal uses of Determination, the points from your Probability
+Control do not require tagging one of your aspects to use them. In
+effect, your power itself is the associated "aspect" for the points:
+you’re "tagging" your "good luck" or "bad luck" to use them.
+
+In some cases, the GM may require you to make a power test against an
+appropriate ability of a target (such as Willpower) to inflict bad luck
+on them.
+
+=== Telekinesis
+
+You have the ability to move objects in visual range without touching
+them. The power's level is treated as its Strength for lifting and
+moving things. Use your Willpower as your telekinetic "Coordination".
+You can also acquire the following bonus powers:
+
+*Attacking:* You can strike targets with bolts of telekinetic force --
+using Willpower in place of Coordination for the Blasting or Throwing
+test. A successful attack deals damage equal to your Telekinesis level.
+
+*Defending:* You can use your Telekinesis like a Force Field (see
+Defensive Powers) at your Telekinesis power level.
+
+*Moving:* You can lift and move yourself, giving you Flight (see
+Movement Powers) at your Telekinesis power level.
+
+[[time_control_x2]]
+=== Time Control (x2)
+
+You can exert control over the flow of time, allowing you to perform a
+number of effects. Choose two you can do when you get this power, the
+rest you can acquire as bonus powers:
+
+* Slow down time relative to you, giving you Super-Speed at your Time
+Control level.
+* Slow down time for those within close range, giving you Fast Attack at
+your Time Control level.
+* "Freeze" time around a subject, like the Paralysis power (p. XXX) at
+your Time Control level.
+* Place someone (including yourself) in a state of suspended animation,
+with time slowed to suspend the effects of a condition like poison or
+the loss of Strength levels while dying. One minute passes for the
+subject for every (power level x 10) minutes in the outside world.
+* Summon duplicates of yourself from alternate timelines, like the
+Duplication power (p. XXX) at your Time Control level.
+* Travel in time, going into the past or future or alternate timelines.
+It's up to the GM whether or not you can actually change history by
+traveling into the past; by default, assume you create a divergent or
+parallel universe if you "change history." Likewise, any future you
+visit is only a "possible future," not necessarily set in stone. See
+*Postcognition* and *Precognition* under *Sensory Powers* for more about
+interacting with the past and future.
+
+[[transmutation_x2]]
+=== Transmutation (x2)
+
+You can transform chemical elements and compounds, turning non-living
+materials into different non-living materials. Transmutation doesn't
+affect living beings and can't create animate beings out of inanimate
+matter (see the *Transformation Ray* and *Animation* powers to do those
+things).
+
+To transform an object, make a Transmutation test against the object's
+Strength (see *Bending & Breaking* in the *Taking Action* section):
+success turns the object into the desired material. You can only affect
+objects as a whole and only as much mass as Strength of your power level
+could lift.
+
+You also must have a limitation on your Transmutation power. Choose one
+of the following or work out a similar suitable limitation with the Game
+Master:
+
+• You must touch objects to transmute them. (Transmutation normally
+works at extended range.) • Your transformations only last for 10 pages,
+then revert to normal. (Transmutation is normally permanent until
+reversed.) • You affect a very limited mass, less than the amount for
+level 1 Strength, as little as a few pounds. • You can only affect a
+particular state of matter: solid, liquid, or gas, and can't transmute
+other matter. (Transmutation normally affects all states of matter.) •
+Transmutation is especially taxing for you, causing you 2 points of
+Stamina damage each time you use it. • You must spend a point of
+Determination in order to use Transmutation.
+
+[[wizardry_x2]]
+=== Wizardry ★ (x2)
+
+You have the ability to do virtually anything, duplicating the effects
+of other powers at your Wizardry power level. You can only use one
+Wizardry power per page, although you can maintain multiple Wizardry
+powers equal to your power level.
+
+Your Wizardry power level is linked to one of your mental abilities
+(Intellect, Awareness, or Willpower) and cannot exceed your level in
+that ability, reduce a rolled value above that level to your ability
+level. At the GM's discretion, an appropriate Specialty (such as Occult)
+may increase the effective level of your ability.
+
+Choose one of the following types of Wizardry. You can also make up
+other types with the Game Master's permission.
+
+*Cosmic Power* (Awareness): You can simply will effects into being using
+a cosmic or primal power. Choose a suitable weakness for your Cosmic
+Power, such as an inability to affect a certain subject (material,
+color, etc.).
+
+*Gadgets* (Intellect): You have or can produce a wide range of devices,
+giving you various powers. Your gadgets can be taken away from you,
+however, just like other devices.
+
+*Magic* (Willpower): You can cast spells to create magical effects. Most
+spells require the ability to freely speak and gesture. If you are held
+(see *Wrestling*, p. XXX), gagged, or otherwise unable to gesture or
+speak, you cannot cast spells.
+
+Choose two power effects you can duplicate with your Wizardry.
+Additional effects are available as bonus powers; essentially, any power
+is a potential Wizardry power stunt (see *Power Stunts*, p. XXX).
+
+[[defensive_powers]]
+== Defensive Powers
+
+These powers protect the character in various ways.
+
+The most common defensive devices are suits of armor and shields,
+although they may include various belts, bracers, or other items
+providing a defensive power.
+
+=== Absorption
+
+You are resistant to damage inflicted by a specific element or energy
+type (select one under *Elemental Control*, see p. XXX) up to the level
+of this power, like the Resistance power (see *Resistance*, p. XXX). Any
+levels of damage over the level of this power are suffered normally. You
+can use the absorbed energy in one of the following ways (and you can
+acquire the others as power stunts or bonus powers):
+
+*Ability Boost:* On your next panel after absorbing damage, you can use
+the absorbed energy as an Ability Boost with a level equal to the damage
+absorbed. The affected ability is chosen when you take this option, and
+each ability counts as a separate option. *Attack:* On your next panel
+after absorbing damage, you can unleash the absorbed energy as an
+attack. Treat it as an appropriate Blast attack with a level equal to
+the damage absorbed. *Healing:* You instantly recover Stamina equal to
+the level of damage absorbed, up to your maximum Stamina level.
+
+You can also choose to broaden your Absorption as a bonus power. If
+Absorption counts as two powers, it protects against all physical or all
+energy damage.
+
+[[force_field]]
+=== Force Field
+
+You have the ability to generate a personal force field that acts as
+Invulnerability equal to your power level (see *Invulnerability*,
+following). If you are stunned for any reason, your Force Field stops
+working until you recover. You can make a Willpower test to keep your
+Force Field working while you are stunned: your effort on the test is
+the level of Force Field you maintain. So, for example, if you have
+Force Field 7 and generate an effort of 5 on the Willpower test to
+maintain it, you effectively have Force Field 5 until you recover from
+the stun.
+
+[[immortality_x2]]
+=== Immortality (x2)
+
+You do not age and cannot die. You still suffer damage, even to the
+point of death, but you can recover from having your Strength reduced to
+0. Your body slowly regenerates lost parts so, short of atomizing you or
+exposing you to a constant source of damage (in a volcano or the heart
+of a star, for example), you'll always come back eventually.
+
+If your Strength is reduced to 0 (or any other time you "die" and
+recover), you lose all your current Determination and must accumulate
+more starting from 0.
+
+[[immunity_x2]]
+=== Immunity ★ (x2)
+
+You are completely immune to a particular type of effect or attack.
+Choose an effect from the Resistance list (see *Resistance*). The chosen
+effect simply doesn't work on you.
+
+Immunity counts as two powers, but every additional Resistance you
+acquire can be changed to an Immunity at no additional cost.
+
+=== Invulnerability
+
+You are resistant to physical damage, subtracting your Invulnerability
+level from the damage caused by an attack, which may reduce it to 0 or
+less, meaning you suffer no damage. Attacks reduced to 0 damage may
+still stun or slam you, however, even if you suffer no actual damage
+from the attack. Attacks reduced below 0 damage have no effect at all.
+
+Your Invulnerability may come from armor plating, a leathery hide, skin
+made of something other than flesh (such as metal), or just a general
+superhuman toughness, you decide.
+
+*Device:* A character who has this power from a device may choose to
+have a suit of armor that provides the Invulnerability and incorporates
+any or all of the character's other powers into it.
+
+[[life_support]]
+=== Life Support
+
+You can ignore certain physical needs like breathing, eating, or
+sleeping. For each level of Life Support, choose one of the following
+needs to ignore. At Life Support 10, you automatically ignore them all:
+
+* Cold (atmospheric or environmental low temperatures)
+* Breathing (you don't need to breathe at all)
+* Eating (including thirst and the need to eliminate waste)
+* Heat (atmospheric or environmental high temperatures)
+* Pathogens (atmospheric or environmental diseases)
+* Pressure (you can survive extremely high pressures)
+* Radiation (atmospheric or environmental radiation levels)
+* Sleeping (although not fatigue from exertion)
+* Toxins (atmospheric or environmental toxins)
+* Vacuum (you can survive extremely low pressures)
+
+Surviving unprotected in deep space requires Life Support 4 to deal with
+the cold, airlessness, radiation, and vacuum.
+
+Life Support does not provide protection against damaging attacks, for
+that see *Resistance* (following).
+
+[[reflection_x2]]
+=== Reflection (x2)
+
+You can reflect the effects of an attack back at the attacker. You test
+your Reflection power as a reaction, with the attacking ability as the
+difficulty. On a failed result the reflection attempt fails and you
+suffer the normal effects of the attack. With a moderate success, you
+are unaffected by the attack, but neither is the attacker. On a major
+success or better, the attack is reflected back and the attacker suffers
+its full effect.
+
+=== Regeneration
+
+You heal quickly, recovering Stamina equal to your power level every 10
+pages, spread out evenly over that time. If you have Regeneration 10,
+you recover 1 point of Stamina per page. You also recover lost Strength
+levels equal to your Regeneration level per week. If you have
+Regeneration 7 or higher, you recover one lost Strength level per day.
+
+=== Resistance ★
+
+You are especially resistant to a particular type of effect. Choose one
+of the following: Afflictions, Binding, Blinding, Cold, Corrosives,
+Electricity, Heat, Magical Attacks, Mental Attacks, Radiation. Subtract
+your Resistance level from the level of any such effect. If the level is
+reduced to 0 or less, it doesn't work on you at all. You can create
+Resistances to other effects with the GM's permission.
+
+[[mental_powers]]
+== Mental Powers
+
+Mental powers influence the minds of others, or tap into the psionic
+potential of the mind.
+
+Mental power devices are often worn on the head, in the form of helmets,
+headbands, skullcaps, hats, and so forth. Mental devices are often
+magical, but may be technological, particularly for Telepathy or
+controlling powers.
+
+[[animal_control]]
+=== Animal Control
+
+You can communicate with and control animals. To control all animals
+within visual range, roll a power test with a difficulty equal to the
+highest Willpower among the affected animals.
+
+If you can only control one type of animal, you gain a +2 bonus to your
+power's level (maximum of 10). Choose the type of animal affected, or
+roll on the following table:
+
+[cols=",",options="header",]
+|===
+||2d6 ||Animal Type
+|2–3 |Avians
+|4–5 |Insects
+|6–7 |Mammals
+|8–9 |Reptiles
+|10–12 |Sea Creatures
+|===
+
+[[astral_projection_x2]]
+=== Astral Projection (x2)
+
+You can separate your astral form (the vessel of the mind and spirit)
+from your physical body, allowing it to travel elsewhere. Your body
+remains in a coma-like state, although you are aware of any harm
+befalling it. Should your body perish while your astral form is away,
+you remain trapped in astral form.
+
+Your astral form can observe, but not affect, the physical world and
+cannot be detected by physical means, although Astral Detection and
+Telepathy reveal it. You can use mental powers against nonastral beings,
+but with a –2 penalty to your level. Your powers work normally against
+other astral beings.
+
+While in astral form, you can pass harmlessly through physical objects
+and fly, like the Flight power at your level. You can also travel into
+other dimensions linked to the astral plane like the Dimension Travel
+power at your Astral Projection level.
+
+You can choose Astral Detection as a bonus power.
+
+[[emotion_control]]
+=== Emotion Control
+
+You can exert a kind of Mind Control (see Mind Control, following),
+influencing how a target feels, rather than acts. To influence someone
+with Emotion Control, they must be in visual range and you need a
+successful power test with the target's Awareness as the difficulty. If
+you fail an Emotion Control test against someone, you must make a
+determined effort to attempt to control them again in the same scene
+(see *Determination*, p. XXX).
+
+You can instill a single emotion in the target at a time (see the
+following table for emotional effects). The target is affected until you
+choose to release them or they are led to do something opposed to one or
+more of their aspects (see *Aspects*, p. XXX) at which point you must
+roll a new Emotion Control test to maintain the effect.
+
+If you are limited to instilling a single emotion, increase your power
+level by +2 (to a maximum of 10). Choose one emotion, or roll on the
+following table:
+
+[cols=",,",options="header",]
+|===
+||2d6 ||Emotion ||Effect
+|2–3 |Doubt |Beset with doubt, the target always acts last and may not
+make determined efforts.
+
+|4–5 |Fear |Filled with terror, the target either flees or cowers, if
+unable to do so.
+
+|6 |Hate |The target is filled with hatred towards a subject great
+enough to attack it.
+
+|7 |Love |The target loves a subject and will help and defend it as much
+as possible.
+
+|8 |Pleasure |So filled with good and pleasurable feelings, the target
+just sits around doing nothing.
+
+|9–10 |Respect |Instilled with great regard for a subject, the target
+will do anything possible to assist it.
+
+|11-12 |Sadness |Overwhelmed with sadness and despair, the subject can’t
+do anything.
+|===
+
+=== Illusion
+
+You can project false sensory impressions into other minds, creating
+very realistic hallucinations. Your power has no effect on
+non-intelligent machines like cameras, microphones, or other sensors.
+
+Targets treat your illusions as real unless they have some reason to
+disbelieve them, in which case roll an Illusion test against the
+target's Awareness; failure means they overcome the illusion and know it
+to be false. Otherwise, they react normally to the illusion, even
+suffering imaginary damage from illusory attacks, although "death" only
+results in unconsciousness (like a failed test to avoid being stunned).
+
+Although illusions can fool others, they still have no effect on the
+physical world. An illusory wall might block people who think it's real,
+but an illusory floor won't support any weight and things fall right
+through it, illusory fire doesn't actually burn things, and so forth.
+
+*Images:* Optionally, your Illusion power can create real sensory
+images, affecting machines like cameras and ignoring mental resistance,
+but lacking the ability to choose who perceives your illusions, as they
+don't exist solely in the subject's mind. Images cannot be disbelieved,
+only revealed as false. They cannot cause damage.
+
+[[mental_blast]]
+=== Mental Blast
+
+You can strike other minds within visual range with blasts of mental
+"force." Roll a Willpower test, with a difficulty equal to the target's
+Willpower and read the results like a blasting attack (see *Blasting*,
+p. XXX). You inflict damage equal to your power level and can stun, but
+not slam, your target.
+
+[[mind_control_x2]]
+=== Mind Control (x2)
+
+You can take over the minds of others. A target of Mind Control must be
+within visual range and have a Willpower level less than the level of
+this power or your own Willpower, whichever is greater. Those with
+greater Willpower are immune to your control unless you first tag one of
+their aspects (see *Tagging and Compelling* under *Determination*).
+
+To take control of another, roll a Mind Control test with a difficulty
+of the target's Willpower. If successful, the target is under your
+control until you choose to release them or you order the target to do
+something opposed one or more of their aspects (see *Aspects*, p. XXX)
+at which point you must roll a new Mind Control test to maintain your
+control. If you fail a Mind Control test against someone, you must make
+a determined effort to attempt to control them again in the same scene
+(see *Determination*, p. XXX).
+
+While you can command a target to take any action, you cannot force
+targets to make determined efforts or otherwise spend Determination.
+
+[[mind_shield]]
+=== Mind Shield
+
+You have a mental shield protecting you from outside influences.
+Subtract its level from the level of any hostile mental power used
+against you. If your Mind Shield reduces the attacking power's level to
+0 or less, it has no effect. Otherwise, it works normally at the reduced
+level.
+
+[[possession_x2]]
+=== Possession (x2)
+
+You can take over someone else's body, much like Mind Control, except
+your mind is "inside" the victim and controls their body, rather than
+issuing orders. Your own body is unconscious and immobile while you
+possess someone else. Otherwise, this power works just like Mind
+Control.
+
+Since your mind is in control of the target's body, you can spend your
+own Determination for tests you make using the possessed target (unlike
+Mind Control). If you place the target's body in a life-threatening
+situation, you must make a Possession test against the target's
+Willpower each round, with failure meaning the target shakes off your
+influence.
+
+*Merger:* As a bonus power, your own body disappears and merges with the
+target when you possess them. You reappear near the target when the
+possession ends.
+
+=== Telepathy
+
+You can read the minds of others and transmit your thoughts to them.
+
+You can read the mind of any character with a Willpower level lower than
+your Telepathy level or Willpower, whichever is greater. Minds with
+greater Willpower are closed to you unless you first tag one of their
+aspects (see *Tagging and Compelling* under *Determination*). Roll a
+Telepathy test against the subject's Willpower to read their thoughts.
+
+You are automatically aware when someone attempts to read your mind and
+may attempt to block the attempt; both telepaths roll power tests and
+the greater effort wins.
+
+[[movement_powers]]
+== Movement Powers
+
+Movement powers allow characters to move and get around in a number of
+different ways.
+
+A movement device may be a special vehicle of some sort, from a
+souped-up car to a plane or dimension-travel capsule. Movement devices
+also include personal items from jet-packs to antigravity harnesses,
+wall-walking boots and gloves, and teleport belts.
+
+=== Burrowing
+
+You have the ability to tunnel beneath the earth, moving at a rate equal
+to your normal speed (see *Movement*, p. XXX) through any subterranean
+area with a material Strength equal to or less than your Burrowing level
+(see *Bending and Breaking*, p. XXX, for some comparative Strength
+levels). You cannot "burrow" through other characters; for that sort of
+attack, see *Strike* under *Offensive Powers*.
+
+[[dimension_travel]]
+=== Dimension Travel
+
+You can move at will between dimensions. You may freely travel to any
+dimension you have previously visited but visiting a new dimension
+requires a power (3) test. A failure means you don't go anywhere, and
+trying to reach that dimension requires determined effort. A moderate
+success means you arrive at the destination dimension stunned and must
+spend the next panel recovering (taking no actions that page). A major
+or better success means you reach the dimension with no problems.
+Dimension Travel 8 or greater does not require a test (you automatically
+succeed).
+
+=== Flight
+
+You can fly, either through the use of an item or by innate means.
+Flight 5 is sufficient to cross to visual range in one panel. Flight 7
+is roughly Mach 1, the speed of sound, with higher levels of Flight
+orders of magnitude faster. Flight 10 is sufficient to go anywhere in
+the world in a single panel.
+
+=== Leaping
+
+You can jump across great distances. Leaping 7 can take you out to
+visual range in a single bound, and levels beyond that can cover miles
+in a single leap!
+
+[[super_speed]]
+=== Super-Speed
+
+You can move at superhuman speeds. Super-Speed 5 is sufficient to cross
+to visual range in one panel. Super-Speed 7 is roughly Mach 1, the speed
+of sound, with higher levels orders of magnitude faster. Super-Speed 10
+is sufficient to go anywhere in the world in a single panel.
+
+You can choose Air Control, Fast Attack, Phasing (by vibrating your
+molecules), or Regeneration as bonus powers, along with the following:
+
+*Defending:* As a bonus power, you can substitute your Super-Speed level
+for your Coordination and Prowess to avoid attacks.
+
+*Surface Speed:* As a bonus power you can use your extreme speed to do
+things like run up walls (momentum defying gravity) or across the
+surface of water (moving fast enough not to break the surface tension).
+
+=== Swinging
+
+You can swing along on a line or cable; this might be self-generated
+webbing or lines of force, or a device like a grappling gun or lasso.
+Substitute your Swinging level for your Coordination, if it is higher,
+for maneuvers while you are swinging (including avoiding attacks).
+
+You can also use your swing line to catch onto things and pull them to
+you rather than you to them with a successful Coordination test.
+
+Your swing lines have Strength equal to your power level.
+
+[[teleportation_x2]]
+=== Teleportation (x2)
+
+You can disappear in one spot and reappear in another some distance
+away. Teleport 5 is sufficient to go anywhere in visual range, while
+higher levels have ranges measured in tens, hundreds, thousands, and
+tens of thousands of miles. Teleport 10 is enough to go virtually
+anywhere.
+
+Teleporting requires a power level (2) test. Failure means you arrive at
+the destination stunned and spend the next panel recovering (taking no
+actions that page). Teleport 7 or greater does not require a test (you
+automatically succeed).
+
+If you accidentally teleport into a solid object -- which can include
+the ground -- roll a power level test against the object's Strength.
+Failure immediately bounces you to the nearest safe open space and
+leaves you stunned for 10 pages. Any other result immediately bounces
+you back to the starting point and leaves you stunned for one page.
+
+[[wall_crawling]]
+=== Wall-Crawling
+
+You can move normally across vertical and upside-down surfaces (walls
+and ceilings, for example). Game Masters should require a power test
+when attempting to move across a particularly slick or slippery surface,
+with the difficulty based on the surface.
+
+[[offensive_powers]]
+== Offensive Powers
+
+These powers allow you to make different sorts of attacks.
+
+An offensive device is, by definition, a weapon, although it may or may
+not take the form of a conventional weapon. A Blast, for example, may be
+a blaster pistol or goggles that shoot energy beams, while a Strike
+could be a hand-held weapon like a sword or hammer, or a ring or
+gauntlet that provides a powerful kinetic impact.
+
+=== Affliction
+
+You can cause a fast-acting affliction -- like a disease or toxin -- by
+touching a target. Test your Affliction level against the target's
+Strength each page; success results in power level damage. Failure means
+no damage, but the Affliction continues and another test is required on
+the following page. Failure by 3 or more also ends the effect.
+
+A victim reduced to 0 Stamina begins dying and losing Strength levels,
+although medical attention can arrest this loss, substituting an
+Intellect test (with Medicine specialty bonus) for the Strength test
+against the Affliction.
+
+You can remove your Affliction at will, simply by touching the victim,
+halting any further damage.
+
+As a bonus power, you can use your Affliction at close range without
+having to touch the target.
+
+=== Aura
+
+You can surround yourself with a damaging effect like fire, raw energy,
+sharp spines, or acid, for example. Choose the effect of your Aura when
+you gain this power. Anything touching you suffers power level damage;
+this includes anyone attacking you unarmed (or their weapon if they
+attack with one). If you deliberately touch an opponent (including
+wrestling them), they suffer your Aura's damage.
+
+=== Binding
+
+You can project an attack that binds or traps the target such as glue,
+ice, mud, webbing, or the like. Make a Coordination test against the
+target's Coordination to hit with the attack, treating the outcome like
+a wrestling test (see *Wrestling*, p. XXX). Your Binding has Strength
+equal to its power level.
+
+=== Blast
+
+You can project a damaging blast at a distance. Choose the effect of
+your Blast -- from pure force to an element or energy -- and whether or
+not it is a blasting or shooting attack (see *Coordination* under
+*Taking Action*) when you get this power. Your Blast inflicts damage
+equal to its level.
+
+As a bonus power, you can project an explosive blast, affecting all
+targets in a close area around the target point.
+
+=== Blinding
+
+You can project an effect that temporarily blinds the target; it could
+be dazzling light, a chemical spray, a gob of mud or anything similar.
+
+Make a Coordination test against the target's Coordination to hit. With
+a moderate success, you blind the target for 1 page, with a major or
+better success, the target is blinded for 1 page per Blinding level.
+
+The Resistance power (p. XXX) can reduce the power level of your
+Blinding; if it's reduced to 0 or less, you cannot blind the target.
+
+Optionally, you can have your attack affect a sense other than sight,
+usually hearing to deafen the target, although you could also target a
+sensory power like Danger Sense or Detection. It works the same way,
+just targeting the other sense.
+
+As a bonus power, your Blinding affects two senses at once rather than
+one, simultaneously blinding and deafening, for example.
+
+As a bonus power, you can project a blinding burst, affecting all
+targets in a close area around the target point.
+
+[[fast_attack]]
+=== Fast Attack
+
+You can attack more than once per panel, with your total number of
+attacks based on your power level. Make each attack test separately.
+
+[cols=",",options="header",]
+|===
+||Level ||Attacks Per Panel
+|1-5 |2
+|6-7 |3
+|8+ |4
+|===
+
+[[life_drain]]
+=== Life Drain
+
+You can drain a target's life-force by touch; roll a Prowess test to
+touch the target. If successful, subtract your power level from the
+target's Stamina and add it to your Stamina, which can't increase above
+its normal maximum. Targets drained to 0 Stamina must make a Strength
+test against your Life Drain level with failure meaning they begin
+losing Strength levels (see *Killing*, p. XXX).
+
+As a bonus power, your Life Drain can increase your Stamina above it's
+normal maximum, up to your power level. You lose this additional Stamina
+at a rate of 1 point per page after a number of pages equal to your
+power level.
+
+Also as a bonus power, you can use Life Drain at close range without
+having to touch your target.
+
+=== Paralysis
+
+Your touch can render opponents unable to move. To paralyze an opponent
+you must roll a test to touch the target and a Paralysis test against
+your target's Strength. With a moderate success the target is paralyzed
+for one page. A major success paralyzes the target for pages equal to
+your Paralysis level.
+
+As a bonus power, you can use Paralysis at close range, without having
+to touch your target.
+
+=== Strike
+
+You have some sort of close combat attack like claws, spines, or a melee
+weapon of some sort. Choose the effect of your strike and whether or not
+it is a bashing or slashing attack (see *Prowess* under *Taking Action*)
+when you get this power. A slashing Strike inflicts damage equal to its
+level. A bashing Strike does damage equal to its level or your
+Strength+1, whichever is greater.
+
+[[sensory_powers]]
+== Sensory Powers
+
+Sensory powers expand or enhance the character’s senses in various ways.
+
+Sensory devices are typically scanners or sense-enhancers like helmets
+with heads-up displays, amulets, goggles, or the like. They might also
+be magic items like crystal balls, scrying mirrors, and so forth.
+
+[[danger_sense]]
+=== Danger Sense
+
+You have a special sense for danger, moments before it strikes. You can
+substitute your Danger Sense level for your Awareness for surprise
+attacks, for your Prowess for evading, and for your Coordination for
+dodging (essentially making your Danger Sense level the difficulty to
+hit you in combat).
+
+If you generate a Danger Sense level equal to or lower than your
+Awareness level, re-roll until you generate a higher level.
+
+=== Detection ★
+
+You have the ability to detect a specific form of energy, power, or
+presence with Awareness equal to your Detection level. Select one type
+of Detection from the following list or roll 2d6:
+
+[cols=",,",options="header",]
+|===
+||Roll ||Type ||Effect
+|2 |Cosmic |You can detect cosmic-level beings, cosmic energy, and
+universe-affecting events.
+
+|3–4 |Emotion |You can detect emotional states or particular emotions
+like fear or love.
+
+|5 |Energy |You can detect different types of energy and follow energy
+trails. You can identify different energy types with a power test.
+
+|6 |Magic |You can detect magical energy -- spells, artifacts, those
+with the ability to use magic, etc.
+
+|7 |Magnetic |You can detect magnetic fields -- including uses of
+Magnetic Control.
+
+|8–9 |Power |You can detect the use of certain powers -- when a power is
+used or someone possesses a power, such as mutant or mental powers.
+
+|10–11 |Radiation |You can detect radioactive energy and sources of
+radiation, including uses of Radiation Control.
+
+|12 |Spirit |You can detect spiritual activity – such as ghosts or
+astral forms.
+|===
+
+The above is by no means a complete listing of available detection
+powers. Players wanting a form of detection not listed here are
+encouraged to discuss the idea with their Game Master.
+
+In some cases, the GM may use an opposing ability, like Coordination or
+Willpower, as the difficulty for a power test to detect a subject
+deliberately trying to hide from you.
+
+=== ESP
+
+You have ESP—Extra-Sensory Perception—allowing you to perceive things in
+distant locations as if you were actually present. Use the lower of your
+power level or Awareness for tests to notice and search for things in
+the location. If a location is shielded against your ESP, make a power
+test against the level of the shielding. The GM may also require ESP
+tests for areas completely unknown to you, determining what you sense
+based on the result.
+
+As a bonus power, you can extend your ESP into other dimensions, like a
+use of the Dimension Travel power (p. XXX).
+
+If your ESP is limited to only seeing or hearing (clairvoyance or
+clairaudience), rather than all your ranged senses, increase your rolled
+power level by +2.
+
+=== Interface
+
+You can access information from and interface with computers at visual
+range. Use the higher of your Interface or Intellect levels when
+operating computers. Against intelligent computer systems, including
+self-aware robots, this power works like Telepathy (see p. XXX).
+
+=== Postcognition
+
+You can perceive things that happened in the past. You must touch a
+place or object in order to sense its past and make a power test, with
+the difficulty based on how long ago you want to perceive.
+
+On a success you pick up strong feelings or impressions associated with
+the subject and time; with a massive success, you have a vision, as if
+you were actually present at the time. A failed test gives you no
+information, and you must spend Determination to try again.
+
+The GM can also choose to give you a postcognitive vision at any time,
+saying you pick up on the "strong impressions" left on a particular
+subject.
+
+[cols=",",options="header",]
+|===
+||Difficulty ||Time
+|1 |A day
+|2 |A few days
+|3 |A week
+|4 |A few weeks
+|5 |A month
+|6 |A few months
+|7 |A season (four months)
+|8 |Half a year
+|9 |A year
+|10 |More than a year
+|===
+
+=== Precognition
+
+You receive visions of what may happen in the future. Sometimes these
+visions come unbidden, provided by the GM as plot hooks or helpful
+hints.
+
+A deliberate attempt at Precognition requires a power test, rolled
+secretly by the GM against a difficulty based on how obscure or distant
+the future events are you are trying to see. A moderate success gets you
+some cryptic clues and visions open to interpretation. A major success
+gets you clearer information, perhaps a name or a face, while a massive
+success gets you a very clear and detailed vision, although not
+necessarily all the information about the events.
+
+The GM can also choose to give you a precognitive vision at any time,
+having you pick up on particularly strong premonitions as a plot hook to
+further the story.
+
+Precognition also allows you to spend Determination differently: you can
+choose to make a determined effort on a test after rolling the dice and
+seeing the result. You can also avoid certain hazards: with a major or
+better success on a Precognition test and a point of Determination, you
+can retcon an event that just happened so it wasn't real at all, but a
+precognitive warning!
+
+*Example:* _Prometheus ("foresight") has Precognition 7. He and his
+teammates are dealing with a stolen nuclear weapon that's counting down
+to detonation. Prometheus' teammate clips the wrong wire and the bomb
+goes off! Prometheus' player declares an immediate use of Precognition,
+a determined effort to get a major success. He gets it, spends another
+point of Determination, and retcons the scene that just happened as a
+visionary warning. To the other characters, Prometheus comes out of a
+fugue just as his teammate is about to cut the wire. "Don't!" he warns.
+"You'll set it off!" Disaster is averted, for the moment._
+
+You can use both these benefits (spending determination after a roll and
+retconning events) a maximum number of times per issue equal to your
+Precognition level, in whatever combination you choose.
+
+If you have Precognition, you can choose Danger Sense as a bonus power.
+
+=== Supersenses ★
+
+You have enhanced or extraordinary sensory abilities. Each level in
+Supersenses grants you one of the following abilities. Choose one or
+roll 1d6. You can choose some abilities more than once, in which case
+their effects are cumulative. If you have Supersenses, you can choose
+Danger Sense or Detection as a bonus power.
+
+[cols=",,",options="header",]
+|===
+||Roll ||Type ||Effect
+|1–2 |Additional |You have more than just the five normal senses; each
+level gives you a new sensory ability, like infravision, radar, sonar,
+or x-ray vision (the ability to see through solid objects). Discuss the
+details of the new sensory abilities with the GM.
+
+|3–4 |Enhanced |Each level adds a +1 bonus to Awareness tests using a
+particular sense, much like a specialty; e.g. Enhanced Vision, Enhanced
+Hearing, etc.
+
+|5–6 |Extended |Each level reduces the effective range to sense
+something by one. For example, you can see things at visual range as if
+they were only at extended range.
+|===

@@ -1,1 +1,474 @@
 = Hero creation
+Creating a hero in Icons is a simple matter of rolling on the tables in
+this section to determine the hero's origin, abilities, specialties, and
+powers. Give your new hero a name, description, and background and
+you’re ready to play! Just follow these phases of design:
+
+. Origin
+. Ability Determination
+. Power Determination
+. Specialty Determination
+. Stamina, Background, and Description
+. Aspects (Qualities and Challenges)
+. Game Master Approval
+
+== Dice
+
+The die rolls called for in this section are either "2d6" which means
+roll two six-sided dice and add them together (rather than subtracting
+one die from the other) or "d6 and d6" which means to roll one die to
+choose a sub-table, then another die to get a result on that sub-table.
+
+[[phase_1_origin]]
+== Phase 1: Origin
+
+The first phase in hero creation is to determine your hero's origin.
+Roll once on the following table:
+
+[cols=",",options="header",]
+|===
+||2d6 Roll ||Origin
+|2-4 |Trained: The hero is a highly skilled human; any "powers" actually
+come from superior training or specialized equipment. The character
+gains three bonus specialties, but two fewer powers (and may have no
+powers at all).
+
+|5-6 |Transformed: The hero was a normal human but became superhuman
+through some outside agency, often an accident or experiment. One of the
+character's abilities or powers (your choice) is increased by +2.
+
+|7 |Birthright: The hero was born with or destined to develop superhuman
+powers. The character gains your choice of one additional power, which
+should be innate, and not a device, or +2 to a rolled power level.
+
+|8-9 |Gimmick: The character's powers all come from devices of some
+kind. One of the character's mental abilities (your choice) is increased
+by +2.
+
+|10 |Artificial: The character is a robot or perhaps some other kind of
+construct, such as a golem. The character's Strength is increased by +2
+and you may choose Life Support as a bonus power.
+
+|11-12 |Unearthly: The character is a being from another world or
+dimension such as an alien, elemental, angel, devil, or even deity.
+Increase two of the character's abilities (your choice) by +2. The
+character has one fewer power but a minimum of one power. Alternately,
+roll twice on this table, ignoring duplicates and results of 11-12. The
+character gets the effects of both origins. Apply the modifiers of the
+rolled origins rather than the Unearthly modifiers.
+|===
+
+[[option_skip_origin]]
+=== Option: Skip Origin
+
+Optionally, you can skip over the Origin phase and simply create the
+hero "straight" using phases 2 onward, without any modifiers from
+origin, filling in the origin of the hero's powers as part of the
+background. Your hero gets none of the benefits or drawbacks of having
+an origin. Get the Game Master's permission before you do this.
+
+[[level_determination]]
+=== Level Determination
+
+Roll on the following tables to determine levels for abilities and
+powers when called to do so:
+
+[cols=",",options="header",]
+|===
+||2d6 Roll ||Level
+|2 |1
+|3 |2
+|4 |3
+|5-6 |4
+|7-8 |5
+|9-10 |6
+|11 |7
+|12 |8
+|===
+
+[[phase_2_abilities]]
+== Phase 2: Abilities
+
+Roll once on the Level Determination table for each ability and record
+the resulting level for it. If your hero's total ability levels (after
+adjustments for origin) are less than 20, you can choose to discard the
+hero and start over.
+
+You can also choose to swap any two ability levels after you have
+determined them. For example, if you roll a Strength of 3 and an
+Awareness of 7 and you really want your hero to be strong rather than
+quick on the uptake, you can choose to swap those two abilities, making
+Strength 7 and Awareness 3.
+
+[[phase_3_powers]]
+== Phase 3: Powers
+
+To determine the number of powers a hero possesses, roll on the
+following table:
+
+[cols=",",options="header",]
+|===
+||Roll ||Number of Powers
+|2-4 |2
+|5-7 |3
+|8-10 |4
+|11-12 |5
+|===
+
+Once you've determined the number of powers, roll for each power on the
+following tables to determine the character's specific powers. Roll on
+the Level Determination table for the power's level
+
+If you roll more than one of the same type of power (such as movement,
+offensive, etc.) you may choose to re-roll to select a different type.
+
+If you roll the same power twice you may elect to either increase the
+power's rolled level by 2 (with a maximum of 10) or roll again to select
+another power.
+
+Some power descriptions offer a choice of bonus powers. This means if
+you have that power you can select another power to fill one of your
+power slots without rolling. For example, if you have Elemental Control,
+you can choose to have a Blast of the same element as one of your other
+powers without having to roll on the tables to select it. You can
+replace a rolled power with a bonus power, if you wish.
+
+First roll to determine the power's type:
+
+[cols=",",options="header",]
+|===
+||2d6 Roll ||Power Type
+|2-3 |Alteration
+|4-5 |Control
+|6 |Defensive
+|7 |Mental
+|8 |Movement
+|9-10 |Offensive
+|11-12 |Sensory
+|===
+
+Then roll on the appropriate table to determine the exact power. A power
+listed with a bullet (•) counts as two power choices. If you only have
+one power choice left, roll again.
+
+[cols=",,",options="header",]
+|===
+||d6 ||d6 ||Alteration Powers
+|1-2 |1 |Ability Boost
+| |2 |Ability Increase
+| |3 |Alter-Ego
+| |4 |Alternate Form
+| |5 |Aquatic
+| |6 |Chameleon
+|3-4 |1 |Density
+| |2 |Duplication•
+| |3 |Extra Body Parts
+| |4 |Growth
+| |5 |Invisibility
+| |6 |Phasing
+|5-6 |1 |Material Duplication•
+| |2 |Power Duplication •
+| |3 |Power Theft •
+| |4 |Transformation •
+| |5 |Shrinking
+| |6 |Stretching
+|===
+
+[cols=",,",options="header",]
+|===
+||d6 ||d6 ||Control Powers
+|1-2 |1-4 |Elemental Control
+| |5-6 |Alteration Ray
+|3-4 |1-3 |Telekinesis
+| |4 |Animation
+| |5 |Plant Control
+| |6 |Probability Control •
+|5-6 |1 |Healing
+| |2 |Power Nullification
+| |3 |Time Control •
+| |4 |Transmutation •
+| |5-6 |Wizardry•
+|===
+
+[cols=",,",options="header",]
+|===
+||d6 ||d6 ||Defensive Powers
+|1-2 |1-3 |Force Field
+| |4-6 |Invulnerability
+|3-4 |1 |Absorption
+| |2 |Immortality •
+| |3-4 |Immunity •
+| |5-6 |Reflection •
+|5-6 |1-2 |Life Support
+| |3-4 |Regeneration
+| |5-6 |Resistance
+|===
+
+[cols=",,",options="header",]
+|===
+||d6 ||d6 ||Mental Powers
+|1-3 |1 |Astral Projection•
+| |2-3 |Illusion
+| |4 |Mental Blast
+| |5-6 |Telepathy
+|4-6 |1 |Animal Control
+| |2 |Emotion Control
+| |3 |Mind Control •
+| |4-5 |Mind Shield
+| |6 |Possession •
+|===
+
+[cols=",,",options="header",]
+|===
+||d6 ||d6 ||Movement Powers
+|1-4 |1-2 |Flight
+| |3-4 |Super-Speed
+| |5 |Swinging
+| |6 |Teleportation •
+|5-6 |1 |Burrowing
+| |2 |Dimension Travel
+| |3-4 |Leaping
+| |5-6 |Wall-Crawling
+|===
+
+[cols=",,",options="header",]
+|===
+||d6 ||d6 ||Offensive Powers
+|1-3 |1 |Affliction
+| |2 |Binding
+| |3-4 |Blast
+| |5-6 |Strike
+|4-6 |1 |Aura
+| |2-3 |Blinding
+| |4 |Fast Attack
+| |5 |Life Drain
+| |6 |Paralysis
+|===
+
+[cols=",,",options="header",]
+|===
+||d6 ||d6 ||Sensory Powers
+|1-3 |1-2 |Detection
+| |3 |ESP
+| |4-6 |Supersenses
+|4-6 |1-2 |Danger Sense
+| |3 |Interface
+| |4 |Postcognition
+| |5-6 |Precognition
+|===
+
+[[phase_4_specialties]]
+== Phase 4: Specialties
+
+To determine the number of specialties your hero has, roll on the
+following table:
+
+[cols=",",options="header",]
+|===
+||2d6 Roll ||Number of Specialties
+|2-4 |1
+|5-7 |2
+|8-10 |3
+|11-12 |4
+|===
+
+Select specialties from among those described in the Specialties section
+of the rules as you see fit.
+
+[[phase_5_stamina_background]]
+== Phase 5: Stamina & Background
+
+In this phase you determine your hero's Stamina and "fill-in-the-blanks"
+to determine background, description, and so forth.
+
+=== Stamina
+
+Add your hero's Strength level and Willpower level together and record
+the result as starting Stamina value.
+
+=== Background
+
+After determining your hero's abilities, come up with a background and
+description of what your hero is like. In particular, consider the
+hero's place of origin, childhood, and ethnic background. How did the
+hero acquire superhuman powers, and how do elements of the hero's
+background provide motivations and challenges for the hero in the
+present? Look to incorporate these things into your hero's aspects (see
+*Phase 6*).
+
+=== Description
+
+What does your hero look like? Consider the hero's physique, costume,
+build, hair color and style, mannerisms, and other distinguishing
+physical features. If you're artistically inclined, you might want to
+draw a picture of your hero to better help other players imagine what
+the character looks like. Perhaps you can use or modify an existing
+picture as a basis for your hero's appearance.
+
+[[phase_6_determination]]
+== Phase 6: Determination
+
+Subtract the hero's number of powers from 6 to get the hero's starting
+Determination, with a minimum value of 1, keeping in mind each ability
+above level 6 counts as a power and some powers count double.
+
+Give some thought to the different aspects of your character: important
+qualities and the various challenges your hero faces. Aspects influence
+how you use Determination in the game and, since overcoming challenges
+is the mark of a true hero, they are the way you earn more Determination
+in the game. Aspects are described in more detail in the Determination
+section (p. XXX).
+
+Choose at least one and up to five qualities and up to five challenges
+for your hero. You are not required to choose any challenges, but they
+are a key means of earning more Determination, so you should consider
+some.
+
+[[phase_7_game_master_approval]]
+== Phase 7: Game Master Approval
+
+Once you've completed your hero, show a copy to your Game Master for
+approval. The GM may approve your character on-the-spot, ask for some
+changes or revisions to help the hero better fit into the overall
+series, or even ask you to rework the character entirely, although most
+Game Masters will not do so without a good reason.
+
+[[example_the_secret_origin_of_saguaro]]
+== Example: The Secret Origin of Saguaro!
+
+Branden wants to create a hero for an Icons game.
+
+[[phase_1_origin_1]]
+=== Phase 1: Origin
+
+Branden rolls on the *Origin* table and gets a 6, a Transformed origin!
+This means he can add +2 to one of his hero's abilities or powers.
+
+[[phase_2_abilities_1]]
+=== Phase 2: Abilities
+
+Next, Branden rolls six times on the *Level Determination* table: 4, 4,
+11, 3, 4, and 10, giving him the following levels for his hero’s six
+abilities:
+
+[cols=",",]
+|===
+|Prowess |3
+|Coordination |3
+|Strength |7
+|Intellect |2
+|Awareness |3
+|Willpower |6
+|===
+
+Branden is entitled to increase an ability by +2, but decides to wait
+until he sees what his hero's other traits are first. He's also entitled
+to swap two ability levels, but decides to leave them where they are
+right now.
+
+[[phase_3_powers_1]]
+=== Phase 3: Powers
+
+Branden rolls a 6 on the *Number of Powers* table, for three powers.
+
+He rolls an 8 for the first power, making it a Movement Power, then
+rolls a 5 and a 6, getting Leaping. A roll of 7 on the *Level
+Determination* table gives it level 5.
+
+For the second power, Branden rolls an 8 (an Offensive Power), then a 4
+and a 1, for Aura.
+
+Lastly, he rolls a 6 for a Defensive Power, then a 6 and a 2, for Life
+Support. The Level Determination roll is a 3, for a level of 2.
+
+So Branden has a guy who can leap pretty far, is immune to some things,
+and has some kind of effect that damages people who touch him. He
+immediately thinks of the prickly spines of a cactus, and an idea for
+his hero starts to come together: a cactus-man, covered in sharp spines
+(his Aura). Glancing at the Life Support power, Branden figures it
+reflects his hero's part-plant nature: he doesn't need to eat (since he
+photosynthesizes) or sleep, and certainly doesn't need to drink much!
+
+[[phase_4_specialties_1]]
+=== Phase 4: Specialties
+
+A roll of 7 on the *Number of Specialties* table gives Branden's hero
+two specialties. Looking over the lists, he chooses Athletics to give
+his hero more jumping and climbing ability, related to his Leaping
+power.
+
+He wants a combat specialty as well and looks at Martial Arts, but it
+doesn't fit his concept and does not gain him as much, since his hero's
+Strength is already quite formidable. Wrestling, on the other hand, work
+great with his hero's powers, especially his damaging Aura!
+
+Given this focus on the physical, and the fact that Branden wants to
+play a strong, tough hero, he decides to add +2 to his character's
+Strength level, bringing it up to a very respectable 9.
+
+[[phase_5_stamina_background_1]]
+=== Phase 5: Stamina & Background
+
+Adding his hero's Strength (9) and Willpower (6) together, Branden gets
+a Stamina of 15, which he notes.
+
+After considering, he decides his hero is a half-blood Native American
+transformed by drinking water from desert cacti mutated by atomic tests
+in the Desert Southwest in the 1950s, becoming ... the Mighty Saguaro,
+the Cactus-Man!
+
+[[phase_6_determination_1]]
+=== Phase 6: Determination
+
+Subtracting his hero's three powers plus his one ability over 7, from a
+value of 6, Branden gets a starting Determination of 2, and notes that
+on his character sheet.
+
+For initial aspects, he gives Saguaro a catchphrase ("Desert plants are
+survivors!") and a Connection to his Mentor, an old Navajo shaman named
+Tom Crow, who taught him about responsible use of power. He rounds the
+qualities list out by giving Saguaro a motivation he sums up as "Changed
+by Man, Chosen by the Spirits" -- although his transformation might
+appear to have been an accident, Saguaro believes it was destiny.
+
+He decides his hero's challenges include having to deal with the fact
+that he looks like a humanoid cactus and is cut off from human contact.
+The burden of his destiny can be a heavy one, a personal challenge for
+him. These give the GM some story-hooks for the character and provide
+Branden with some opportunities to earn more Determination for Saguaro
+in play.
+
+Branden shows his finished character sheet to the Game Master, along
+with an initial sketch of what he thinks Saguaro looks like. The GM
+likes the concept and approves, suggesting to Branden the possibility of
+an Enemy challenge as well: an evil desert-dwelling sorcerer (and former
+student of Tom Crow's) who has a lizard-like appearance and powers and
+calls himself Gila-Master. Branden agrees and notes the additional
+challenge. Saguaro definitely has his work cut out for him!
+
+[[but_i_dont_want_to_roll_up_a_hero]]
+== "But I don’t want to roll-up a hero!"
+
+It’s okay; you don't have to, if your Game Master agrees. The random
+hero-creation system in Icons is intended as a source of inspiration:
+building a coherent back-story and theme around a collection of fairly
+random traits can be a creative challenge and it certainly reflects the
+-- shall we say "eclectic"? -- style of the superhero comics.
+
+The alternative approach is to create your hero with a "budget" of
+points you allocate to different traits. You start out with 45 points,
+which the GM may adjust to suit the game as desired. Each level of an
+ability and each level of a power costs 1 of these points, as does each
+level of a specialty (up to 3, as usual). You must spend at least 1
+point on each ability, and you can only have one ability or power level
+greater than 8 (and no more than 10).
+
+Phase 5 and 6 of hero creation are the same: determining background,
+Stamina, description, Determination, and aspects.
+
+This approach tends to create heroes that fit into a somewhat more
+narrow range, although there's still considerable room for variation,
+depending on where you spend your points. It is also something of a
+"fast-and-dirty" approach when it comes to taking the relative value of
+different powers into account, but Determination helps to balance this
+out, as it does in regular play.
