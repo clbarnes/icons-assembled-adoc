@@ -52,7 +52,7 @@ issue may be a "one-shot issue."
 Lastly, multiple issues make up a series, just like an ongoing comic
 book series.
 
-=== Reactions ®
+=== Reactions
 
 You may be called upon to make various tests during or outside of your
 panel in reaction to something someone else does.
@@ -64,7 +64,7 @@ a page as the Game Master requires.
 Reactions are noted with the icon in the header.
 
 [[supplemental_actions]]
-=== Supplemental Actions ⊕
+=== Supplemental Actions
 
 You may only perform one active test in your panel (the exception is the
 Fast Attack power which grants characters the ability to make multiple
@@ -188,7 +188,7 @@ target.
 With a massive success, you may stun the target.
 See *Damage* for details.
 
-=== Evading ®
+=== Evading
 
 You use your Prowess to evade attacks through a series of feints and
 maneuvers.
@@ -237,7 +237,7 @@ With a massive
 success, you may stun the target.
 See *Damage* for details.
 
-=== Catching ⊕
+=== Catching
 
 On occasions when characters need to catch a falling or thrown object,
 roll a Coordination test.
@@ -278,7 +278,7 @@ The GM may increase
 the difficulty for especially long climbs (up the side of a skyscraper,
 for example) but only one test is required.
 
-=== Dodging ®
+=== Dodging
 
 Dodging is the art of not being there when an attack arrives.
 Roll a
@@ -290,7 +290,7 @@ outcome from the margin of failure.
 For example, if you fail to dodge an
 attack by 3 levels, the attacker achieves a major success against you.
 
-=== Moving ⊕
+=== Moving
 
 Your Coordination determines the distance you can cover in one page:
 personal for Coordination 1 (just shuffling along), close for
@@ -316,7 +316,7 @@ You can potentially use this to stun the target (see *Shooting to Stun*).
 With a massive success, you may kill the target!
 See *Damage* for details.
 
-=== Swimming ⊕
+=== Swimming
 
 Without a special power, a character covers only close distance each
 page while swimming.
@@ -371,7 +371,7 @@ Strength by 1.
 If it is more than a foot thick, increase Strength by 1;
 if more than two feet thick, increase Strength by 2.
 
-[cols=",",options="header",]
+[cols=",",options="header,autowidth",]
 |===
 |Strength Level |Material
 |1 |Paper
@@ -408,7 +408,7 @@ the blocking test in these cases.
 Your normal level of Invulnerability
 applies to any unblocked damage.
 
-=== Exhaustion ®
+=== Exhaustion
 
 Characters can move continuously for a number of pages equal to
 (Strength x 10) before running the risk of suffering from exhaustion.
@@ -422,7 +422,7 @@ The player continues rolling once each
 page, with a cumulative +1 difficulty level per page, until the
 character rests for at least one minute.
 
-=== Escaping ®
+=== Escaping
 
 When you're being held by an opponent (see *Wrestling*, following), you
 can attempt to escape the hold with a Prowess or Strength test against
@@ -443,7 +443,7 @@ target.
 With a massive success, you grab the object, but damage it; it
 suffers damage equal to the combined Strength of you and your opponent!
 
-=== Jumping ⊕
+=== Jumping
 
 The distance you can jump is based on your Strength: personal for levels
 1-3, close for levels 4-6, extended for levels 7-8, and out to visual
@@ -454,11 +454,11 @@ level and a major success you can jump one extra step.
 If you have the Leaping power, you can jump much greater
 distances than your Strength allows.
 
-=== Lifting ⊕
+=== Lifting
 
 Your Strength level determines the amount you can lift, as follows:
 
-[cols=",",options="header",]
+[cols=",",options="header,autowidth",]
 |===
 |Strength Level |Strong enough to lift...
 |1 |a heavy sack
@@ -537,7 +537,7 @@ difficulty of your Intellect test.
 The GM sets the requirements in terms
 of time and resources for the invention.
 
-=== Knowing ®
+=== Knowing
 
 To see if your character knows a particular piece of information, make
 an Intellect test against a difficulty set by the GM based on how
@@ -596,7 +596,7 @@ anything." This way, players don't necessarily know if they were not
 aware of something, or there wasn't anything to be aware of in the first
 place!
 
-=== Noticing ®
+=== Noticing
 
 Make an Awareness test to notice things, from subtle clues to the
 villain trying to sneak up on you from behind.

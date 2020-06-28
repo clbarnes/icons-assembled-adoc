@@ -263,7 +263,7 @@ You have additional body parts, either a completely new part (such as a
 tail) or more of an existing part (like four arms instead of two).
 Choose one of the following options or roll 2d6:
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Roll |Body Part |Benefit
 |2–3 |Carapace |You have a hard shell, granting Invulnerability equal to
@@ -304,7 +304,7 @@ Your height is based on your Growth level, as shown on the table, and
 you have a penalty to your defense based on your increased size, since
 it's easier for opponents to hit you.
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Level |Height |Defense
 |1 |9 feet |-0
@@ -460,7 +460,7 @@ target, using the momentum of your growth to enhance an attack; add the
 modifier for your Shrinking level given on the table as a bonus to your
 unarmed damage (with a maximum of +3).
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Level |Size |Modifier
 |1 |4 feet |+0
@@ -544,7 +544,7 @@ rather than yourself (see *Alteration Powers*).
 Choose an option from
 the list below, or roll 1d6.
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Roll |Type |Effect
 |1 |Density Ray |You increase the target's density.
@@ -632,7 +632,7 @@ Such objects retain their
 shape for as long as you maintain them, although stable forms (such as
 shaped earth or metal) may remain so, at the GM's discretion.
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Rolls |Element |Effects
 |1-3, 1 |Air |You can manipulate winds to attack, create protective
@@ -1091,7 +1091,7 @@ power's level (maximum of 10).
 Choose the type of animal affected, or
 roll on the following table:
 
-[cols=",",options="header",]
+[cols=",",options="header,autowidth",]
 |===
 |2d6 |Animal Type
 |2–3 |Avians
@@ -1153,7 +1153,7 @@ level by +2 (to a maximum of 10).
 Choose one emotion, or roll on the
 following table:
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |2d6 |Emotion |Effect
 |2–3 |Doubt |Beset with doubt, the target always acts last and may not
@@ -1515,7 +1515,7 @@ You can attack more than once per panel, with your total number of
 attacks based on your power level.
 Make each attack test separately.
 
-[cols=",",options="header",]
+[cols=",",options="header,autowidth",]
 |===
 |Level |Attacks Per Panel
 |1-5 |2
@@ -1600,7 +1600,7 @@ presence with Awareness equal to your Detection level.
 Select one type
 of Detection from the following list or roll 2d6:
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Roll |Type |Effect
 |2 |Cosmic |You can detect cosmic-level beings, cosmic energy, and
@@ -1684,7 +1684,7 @@ The GM can also choose to give you a postcognitive vision at any time,
 saying you pick up on the "strong impressions" left on a particular
 subject.
 
-[cols=",",options="header",]
+[cols=",",options="header,autowidth",]
 |===
 |Difficulty |Time
 |1 |A day
@@ -1762,7 +1762,7 @@ their effects are cumulative.
 If you have Supersenses, you can choose
 Danger Sense or Detection as a bonus power.
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Roll |Type |Effect
 |1–2 |Additional |You have more than just the five normal senses; each

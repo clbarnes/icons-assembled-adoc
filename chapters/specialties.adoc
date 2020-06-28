@@ -27,7 +27,7 @@ So a character might, for example have specialties of Blades, Bows
 Expert, Investigation Expert, Journalism, Painting, and Stealth Mastery,
 indicating different levels of specialty.
 
-[cols="",options="header",]
+[cols="",options="header,autowidth",]
 |===
 |Specialty List
 |Acrobatics

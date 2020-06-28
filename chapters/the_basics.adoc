@@ -25,7 +25,7 @@ roughly three tiers: low (1-2), normal human (3-6) and superhuman
 Here is a comparison of the different levels in terms of
 ability:
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Level |Description |Optional Name
 |1 |Weak, minimum human |Doddering, Feeble, Weak
@@ -79,7 +79,7 @@ Subtract the result
 of the negative die from the positive die to get a result from +5 to –5,
 with odds weighted towards a middle or 0 result, as follows:
 
-[cols=",,",options="header",]
+[cols=",,",options="header,autowidth",]
 |===
 |Result |Chance of +
 Exact Result |Chance of +
@@ -170,7 +170,7 @@ A test's effect can be measured in one of four outcomes, general
 descriptions for how well (or poorly) the character did in accomplishing
 the test:
 
-[cols=",",options="header",]
+[cols=",",options="header,autowidth",]
 |===
 |Effect |Outcome
 |Less than 0 |*Failure.* The effort fails to achieve the desired effect.
