@@ -1,11 +1,12 @@
 = ICONS: Superpowered Roleplaying
 :!player-only:
 :toc: left
-:sectnums:
 
 :leveloffset: +1
 
 include::credits.adoc[]
+
+:sectnums:
 
 include::chapters/introduction.adoc[]
 
