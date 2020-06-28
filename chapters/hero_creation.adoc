@@ -332,161 +332,19 @@ You are not required to choose any challenges, but they are a key means of earni
 Once you've completed your hero, show a copy to your Game Master for approval.
 The GM may approve your character on-the-spot, ask for some changes or revisions to help the hero better fit into the overall series, or even ask you to rework the character entirely, although most Game Masters will not do so without a good reason.
 
-[[example_the_secret_origin_of_saguaro]]
-== Example: The Secret Origin of Saguaro!
-
-Branden wants to create a hero for an Icons game.
-
-[[phase_1_origin_1]]
-=== Phase 1: Origin
-
-Branden rolls on the *Origin* table and gets a 6, a Transformed origin!
-This means he can add +2 to one of his hero's abilities or powers.
-
-[[phase_2_abilities_1]]
-=== Phase 2: Abilities
-
-Next, Branden rolls six times on the *Level Determination* table: 4, 4,
-11, 3, 4, and 10, giving him the following levels for his hero’s six
-abilities:
-
-[cols=",",]
-|===
-|Prowess |3
-|Coordination |3
-|Strength |7
-|Intellect |2
-|Awareness |3
-|Willpower |6
-|===
-
-Branden is entitled to increase an ability by +2, but decides to wait
-until he sees what his hero's other traits are first.
-He's also entitled
-to swap two ability levels, but decides to leave them where they are
-right now.
-
-[[phase_3_powers_1]]
-=== Phase 3: Powers
-
-Branden rolls a 6 on the *Number of Powers* table, for three powers.
-
-He rolls an 8 for the first power, making it a Movement Power, then
-rolls a 5 and a 6, getting Leaping.
-A roll of 7 on the *Level
-Determination* table gives it level 5.
-
-For the second power, Branden rolls an 8 (an Offensive Power), then a 4
-and a 1, for Aura.
-
-Lastly, he rolls a 6 for a Defensive Power, then a 6 and a 2, for Life
-Support.
-The Level Determination roll is a 3, for a level of 2.
-
-So Branden has a guy who can leap pretty far, is immune to some things,
-and has some kind of effect that damages people who touch him.
-He
-immediately thinks of the prickly spines of a cactus, and an idea for
-his hero starts to come together: a cactus-man, covered in sharp spines
-(his Aura).
-Glancing at the Life Support power, Branden figures it
-reflects his hero's part-plant nature: he doesn't need to eat (since he
-photosynthesizes) or sleep, and certainly doesn't need to drink much!
-
-[[phase_4_specialties_1]]
-=== Phase 4: Specialties
-
-A roll of 7 on the *Number of Specialties* table gives Branden's hero
-two specialties.
-Looking over the lists, he chooses Athletics to give
-his hero more jumping and climbing ability, related to his Leaping
-power.
-
-He wants a combat specialty as well and looks at Martial Arts, but it
-doesn't fit his concept and does not gain him as much, since his hero's
-Strength is already quite formidable.
-Wrestling, on the other hand, work
-great with his hero's powers, especially his damaging Aura!
-
-Given this focus on the physical, and the fact that Branden wants to
-play a strong, tough hero, he decides to add +2 to his character's
-Strength level, bringing it up to a very respectable 9.
-
-[[phase_5_stamina_background_1]]
-=== Phase 5: Stamina & Background
-
-Adding his hero's Strength (9) and Willpower (6) together, Branden gets
-a Stamina of 15, which he notes.
-
-After considering, he decides his hero is a half-blood Native American
-transformed by drinking water from desert cacti mutated by atomic tests
-in the Desert Southwest in the 1950s, becoming ...
-the Mighty Saguaro,
-the Cactus-Man!
-
-[[phase_6_determination_1]]
-=== Phase 6: Determination
-
-Subtracting his hero's three powers plus his one ability over 7, from a
-value of 6, Branden gets a starting Determination of 2, and notes that
-on his character sheet.
-
-For initial aspects, he gives Saguaro a catchphrase ("Desert plants are
-survivors!") and a Connection to his Mentor, an old Navajo shaman named
-Tom Crow, who taught him about responsible use of power.
-He rounds the
-qualities list out by giving Saguaro a motivation he sums up as "Changed
-by Man, Chosen by the Spirits" -- although his transformation might
-appear to have been an accident, Saguaro believes it was destiny.
-
-He decides his hero's challenges include having to deal with the fact
-that he looks like a humanoid cactus and is cut off from human contact.
-The burden of his destiny can be a heavy one, a personal challenge for
-him.
-These give the GM some story-hooks for the character and provide
-Branden with some opportunities to earn more Determination for Saguaro
-in play.
-
-Branden shows his finished character sheet to the Game Master, along
-with an initial sketch of what he thinks Saguaro looks like.
-The GM
-likes the concept and approves, suggesting to Branden the possibility of
-an Enemy challenge as well: an evil desert-dwelling sorcerer (and former
-student of Tom Crow's) who has a lizard-like appearance and powers and
-calls himself Gila-Master.
-Branden agrees and notes the additional
-challenge.
-Saguaro definitely has his work cut out for him!
-
 [[but_i_dont_want_to_roll_up_a_hero]]
 == "But I don’t want to roll-up a hero!"
 
 It’s okay; you don't have to, if your Game Master agrees.
-The random
-hero-creation system in Icons is intended as a source of inspiration:
-building a coherent back-story and theme around a collection of fairly
-random traits can be a creative challenge and it certainly reflects the
--- shall we say "eclectic"?
--- style of the superhero comics.
+The random hero-creation system in Icons is intended as a source of inspiration:
+building a coherent back-story and theme around a collection of fairly random traits can be a creative challenge and it certainly reflects the -- shall we say "eclectic"? -- style of the superhero comics.
 
-The alternative approach is to create your hero with a "budget" of
-points you allocate to different traits.
-You start out with 45 points,
-which the GM may adjust to suit the game as desired.
-Each level of an
-ability and each level of a power costs 1 of these points, as does each
-level of a specialty (up to 3, as usual).
-You must spend at least 1
-point on each ability, and you can only have one ability or power level
-greater than 8 (and no more than 10).
+The alternative approach is to create your hero with a "budget" of points you allocate to different traits.
+You start out with 45 points, which the GM may adjust to suit the game as desired.
+Each level of an ability and each level of a power costs 1 of these points, as does each level of a specialty (up to 3, as usual).
+You must spend at least 1 point on each ability, and you can only have one ability or power level greater than 8 (and no more than 10).
 
-Phase 5 and 6 of hero creation are the same: determining background,
-Stamina, description, Determination, and aspects.
+Phase 5 and 6 of hero creation are the same: determining background, Stamina, description, Determination, and aspects.
 
-This approach tends to create heroes that fit into a somewhat more
-narrow range, although there's still considerable room for variation,
-depending on where you spend your points.
-It is also something of a
-"fast-and-dirty" approach when it comes to taking the relative value of
-different powers into account, but Determination helps to balance this
-out, as it does in regular play.
+This approach tends to create heroes that fit into a somewhat more narrow range, although there's still considerable room for variation, depending on where you spend your points.
+It is also something of a "fast-and-dirty" approach when it comes to taking the relative value of different powers into account, but Determination helps to balance this out, as it does in regular play.
