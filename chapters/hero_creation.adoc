@@ -336,8 +336,7 @@ The GM may approve your character on-the-spot, ask for some changes or revisions
 == "But I don’t want to roll-up a hero!"
 
 It’s okay; you don't have to, if your Game Master agrees.
-The random hero-creation system in Icons is intended as a source of inspiration:
-building a coherent back-story and theme around a collection of fairly random traits can be a creative challenge and it certainly reflects the -- shall we say "eclectic"? -- style of the superhero comics.
+The random hero-creation system in Icons is intended as a source of inspiration: building a coherent back-story and theme around a collection of fairly random traits can be a creative challenge and it certainly reflects the -- shall we say "eclectic"? -- style of the superhero comics.
 
 The alternative approach is to create your hero with a "budget" of points you allocate to different traits.
 You start out with 45 points, which the GM may adjust to suit the game as desired.

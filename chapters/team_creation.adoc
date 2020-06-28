@@ -1,258 +1,140 @@
 = Team creation
 Creating a hero in Icons is just the first step.
-Superhero comics are
-often based around teams, and so is game play in Icons.
-The superhero
-team is the foundation, with each of the players controlling one hero on
-the team.
-So after the players have created their individual heroes, it
-is time to bring those characters together to form a team.
-Team creation
-follows these steps:
+Superhero comics are often based around teams, and so is game play in Icons.
+The superhero team is the foundation, with each of the players controlling one hero on the team.
+So after the players have created their individual heroes, it is time to bring those characters together to form a team.
+Team creation follows these steps:
 
-.
-Team Origin
-.
-Team Determination
-.
-Team Qualities
-.
-Team Challenges
-.
-Team Resources
-.
-Game Master Approval
+. Team Origin
+. Team Determination
+. Team Qualities
+. Team Challenges
+. Team Resources
+. Game Master Approval
 
 [[team_origin]]
 == Team Origin
 
-Each team has an origin: how the team got together and what made them
-decide to stay together as a group.
-The players should collaborate to
-come up with the team's origin.
-Were they brought together by a major
-crisis, the work of an influential mentor, or the machinations of a
-particular villain?
-How did their first adventure together inspire them
-to remain together as a team, and what potential team aspects does their
-origin suggest?
-(See *Team Qualities and Team Challenges* for additional
-information.)
+Each team has an origin: how the team got together and what made them decide to stay together as a group.
+The players should collaborate to come up with the team's origin.
+Were they brought together by a major crisis, the work of an influential mentor, or the machinations of a particular villain?
+How did their first adventure together inspire them to remain together as a team, and what potential team aspects does their origin suggest?
+(See *Team Qualities and Team Challenges* for additional information.)
 
-If desired, you can run the team's origin as part of the series,
-typically as the first issue(s), letting the players form a Team
-Determination pool and choose team aspects once the group is
-"officially" together as a team.
-Likewise, you can allow players to
-choose team qualities and challenges during play, just as they can for
-individual heroes (see *Choosing Aspects During Play* under
-*Determination*).
+If desired, you can run the team's origin as part of the series, typically as the first issue(s), letting the players form a Team Determination pool and choose team aspects once the group is "officially" together as a team.
+Likewise, you can allow players to choose team qualities and challenges during play, just as they can for individual heroes (see *Choosing Aspects During Play* under *Determination*).
 
 [[team_determination]]
 == Team Determination
 
-Members of a team also combine their Determination to a degree, creating
-a Team Determination "pool" from which they can all draw during play.
+Members of a team also combine their Determination to a degree, creating a Team Determination "pool" from which they can all draw during play.
 
-Each member of the team must contribute 1 point of starting
-Determination value.
-This decreases the character's starting value and
-may even bring it down to 0 (nobody said teamwork was without
-sacrifice).
-The Team Determination gets an additional bonus starting
-point, so its starting value equals the number of team members, plus 1.
+Each member of the team must contribute 1 point of starting Determination value.
+This decreases the character's starting value and may even bring it down to 0 (nobody said teamwork was without sacrifice).
+The Team Determination gets an additional bonus starting point, so its starting value equals the number of team members, plus 1.
 
-The Leadership specialty (see *Specialties*) improves a team's
-Determination: add the leader's level in the specialty to the Team
-Determination pool.
-So a Leadership Master adds +3 to Team Determination
-while leading.
+The Leadership specialty (see *Specialties*) improves a team's Determination: add the leader's level in the specialty to the Team Determination pool.
+So a Leadership Master adds +3 to Team Determination while leading.
 
-If there is a change in leadership during play, subtract the Leadership
-level of the departing leader from that of the new leader and apply the
-difference to the team's Determination.
+If there is a change in leadership during play, subtract the Leadership level of the departing leader from that of the new leader and apply the difference to the team's Determination.
 
-*Example:* _Prometheus' amazing foresight has always made him an
-effective leader (Leadership Expert); he adds +2 Determination to the
-team's pool.
-When Prometheus is captured by the team's foes,
-All-American Girl has to take charge.
-She has Leadership, but isn't an
-Expert, so the team's Determination Pool loses 1 point (the difference
-between Prometheus and All-American Girl's Leadership bonuses)._
+====
+Prometheus' amazing foresight has always made him an effective leader (Leadership Expert); he adds +2 Determination to the team's pool.
+When Prometheus is captured by the team's foes, All-American Girl has to take charge.
+She has Leadership, but isn't an Expert, so the team's Determination Pool loses 1 point (the difference between Prometheus and All-American Girl's Leadership bonuses)._
+====
 
-A team Determination pool renews at the start of each issue, the same as
-an individual hero's Determination: increasing up to its starting value,
-if below it, otherwise remaining at its current value.
+A team Determination pool renews at the start of each issue, the same as an individual hero's Determination: increasing up to its starting value, if below it, otherwise remaining at its current value.
 
 [[team_qualities]]
 == Team Qualities
 
-The team chooses up to three team qualities, which are proposed and
-voted upon by the players of the members of the team.
-Agreement on team
-qualities must be unanimous.
+The team chooses up to three team qualities, which are proposed and voted upon by the players of the members of the team.
+Agreement on team qualities must be unanimous.
 
-A team might choose a catchphrase like a rallying cry, an epithet, or a
-team motivation, such as furthering the cause of justice in the world,
-exploring the unknown, or proving to everyone that superhuman mutants
-are not a threat to humanity.
+A team might choose a catchphrase like a rallying cry, an epithet, or a team motivation, such as furthering the cause of justice in the world, exploring the unknown, or proving to everyone that superhuman mutants are not a threat to humanity.
 See *Qualities* for more suggestions.
 
-Thereafter, members of the team can tag team qualities to spend
-Determination from the team pool, just like personal Determination.
-The
-GM can also compel team qualities, adding Determination to the team
-pool.
+Thereafter, members of the team can tag team qualities to spend Determination from the team pool, just like personal Determination.
+The GM can also compel team qualities, adding Determination to the team pool.
 
-The players of the team members must be in unanimous agreement on any
-use of team Determination, otherwise the points are not available from
-the pool.
+The players of the team members must be in unanimous agreement on any use of team Determination, otherwise the points are not available from the pool.
 
 [[team_challenges]]
 == Team Challenges
 
-The team may choose up to three team challenges, which are also proposed
-and voted upon by the players of the members of the team.
-Agreement on
-challenges must also be unanimous.
+The team may choose up to three team challenges, which are also proposed and voted upon by the players of the members of the team.
+Agreement on challenges must also be unanimous.
 
-Possible challenges include things like a team enemy, personal issues
-(like team in-fighting or bickering), or even something like general
-team social issues, like being part of a mistrusted minority.
+Possible challenges include things like a team enemy, personal issues (like team in-fighting or bickering), or even something like general team social issues, like being part of a mistrusted minority.
 See *Challenges* for more possibilities.
 
 The GM can compel team challenges to add Determination to the team pool.
-A team challenge affects all members of the team present, but only adds
-1 point of Determination to the team pool per compel, not 1 per
-character.
-This is a downside to Team Determination, but it is also the
-only way to add to a Team Determination pool apart from its regular
-renewal at the start of a new issue.
+A team challenge affects all members of the team present, but only adds 1 point of Determination to the team pool per compel, not 1 per character.
+This is a downside to Team Determination, but it is also the only way to add to a Team Determination pool apart from its regular renewal at the start of a new issue.
 
 [[lets_divide_into_teams]]
 === "Let's Divide Into Teams!"
 
-One way the heroes turn team challenges to their advantage is by doing
-what they do in the comics: dividing up the group.
-If a team splits into
-smaller groups, then each group spends Determination from the same team
-pool, but gains Determination from team challenges separately.
-So, for
-example, if a team of six heroes splits up into three pairs, and each
-pair faces one of the team's challenges during the following chapters,
-then each pair adds one point of Determination to the team pool.
+One way the heroes turn team challenges to their advantage is by doing what they do in the comics: dividing up the group.
+If a team splits into smaller groups, then each group spends Determination from the same team pool, but gains Determination from team challenges separately.
+So, for example, if a team of six heroes splits up into three pairs, and each pair faces one of the team's challenges during the following chapters, then each pair adds one point of Determination to the team pool.
 
 [[heroic_sacrifice]]
 === Heroic Sacrifice
 
-If a member of the team is defeated, and chooses to remain so until a
-normal recovery, then that character may commit an additional point of
-Determination to the team pool, inspiring the rest of the team with his
-or her sacrifice.
-This commitment means not using Determination to
-recover or otherwise retcon a way out of the defeat.
+If a member of the team is defeated, and chooses to remain so until a normal recovery, then that character may commit an additional point of Determination to the team pool, inspiring the rest of the team with his or her sacrifice.
+This commitment means not using Determination to recover or otherwise retcon a way out of the defeat.
 
-A character with the Leadership specialty may commit additional
-Determination to offset any losses due to the character's departure as
-leader on a 1-to-1 basis, so a Leadership Expert who is defeated and can
-no longer lead can commit 2 Determination to the team to offset the loss
-of leadership, as well as 1 more for the character's defeat.
+A character with the Leadership specialty may commit additional Determination to offset any losses due to the character's departure as leader on a 1-to-1 basis, so a Leadership Expert who is defeated and can no longer lead can commit 2 Determination to the team to offset the loss of leadership, as well as 1 more for the character's defeat.
 
-If only one member of a team remains undefeated, then that character has
-unrestricted access to the team Determination pool and can use it as
-desired (since there is only one vote that goes into such decisions).
-This "Last Hero Standing" guideline can be a potent final option for a
-hero in a crisis.
+If only one member of a team remains undefeated, then that character has unrestricted access to the team Determination pool and can use it as desired (since there is only one vote that goes into such decisions).
+This "Last Hero Standing" guideline can be a potent final option for a hero in a crisis.
 
-If all the members of a team are defeated at once, this option does not
-apply, although the GM may treat the loss as a challenge worth adding
-Determination to the team pool.
+If all the members of a team are defeated at once, this option does not apply, although the GM may treat the loss as a challenge worth adding Determination to the team pool.
 
 [[team_resources]]
 == Team Resources
 
-One advantage forming a team offers heroes is the opportunity to have
-and share in various team resources such as a common headquarters, one
-or more vehicles for transporting the team, a shared database,
-communications system, and so forth.
-There are several ways to handle
-these resources in Icons and it is up to the Game Master to choose the
-preferred means and inform the players of it when they go to form their
-team:
+One advantage forming a team offers heroes is the opportunity to have and share in various team resources such as a common headquarters, one or more vehicles for transporting the team, a shared database, communications system, and so forth.
+There are several ways to handle these resources in Icons and it is up to the Game Master to choose the preferred means and inform the players of it when they go to form their team:
 
 [[free_resources]]
 === Free Resources
 
-Some resources may come to a hero team effectively for "free," simply as
-a part of having an established team.
-The GM decides what the available
-resources are based on the team's background, membership, sponsorship,
-and the overall needs of the game and the series.
+Some resources may come to a hero team effectively for "free," simply as a part of having an established team.
+The GM decides what the available resources are based on the team's background, membership, sponsorship, and the overall needs of the game and the series.
 
-This is the easiest way of handling team resources, making them largely
-background elements.
-In instances where a use of team resources makes a
-significant impact on the game, the GM may still require a use of
-Determination as a retcon or even a stunt, such as a player asking if
-the trophy room at the team's headquarters just happens to have a much
-needed item the heroes could use to deal with the current crisis they
-are facing.
+This is the easiest way of handling team resources, making them largely background elements.
+In instances where a use of team resources makes a significant impact on the game, the GM may still require a use of Determination as a retcon or even a stunt, such as a player asking if the trophy room at the team's headquarters just happens to have a much needed item the heroes could use to deal with the current crisis they are facing.
 
 [[determination_investment]]
 === Determination Investment
 
-Alternately, the team may be required to "invest" a portion of their
-Team Determination pool into resources.
-Typically, this is 1 point of
-starting Team Determination per significant resource, with the Game
-Master deciding what constitutes "significant." So, for example, a team
-might invest 1 point in having an extensive and well-equipped
-headquarters and another in having a shared team vehicle.
+Alternately, the team may be required to "invest" a portion of their Team Determination pool into resources.
+Typically, this is 1 point of starting Team Determination per significant resource, with the Game Master deciding what constitutes "significant."
+So, for example, a team might invest 1 point in having an extensive and well-equipped headquarters and another in having a shared team vehicle.
 
 Invested Team Determination is not available for other uses during play.
-It effectively reduces the starting value of the Team Determination
-pool, including the rate at which it renews.
-This means less
-Determination available to the heroes during the game, in exchange for
-certain resources that help them in other ways.
+It effectively reduces the starting value of the Team Determination pool, including the rate at which it renews.
+This means less Determination available to the heroes during the game, in exchange for certain resources that help them in other ways.
 
 [[pay_as_you_go]]
 === Pay-As-You-Go
 
-A middle ground between free resources and Determination investment is a
-"pay-as-you-go" approach, wherein the team spends points of Team
-Determination for significant uses of team resources during play, but
-otherwise does not have to pay for those resources, they're just assumed
-to be sitting in the background, waiting to be activated.
+A middle ground between free resources and Determination investment is a "pay-as-you-go" approach, wherein the team spends points of Team Determination for significant uses of team resources during play, but otherwise does not have to pay for those resources, they're just assumed to be sitting in the background, waiting to be activated.
 
-This is essentially like a team-determined retcon or stunt: if a use of
-the team's resources has a significant affect on the game (again, in the
-Game Master's opinion) then the GM can ask the players to pay out a
-point of Determination from the team pool, the same as a retcon or stunt
-for an individual character.
+This is essentially like a team-determined retcon or stunt: if a use of the team's resources has a significant affect on the game (again, in the Game Master's opinion) then the GM can ask the players to pay out a point of Determination from the team pool, the same as a retcon or stunt for an individual character.
 
-Routine use of resources: simply living or holding meetings at the
-team's headquarters, using team vehicles to get around, and so forth, do
-not cost Determination; they are just background color.
-Significant
-uses, from breaking out a needed device from the trophy room to getting
-the heroes where they need to be in the nick of time, can be considered
-uses of Team Determination.
+Routine use of resources: simply living or holding meetings at the team's headquarters, using team vehicles to get around, and so forth, do not cost Determination; they are just background color.
+Significant uses, from breaking out a needed device from the trophy room to getting the heroes where they need to be in the nick of time, can be considered uses of Team Determination.
 
 [[game_master_approval]]
 == Game Master Approval
 
-Just as with hero creation, the GM approves the origin and aspects of a
-hero team, and may ask the players to make modifications to fit the
-concept to the overall style and themes of the game.
-Similarly, the Game
-Master approves any resources the team might have.
-If the players want
-their heroes to have an orbiting satellite headquarters, but the GM
-decides such things are not available in the setting, then they have to
-come up with a more modest proposal for a place for their heroes to hang
+Just as with hero creation, the GM approves the origin and aspects of a hero team, and may ask the players to make modifications to fit the concept to the overall style and themes of the game.
+Similarly, the Game Master approves any resources the team might have.
+If the players want their heroes to have an orbiting satellite headquarters, but the GM decides such things are not available in the setting, then they have to come up with a more modest proposal for a place for their heroes to hang
 their capes.
 
-There are additional notes and guidelines on Team Creation in the Game
-Master's section.
+There are additional notes and guidelines on Team Creation in the Game Master's section.

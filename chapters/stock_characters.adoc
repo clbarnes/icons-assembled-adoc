@@ -2,8 +2,7 @@
 
 Icons Game Masters can create villains and other characters to populate their adventures as they see fit.
 To make things a bit easier, this section presents various "stock" character types, ones that appear in a lot of superhero comics.
-You can use their traits as-is, just filling in the descriptive details, or modify them to suit the needs of your
-adventure.
+You can use their traits as-is, just filling in the descriptive details, or modify them to suit the needs of your adventure.
 
 Some stock characters, particularly villainous henchmen, can use the minions option for damage (see the Damage section for details).
 In this case, ignore their listed Stamina value; any successful attack against them renders them unconscious.
