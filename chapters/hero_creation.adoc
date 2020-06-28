@@ -1,32 +1,19 @@
 = Hero creation
-Creating a hero in Icons is a simple matter of rolling on the tables in
-this section to determine the hero's origin, abilities, specialties, and
-powers.
-Give your new hero a name, description, and background and
-you’re ready to play!
+Creating a hero in Icons is a simple matter of rolling on the tables in this section to determine the hero's origin, abilities, specialties, and powers.
+Give your new hero a name, description, and background and you’re ready to play!
 Just follow these phases of design:
 
-.
-Origin
-.
-Ability Determination
-.
-Power Determination
-.
-Specialty Determination
-.
-Stamina, Background, and Description
-.
-Aspects (Qualities and Challenges)
-.
-Game Master Approval
+. Origin
+. Ability Determination
+. Power Determination
+. Specialty Determination
+. Stamina, Background, and Description
+. Aspects (Qualities and Challenges)
+. Game Master Approval
 
 == Dice
 
-The die rolls called for in this section are either "2d6" which means
-roll two six-sided dice and add them together (rather than subtracting
-one die from the other) or "d6 and d6" which means to roll one die to
-choose a sub-table, then another die to get a result on that sub-table.
+The die rolls called for in this section are either "2d6" which means roll two six-sided dice and add them together (rather than subtracting one die from the other) or "d6 and d6" which means to roll one die to choose a sub-table, then another die to get a result on that sub-table.
 
 [[phase_1_origin]]
 == Phase 1: Origin
@@ -38,62 +25,42 @@ Roll once on the following table:
 |===
 |2d6 Roll |Origin
 
-|2-4 |Trained: The hero is a highly skilled human; any "powers" actually
-come from superior training or specialized equipment.
-The character
-gains three bonus specialties, but two fewer powers (and may have no
-powers at all).
+|2-4 |Trained: The hero is a highly skilled human; any "powers" actually come from superior training or specialized equipment.
+The character gains three bonus specialties, but two fewer powers (and may have no powers at all).
 
-|5-6 |Transformed: The hero was a normal human but became superhuman
-through some outside agency, often an accident or experiment.
-One of the
-character's abilities or powers (your choice) is increased by +2.
+|5-6 |Transformed: The hero was a normal human but became superhuman through some outside agency, often an accident or experiment.
+One of the character's abilities or powers (your choice) is increased by +2.
 
-|7 |Birthright: The hero was born with or destined to develop superhuman
-powers.
-The character gains your choice of one additional power, which
-should be innate, and not a device, or +2 to a rolled power level.
+|7 |Birthright: The hero was born with or destined to develop superhuman powers.
+The character gains your choice of one additional power, which should be innate, and not a device, or +2 to a rolled power level.
 
-|8-9 |Gimmick: The character's powers all come from devices of some
-kind.
-One of the character's mental abilities (your choice) is increased
-by +2.
+|8-9 |Gimmick: The character's powers all come from devices of some kind.
+One of the character's mental abilities (your choice) is increased by +2.
 
-|10 |Artificial: The character is a robot or perhaps some other kind of
-construct, such as a golem.
-The character's Strength is increased by +2
-and you may choose Life Support as a bonus power.
+|10 |Artificial: The character is a robot or perhaps some other kind of construct, such as a golem.
+The character's Strength is increased by +2 and you may choose Life Support as a bonus power.
 
-|11-12 |Unearthly: The character is a being from another world or
-dimension such as an alien, elemental, angel, devil, or even deity.
+|11-12 |Unearthly: The character is a being from another world or dimension such as an alien, elemental, angel, devil, or even deity.
 Increase two of the character's abilities (your choice) by +2.
-The
-character has one fewer power but a minimum of one power.
-Alternately,
-roll twice on this table, ignoring duplicates and results of 11-12.
-The
-character gets the effects of both origins.
-Apply the modifiers of the
-rolled origins rather than the Unearthly modifiers.
+The character has one fewer power but a minimum of one power.
+Alternately, roll twice on this table, ignoring duplicates and results of 11-12.
+The character gets the effects of both origins.
+Apply the modifiers of the rolled origins rather than the Unearthly modifiers.
 |===
 
 .Option: Skip Origin
 ****
-Optionally, you can skip over the Origin phase and simply create the
-hero "straight" using phases 2 onward, without any modifiers from
-origin, filling in the origin of the hero's powers as part of the
-background.
-Your hero gets none of the benefits or drawbacks of having
-an origin.
+Optionally, you can skip over the Origin phase and simply create the hero "straight" using phases 2 onward, without any modifiers from origin, filling in the origin of the hero's powers as part of the background.
+Your hero gets none of the benefits or drawbacks of having an origin.
 Get the Game Master's permission before you do this.
 ****
 
 [[level_determination]]
 === Level Determination
 
-Roll on the following tables to determine levels for abilities and
-powers when called to do so:
+Roll on the following tables to determine levels for abilities and powers when called to do so:
 
+.Level determination table
 [cols=",",options="header,autowidth",]
 |===
 |2d6 Roll |Level
@@ -110,25 +77,18 @@ powers when called to do so:
 [[phase_2_abilities]]
 == Phase 2: Abilities
 
-Roll once on the Level Determination table for each ability and record
-the resulting level for it.
-If your hero's total ability levels (after
-adjustments for origin) are less than 20, you can choose to discard the
-hero and start over.
+Roll once on the Level Determination table for each ability and record the resulting level for it.
+If your hero's total ability levels (after adjustments for origin) are less than 20, you can choose to discard the hero and start over.
 
-You can also choose to swap any two ability levels after you have
-determined them.
-For example, if you roll a Strength of 3 and an
-Awareness of 7 and you really want your hero to be strong rather than
-quick on the uptake, you can choose to swap those two abilities, making
-Strength 7 and Awareness 3.
+You can also choose to swap any two ability levels after you have determined them.
+For example, if you roll a Strength of 3 and an Awareness of 7 and you really want your hero to be strong rather than quick on the uptake, you can choose to swap those two abilities, making Strength 7 and Awareness 3.
 
 [[phase_3_powers]]
 == Phase 3: Powers
 
-To determine the number of powers a hero possesses, roll on the
-following table:
+To determine the number of powers a hero possesses, roll on the following table:
 
+.Power number determination table
 [cols=",",options="header,autowidth",]
 |===
 |Roll |Number of Powers
@@ -138,30 +98,21 @@ following table:
 |11-12 |5
 |===
 
-Once you've determined the number of powers, roll for each power on the
-following tables to determine the character's specific powers.
-Roll on
-the Level Determination table for the power's level
+Once you've determined the number of powers, roll for each power on the following tables to determine the character's specific powers.
+Roll on the Level Determination table for the power's level
 
-If you roll more than one of the same type of power (such as movement,
-offensive, etc.) you may choose to re-roll to select a different type.
+If you roll more than one of the same type of power (such as movement, offensive, etc.) you may choose to re-roll to select a different type.
 
-If you roll the same power twice you may elect to either increase the
-power's rolled level by 2 (with a maximum of 10) or roll again to select
-another power.
+If you roll the same power twice you may elect to either increase the power's rolled level by 2 (with a maximum of 10) or roll again to select another power.
 
 Some power descriptions offer a choice of bonus powers.
-This means if
-you have that power you can select another power to fill one of your
-power slots without rolling.
-For example, if you have Elemental Control,
-you can choose to have a Blast of the same element as one of your other
-powers without having to roll on the tables to select it.
-You can
-replace a rolled power with a bonus power, if you wish.
+This means if you have that power you can select another power to fill one of your power slots without rolling.
+For example, if you have Elemental Control, you can choose to have a Blast of the same element as one of your other powers without having to roll on the tables to select it.
+You can replace a rolled power with a bonus power, if you wish.
 
 First roll to determine the power's type:
 
+.Power type determination table
 [cols=",",options="header,autowidth",]
 |===
 |2d6 Roll |Power Type
@@ -175,122 +126,159 @@ First roll to determine the power's type:
 |===
 
 Then roll on the appropriate table to determine the exact power.
-A power
-listed with a bullet (•) counts as two power choices.
-If you only have
-one power choice left, roll again.
+A power listed with a bullet (•) counts as two power choices.
+If you only have one power choice left, roll again.
 
+.Alteration powers table
 [cols=",,",options="header,autowidth",]
 |===
 |d6 |d6 |Alteration Powers
-|1-2 |1 |Ability Boost
-| |2 |Ability Increase
-| |3 |Alter-Ego
-| |4 |Alternate Form
-| |5 |Aquatic
-| |6 |Chameleon
-|3-4 |1 |Density
-| |2 |Duplication•
-| |3 |Extra Body Parts
-| |4 |Growth
-| |5 |Invisibility
-| |6 |Phasing
-|5-6 |1 |Material Duplication•
-| |2 |Power Duplication •
-| |3 |Power Theft •
-| |4 |Transformation •
-| |5 |Shrinking
-| |6 |Stretching
+
+.6+|1-2
+|1 |Ability Boost
+|2 |Ability Increase
+|3 |Alter-Ego
+|4 |Alternate Form
+|5 |Aquatic
+|6 |Chameleon
+
+.6+|3-4
+|1 |Density
+|2 |Duplication•
+|3 |Extra Body Parts
+|4 |Growth
+|5 |Invisibility
+|6 |Phasing
+
+.6+|5-6
+|1 |Material Duplication•
+|2 |Power Duplication •
+|3 |Power Theft •
+|4 |Transformation •
+|5 |Shrinking
+|6 |Stretching
 |===
 
+.Control powers table
 [cols=",,",options="header,autowidth",]
 |===
 |d6 |d6 |Control Powers
-|1-2 |1-4 |Elemental Control
-| |5-6 |Alteration Ray
-|3-4 |1-3 |Telekinesis
-| |4 |Animation
-| |5 |Plant Control
-| |6 |Probability Control •
-|5-6 |1 |Healing
-| |2 |Power Nullification
-| |3 |Time Control •
-| |4 |Transmutation •
-| |5-6 |Wizardry•
+
+.2+|1-2
+|1-4 |Elemental Control
+|5-6 |Alteration Ray
+
+.4+|3-4
+|1-3 |Telekinesis
+|4 |Animation
+|5 |Plant Control
+|6 |Probability Control •
+
+.5+|5-6
+|1 |Healing
+|2 |Power Nullification
+|3 |Time Control •
+|4 |Transmutation •
+|5-6 |Wizardry•
 |===
 
+.Defensive powers table
 [cols=",,",options="header,autowidth",]
 |===
 |d6 |d6 |Defensive Powers
-|1-2 |1-3 |Force Field
-| |4-6 |Invulnerability
-|3-4 |1 |Absorption
-| |2 |Immortality •
-| |3-4 |Immunity •
-| |5-6 |Reflection •
-|5-6 |1-2 |Life Support
-| |3-4 |Regeneration
-| |5-6 |Resistance
+
+.2+|1-2
+|1-3 |Force Field
+|4-6 |Invulnerability
+
+.4+|3-4
+|1 |Absorption
+|2 |Immortality •
+|3-4 |Immunity •
+|5-6 |Reflection •
+
+.3+|5-6
+|1-2 |Life Support
+|3-4 |Regeneration
+|5-6 |Resistance
 |===
 
+.Mental powers table
 [cols=",,",options="header,autowidth",]
 |===
 |d6 |d6 |Mental Powers
-|1-3 |1 |Astral Projection•
-| |2-3 |Illusion
-| |4 |Mental Blast
-| |5-6 |Telepathy
-|4-6 |1 |Animal Control
-| |2 |Emotion Control
-| |3 |Mind Control •
-| |4-5 |Mind Shield
-| |6 |Possession •
+
+.4+|1-3
+|1 |Astral Projection•
+|2-3 |Illusion
+|4 |Mental Blast
+|5-6 |Telepathy
+
+.5+|4-6
+|1 |Animal Control
+|2 |Emotion Control
+|3 |Mind Control •
+|4-5 |Mind Shield
+|6 |Possession •
 |===
 
+.Movement powers table
 [cols=",,",options="header,autowidth",]
 |===
 |d6 |d6 |Movement Powers
-|1-4 |1-2 |Flight
-| |3-4 |Super-Speed
-| |5 |Swinging
-| |6 |Teleportation •
-|5-6 |1 |Burrowing
-| |2 |Dimension Travel
-| |3-4 |Leaping
-| |5-6 |Wall-Crawling
+
+.4+|1-4
+|1-2 |Flight
+|3-4 |Super-Speed
+|5 |Swinging
+|6 |Teleportation •
+
+.4+|5-6
+|1 |Burrowing
+|2 |Dimension Travel
+|3-4 |Leaping
+|5-6 |Wall-Crawling
 |===
 
+.Offsensive powers
 [cols=",,",options="header,autowidth",]
 |===
 |d6 |d6 |Offensive Powers
-|1-3 |1 |Affliction
-| |2 |Binding
-| |3-4 |Blast
-| |5-6 |Strike
-|4-6 |1 |Aura
-| |2-3 |Blinding
-| |4 |Fast Attack
-| |5 |Life Drain
-| |6 |Paralysis
+
+.4+|1-3
+|1 |Affliction
+|2 |Binding
+|3-4 |Blast
+|5-6 |Strike
+
+.5+|4-6
+|1 |Aura
+|2-3 |Blinding
+|4 |Fast Attack
+|5 |Life Drain
+|6 |Paralysis
 |===
 
 [cols=",,",options="header,autowidth",]
 |===
 |d6 |d6 |Sensory Powers
-|1-3 |1-2 |Detection
-| |3 |ESP
-| |4-6 |Supersenses
-|4-6 |1-2 |Danger Sense
-| |3 |Interface
-| |4 |Postcognition
-| |5-6 |Precognition
+
+.3+|1-3
+|1-2 |Detection
+|3 |ESP
+|4-6 |Supersenses
+
+.4+|4-6
+|1-2 |Danger Sense
+|3 |Interface
+|4 |Postcognition
+|5-6 |Precognition
 |===
 
 [[phase_4_specialties]]
 == Phase 4: Specialties
 
-To determine the number of specialties your hero has, roll on the
-following table:
+To determine the number of specialties your hero has, roll on the following table:
 
 [cols=",",options="header,autowidth",]
 |===
@@ -301,76 +289,48 @@ following table:
 |11-12 |4
 |===
 
-Select specialties from among those described in the Specialties section
-of the rules as you see fit.
+Select specialties from among those described in the Specialties section of the rules as you see fit.
 
 [[phase_5_stamina_background]]
 == Phase 5: Stamina & Background
 
-In this phase you determine your hero's Stamina and "fill-in-the-blanks"
-to determine background, description, and so forth.
+In this phase you determine your hero's Stamina and "fill-in-the-blanks" to determine background, description, and so forth.
 
 === Stamina
 
-Add your hero's Strength level and Willpower level together and record
-the result as starting Stamina value.
+Add your hero's Strength level and Willpower level together and record the result as starting Stamina value.
 
 === Background
 
-After determining your hero's abilities, come up with a background and
-description of what your hero is like.
-In particular, consider the
-hero's place of origin, childhood, and ethnic background.
-How did the
-hero acquire superhuman powers, and how do elements of the hero's
-background provide motivations and challenges for the hero in the
-present?
-Look to incorporate these things into your hero's aspects (see
-*Phase 6*).
+After determining your hero's abilities, come up with a background and description of what your hero is like.
+In particular, consider the hero's place of origin, childhood, and ethnic background.
+How did the hero acquire superhuman powers, and how do elements of the hero's background provide motivations and challenges for the hero in the present?
+Look to incorporate these things into your hero's aspects (see *Phase 6*).
 
 === Description
 
 What does your hero look like?
-Consider the hero's physique, costume,
-build, hair color and style, mannerisms, and other distinguishing
-physical features.
-If you're artistically inclined, you might want to
-draw a picture of your hero to better help other players imagine what
-the character looks like.
-Perhaps you can use or modify an existing
-picture as a basis for your hero's appearance.
+Consider the hero's physique, costume, build, hair color and style, mannerisms, and other distinguishing physical features.
+If you're artistically inclined, you might want to draw a picture of your hero to better help other players imagine what the character looks like.
+Perhaps you can use or modify an existing picture as a basis for your hero's appearance.
 
 [[phase_6_determination]]
 == Phase 6: Determination
 
-Subtract the hero's number of powers from 6 to get the hero's starting
-Determination, with a minimum value of 1, keeping in mind each ability
-above level 6 counts as a power and some powers count double.
+Subtract the hero's number of powers from 6 to get the hero's starting Determination, with a minimum value of 1, keeping in mind each ability above level 6 counts as a power and some powers count double.
 
-Give some thought to the different aspects of your character: important
-qualities and the various challenges your hero faces.
-Aspects influence
-how you use Determination in the game and, since overcoming challenges
-is the mark of a true hero, they are the way you earn more Determination
-in the game.
-Aspects are described in more detail in the Determination
-section.
+Give some thought to the different aspects of your character: important qualities and the various challenges your hero faces.
+Aspects influence how you use Determination in the game and, since overcoming challenges is the mark of a true hero, they are the way you earn more Determination in the game.
+Aspects are described in more detail in the Determination section.
 
-Choose at least one and up to five qualities and up to five challenges
-for your hero.
-You are not required to choose any challenges, but they
-are a key means of earning more Determination, so you should consider
-some.
+Choose at least one and up to five qualities and up to five challenges for your hero.
+You are not required to choose any challenges, but they are a key means of earning more Determination, so you should consider some.
 
 [[phase_7_game_master_approval]]
 == Phase 7: Game Master Approval
 
-Once you've completed your hero, show a copy to your Game Master for
-approval.
-The GM may approve your character on-the-spot, ask for some
-changes or revisions to help the hero better fit into the overall
-series, or even ask you to rework the character entirely, although most
-Game Masters will not do so without a good reason.
+Once you've completed your hero, show a copy to your Game Master for approval.
+The GM may approve your character on-the-spot, ask for some changes or revisions to help the hero better fit into the overall series, or even ask you to rework the character entirely, although most Game Masters will not do so without a good reason.
 
 [[example_the_secret_origin_of_saguaro]]
 == Example: The Secret Origin of Saguaro!
