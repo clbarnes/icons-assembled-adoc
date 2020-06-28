@@ -603,9 +603,10 @@ new adventure, it is as simple as 1...
 2...
 3!
 
+:!sectnums:
+
 [[create_a_villain]]
-=== 1.
-Create a Villain
+=== 1. Create a Villain
 
 Using the same guidelines given for creating heroes, create one or more
 villains for your adventure.
@@ -623,58 +624,69 @@ Be sure to give your villain some aspects, particularly things the
 players can figure out and tag!
 
 [[choose_a_plot]]
-=== 2.
-Choose a Plot
+=== 2. Choose a Plot
 
 Roll on the following tables or just choose a suitable plot for your
 villain.
 
-[cols="",options="header",]
+.Plot element 1
+[cols="",options="header,autowidth",]
 |===
-|Plot Element 1
-|d6
-|1-2
-|
-|
-|
-|
-|
-|3-4
-|
-|
-|
-|
-|
-|5-6
-|
-|
-|
-|
-|
+|d6 |d6 |Element
+
+.6+|1-2
+|1 |Attack
+|2 |Steal
+|3 |Manipulate
+|4 |Murder
+|5 |Control
+|6 |Destroy
+
+.6+|3-4
+|1 |Create
+|2 |Infiltrate
+|3 |Ransom
+|4 |Rob
+|5 |Extort
+|6 |Seize
+
+.6+|5-6
+|1 |Escape
+|2 |Conquer
+|3 |Study
+|4 |Possess
+|5 |Eliminate
+|6 |Capture
 |===
 
-[cols="",options="header",]
+.Plot element 2
+[cols="",options="header,autowidth",]
 |===
-|Plot Element 2
-|d6
-|1-2
-|
-|
-|
-|
-|
-|3-4
-|
-|
-|
-|
-|
-|5-6
-|
-|
-|
-|
-|
+|d6 |d6 | Element
+
+.6+|1-2
+|1 |Rival
+|2 |Creature
+|3 |Country
+|4 |People
+|5 |City
+|6 |Object
+
+.6+|3-4
+|1 |Artifact
+|2 |World
+|3 |Hero (or Team)
+|4 |Treasure
+|5 |Loved One
+|6 |Wealth
+
+.6+|5-6
+|1 |Power
+|2 |Celebrity
+|3 |Head of State
+|4 |Invention
+|5 |Resource
+|6 |Enemy
 |===
 
 Take the combination of terms as inspiration for the villain's plot.
@@ -711,8 +723,7 @@ come up with for your next adventure, who's to say when you might want
 to use it somewhere down the line?
 
 [[add_complications]]
-=== 3.
-Add Complications
+=== 3. Add Complications
 
 Kick things off by giving the heroes a threat, as described in the
 Adventure Structure section, and then use the heroes' and villains'
@@ -728,6 +739,8 @@ heroes and award the players Determination they can use to help their
 characters prevail in the end!
 
 Put it all together, and you're ready to go!
+
+:sectnums:
 
 [[managing_determination]]
 == Managing Determination
