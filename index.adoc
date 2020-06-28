@@ -5,7 +5,7 @@
 
 :leveloffset: +1
 
-include::chapters/credits.adoc[]
+include::credits.adoc[]
 
 include::chapters/introduction.adoc[]
 
