@@ -1,6 +1,6 @@
-= icons-adoc
+= icons-assembled-adoc
 
-An https://asciidoctor.org/[asciidoctor] rendition of the https://en.wikipedia.org/wiki/Open_Game_License[Open Game Content] of https://stevekenson.com/icons/[ICONS: Superpowered Roleplaying], by https://stevekenson.com/[Steve Kenson].
+An https://asciidoctor.org/[asciidoctor] rendition of the https://en.wikipedia.org/wiki/Open_Game_License[Open Game Content] of https://stevekenson.com/icons/[ICONS: Superpowered Roleplaying _The Assembled Edition_], by https://stevekenson.com/[Steve Kenson].
 
 == Usage
 
@@ -10,5 +10,11 @@ Requires https://docs.docker.com/get-docker/[docker].
 
 == History
 
-The content included here was originally adapted from http://ogc.rpglibrary.org/index.php?title=Icons[the RPGlibrary wiki].
+The content included here was forked from https://github.com/open-ttrpg-library/icons-adoc[the base ICONS repo], which was originally adapted from http://ogc.rpglibrary.org/index.php?title=Icons[the RPGlibrary wiki]; __Assembled__'s updates will be added from the rule book as time goes on.
+
 It is a work in progress, with the goal to have a faithful, beautiful, and forkable base from which the ICONS ecosystem can continue to grow.
+
+== Support the authors
+
+ICONS is a great game with a https://www.drivethrurpg.com/product/131765/ICONS-Superpowered-Roleplaying-The-Assembled-Edition[well-presented rule book] and a https://www.drivethrurpg.com/browse/pub/4166/Ad-Infinitum-Adventures[large library of ready-made adventures], which I encourage you to buy.
+
